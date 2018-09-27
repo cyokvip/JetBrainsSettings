@@ -1,0 +1,400 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" timestamp="1535696133386">
+        <mark key="'" line="78" column="62" />
+        <mark key="[" line="162" column="24" />
+        <mark key="]" line="162" column="24" />
+        <mark key="." line="162" column="24" />
+        <mark key="^" line="162" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassExperienceRuleController.php" timestamp="1535012764807">
+        <mark key="[" line="42" column="110" />
+        <mark key="]" line="42" column="110" />
+        <mark key="." line="42" column="110" />
+        <mark key="^" line="42" column="108" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/code/platform/app/Providers/EventServiceProvider.php" timestamp="1534408780854">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="35" />
+        <mark key="^" line="18" column="35" />
+        <mark key="." line="18" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/AuthController.php" timestamp="1537423991048">
+        <mark key="[" line="34" column="31" />
+        <mark key="]" line="35" column="15" />
+        <mark key="^" line="35" column="15" />
+        <mark key="." line="35" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/code/platform/app/Listeners/Add.php" timestamp="1534408832035">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="28" column="23" />
+        <mark key="^" line="28" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/HomeController.php" timestamp="1535341161491">
+        <mark key="[" line="19" column="22" />
+        <mark key="]" line="20" column="18" />
+        <mark key="^" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/ManageTrainingClassExperienceRule.php" timestamp="1535010801279">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="58" />
+        <mark key="^" line="8" column="58" />
+        <mark key="." line="8" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/code/platform/app/Exports/UserExport.php" timestamp="1534229420510">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" timestamp="1535698306456">
+        <mark key="'" line="200" column="48" />
+        <mark key="[" line="87" column="27" />
+        <mark key="]" line="87" column="28" />
+        <mark key="^" line="87" column="28" />
+        <mark key="." line="87" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/code/platform/app/Models/Medal.php" timestamp="1534408846429">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/ManageTrainingClassExperience.php" timestamp="1535010076987">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/code/platform/app/Models/Course.php" timestamp="1534225049870">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="17" column="1" />
+        <mark key="." line="17" column="1" />
+        <mark key="^" line="17" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/TrainingClassExperienceRuleService.php" timestamp="1535012820978">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="79" column="18" />
+        <mark key="." line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Medal.php" timestamp="1535507594915">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="44" />
+        <mark key="^" line="9" column="44" />
+        <mark key="." line="9" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/AppBanner.php" timestamp="1534845534429">
+        <mark key="[" line="15" column="46" />
+        <mark key="]" line="15" column="15" />
+        <mark key="^" line="15" column="15" />
+        <mark key="." line="15" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AuthController.php" timestamp="1535698553399">
+        <mark key="'" line="81" column="40" />
+        <mark key="[" line="273" column="33" />
+        <mark key="]" line="273" column="33" />
+        <mark key="^" line="273" column="33" />
+        <mark key="." line="273" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonMedal.php" timestamp="1535508304333">
+        <mark key="[" line="52" column="43" />
+        <mark key="]" line="52" column="51" />
+        <mark key="." line="52" column="51" />
+        <mark key="^" line="52" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Middleware/VerifyCsrfToken.php" timestamp="1535942366041">
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="24" column="22" />
+        <mark key="^" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1537955493916">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PayController.php" timestamp="1537955206404">
+        <mark key="'" line="42" column="6" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="^" line="92" column="19" />
+        <mark key="." line="147" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" timestamp="1536129236849">
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" timestamp="1536718095858">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/.env" timestamp="1534988294381">
+        <mark key="[" line="60" column="22" />
+        <mark key="]" line="60" column="22" />
+        <mark key="^" line="60" column="21" />
+        <mark key="." line="60" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/PersonController.php" timestamp="1536657809138">
+        <mark key="[" line="220" column="135" />
+        <mark key="]" line="220" column="134" />
+        <mark key="." line="220" column="134" />
+        <mark key="^" line="220" column="134" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTaskController.php" timestamp="1535341330194">
+        <mark key="'" line="37" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/MedalRule.php" timestamp="1535507619043">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Company.php" timestamp="1536129151918">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="54" column="34" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Libraries/IAuth.php" timestamp="1537147009500">
+        <mark key="'" line="26" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/code/platform/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1534408238877">
+        <mark key="'" line="786" column="73" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php" timestamp="1534989950849">
+        <mark key="'" line="56" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TeacherController.php" timestamp="1535679175126">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="81" column="33" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1538010028286">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="12" />
+        <mark key="^" line="19" column="68" />
+        <mark key="." line="19" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/manage.php" timestamp="1536129411442">
+        <mark key="'" line="36" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" timestamp="1535697173631">
+        <mark key="'" line="19" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/RechargeOrder.php" timestamp="1537955446217">
+        <mark key="'" line="52" column="87" />
+        <mark key="[" line="66" column="49" />
+        <mark key="]" line="66" column="49" />
+        <mark key="^" line="64" column="41" />
+        <mark key="." line="66" column="49" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="84" column="34" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherController.php" />
+      <jump line="90" column="74" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherController.php" />
+      <jump line="94" column="51" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherController.php" />
+      <jump line="100" column="87" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherController.php" />
+      <jump line="104" column="52" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherController.php" />
+      <jump line="42" column="13" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherController.php" />
+      <jump line="61" column="22" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherController.php" />
+      <jump line="62" column="47" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherController.php" />
+      <jump line="78" column="22" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherController.php" />
+      <jump line="82" column="17" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherController.php" />
+      <jump line="83" column="49" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/App/SearchController.php" />
+      <jump line="49" column="37" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/App/SearchController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/App/TeacherController.php" />
+      <jump line="436" column="5" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/Manage/CourseActivityController.php" />
+      <jump line="39" column="15" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/Manage/ManageController.php" />
+      <jump line="47" column="17" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherController.php" />
+      <jump line="57" column="13" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/Manage/PersonAuthorizationRecordController.php" />
+      <jump line="38" column="11" filename="$USER_HOME$/Documents/dev/www/code/platform/app/Http/Controllers/Api/App/AuthController.php" />
+      <jump line="17" column="15" filename="$USER_HOME$/Documents/dev/www/code/platform/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/code/platform/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="105" column="11" filename="$USER_HOME$/Documents/dev/www/code/platform/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="530" column="27" filename="$USER_HOME$/Documents/dev/www/code/platform/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="607" column="27" filename="$USER_HOME$/Documents/dev/www/code/platform/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="621" column="77" filename="$USER_HOME$/Documents/dev/www/code/platform/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="701" column="23" filename="$USER_HOME$/Documents/dev/www/code/platform/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="702" column="22" filename="$USER_HOME$/Documents/dev/www/code/platform/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="742" column="51" filename="$USER_HOME$/Documents/dev/www/code/platform/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="770" column="60" filename="$USER_HOME$/Documents/dev/www/code/platform/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="786" column="73" filename="$USER_HOME$/Documents/dev/www/code/platform/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonMedal.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonMedal.php" />
+      <jump line="7" column="30" filename="$USER_HOME$/Documents/dev/www/platform/config/services.php" />
+      <jump line="19" column="6" filename="$USER_HOME$/Documents/dev/www/platform/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php" />
+      <jump line="77" column="14" filename="$USER_HOME$/Documents/dev/www/platform/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php" />
+      <jump line="81" column="14" filename="$USER_HOME$/Documents/dev/www/platform/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php" />
+      <jump line="56" column="14" filename="$USER_HOME$/Documents/dev/www/platform/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php" />
+      <jump line="26" column="4" filename="$USER_HOME$/Documents/dev/www/platform/app/Libraries/IAuth.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassDiggController.php" />
+      <jump line="31" column="99" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassDiggController.php" />
+      <jump line="37" column="29" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassDiggController.php" />
+      <jump line="34" column="38" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassDiggController.php" />
+      <jump line="30" column="110" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassDiggController.php" />
+      <jump line="36" column="42" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassDiggController.php" />
+      <jump line="44" column="110" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassDiggController.php" />
+      <jump line="28" column="45" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassDiggController.php" />
+      <jump line="6" column="6" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassTask.php" />
+      <jump line="37" column="32" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTaskController.php" />
+      <jump line="219" column="34" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="470" column="35" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="508" column="46" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="20" column="23" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="14" column="15" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="27" column="23" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="66" column="6" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Pay.php" />
+      <jump line="131" column="24" filename="$USER_HOME$/Documents/dev/www/platform/vendor/yansongda/pay/src/Gateways/Wechat.php" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PayController.php" />
+      <jump line="137" column="9" filename="$USER_HOME$/Documents/dev/www/platform/vendor/yansongda/pay/src/Gateways/Wechat.php" />
+      <jump line="243" column="44" filename="$USER_HOME$/Documents/dev/www/platform/vendor/yansongda/pay/src/Gateways/Wechat.php" />
+      <jump line="134" column="4" filename="$USER_HOME$/Documents/dev/www/platform/vendor/yansongda/pay/src/Gateways/Wechat.php" />
+      <jump line="217" column="39" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="254" column="8" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="317" column="20" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
+      <jump line="70" column="39" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="71" column="14" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="79" column="14" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="184" column="12" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="139" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
+      <jump line="172" column="20" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
+      <jump line="72" column="24" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
+      <jump line="77" column="28" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
+      <jump line="78" column="62" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
+      <jump line="19" column="12" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" />
+      <jump line="214" column="0" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" />
+      <jump line="76" column="7" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" />
+      <jump line="19" column="49" filename="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" />
+      <jump line="81" column="40" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AuthController.php" />
+      <jump line="191" column="33" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="197" column="48" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" />
+      <jump line="640" column="48" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="31" column="39" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" />
+      <jump line="143" column="9" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" />
+      <jump line="198" column="9" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" />
+      <jump line="45" column="22" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" />
+      <jump line="205" column="11" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" />
+      <jump line="199" column="51" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/manage.php" />
+      <jump line="32" column="24" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/manage.php" />
+      <jump line="33" column="24" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/manage.php" />
+      <jump line="34" column="25" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/manage.php" />
+      <jump line="35" column="24" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/manage.php" />
+      <jump line="36" column="24" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/manage.php" />
+      <jump line="46" column="10" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" />
+      <jump line="69" column="53" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" />
+      <jump line="42" column="6" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PayController.php" />
+      <jump line="52" column="87" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/RechargeOrder.php" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>/</text>
+      </register>
+      <register name="-" type="4">
+        <text>/</text>
+      </register>
+      <register name="/" type="4">
+        <text>group</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFJvdXRlOjpwb3N0KCcvbWFuYWdlL2NvbXBhbnkvc3RhdHVzJywgJ0NvbXBhbnlDb250cm9sbGVyQHN0YXR1cycpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgLyoKICAgICAgICAgICAgICAgICAgICBpZiAoJHBheV90eXBlID09IFJlY2hhcmdlT3JkZXI6OlBBWV9UWVBFX1dFQ0hBVCkgewogICAgICAgICAgICAgICAgICAgICAgICAkbm90aWZ5VXJsID0gJHRoaXMtPndlY2hhdF9ub3RpZnlfdXJsOyAgICAgLy/ku5jmrL7miJDlip/lkI7nmoTlm57osIPlnLDlnYAo5LiN6KaB5pyJ6Zeu5Y+3KQogICAgICAgICAgICAgICAgICAgICAgICAkd2FwVXJsID0gJ3BsYXRmb3JtLnZweC5jb20uY24nOyAgIC8vV0FQ572R56uZVVJM5Zyw5Z2ACiAgICAgICAgICAgICAgICAgICAgICAgICR3YXBOYW1lID0gJ+S6q+Wtpic7ICAgICAgIC8vV0FQIOe9keermeWQjQoKICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPnd4UGF5LT5zZXRUb3RhbEZlZSgkbW9uZXkpOy8v5Lu35qC8CiAgICAgICAgICAgICAgICAgICAgICAgICR0aGlzLT53eFBheS0+c2V0T3V0VHJhZGVObygkb3JkZXJfbnVtYmVyKTsvL+iuouWNleWPtwogICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+d3hQYXktPnNldE9yZGVyTmFtZSgkc2hvcF9uYW1lKTsKICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPnd4UGF5LT5zZXROb3RpZnlVcmwoJG5vdGlmeVVybCk7CiAgICAgICAgICAgICAgICAgICAgICAgICR0aGlzLT53eFBheS0+c2V0V2FwVXJsKCR3YXBVcmwpOwogICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+d3hQYXktPnNldFdhcE5hbWUoJHdhcE5hbWUpOwoKICAgICAgICAgICAgICAgICAgICAgICAgLy93ZWLmlK/ku5gKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCRvcmRlcl9jaGFubmVsIDw+IFJlY2hhcmdlT3JkZXI6Ok9SREVSX0NIQU5ORUxfQU5EUk9JRCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPnd4UGF5LT5zZXRUcmFkZVR5cGUoJ01XRUInKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICR1bmlmaWVkT3JkZXIgPSAkdGhpcy0+d3hQYXktPmNyZWF0ZUpzQml6UGFja2FnZSgkbW9uZXksICRvcmRlcl9udW1iZXIsICRzaG9wX25hbWUsICRub3RpZnlVcmwpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHVybCA9ICR0aGlzLT53eFBheS0+Z2V0TXdlYlVybCgpOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChlbXB0eSgkd2VjaGF0X3JldHVybl91cmwpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHVybCA9ICR1cmwtPl9fdG9TdHJpbmcoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHVybCA9ICR1cmwtPl9fdG9TdHJpbmcoKSAuICcmcmVkaXJlY3RfdXJsPScgLiB1cmxlbmNvZGUoJHdlY2hhdF9yZXR1cm5fdXJsKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJlZGlzOjpzZXRleCgnd3hwYXlfJy4kdGhpcy0+cGVyc29uX2lkLDM2MDAqMjQqMSwkdXJsKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZVN1Y2Nlc3MoJG9yZGVyX251bWJlcik7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkYXJyID0gYXJyYXkoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0aGlzLT53eFBheS0+c2V0VHJhZGVUeXBlKCdBUFAnKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICR1bmlmaWVkT3JkZXIgPSAkdGhpcy0+d3hQYXktPmNyZWF0ZUpzQml6UGFja2FnZSgkbW9uZXksICRvcmRlcl9udW1iZXIsICRzaG9wX25hbWUsICRub3RpZnlVcmwpOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRuZXdfYXJyID0gYXJyYXkoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRuZXdfYXJyWydhcHBpZCddID0gJHVuaWZpZWRPcmRlci0+YXBwaWQtPl9fdG9TdHJpbmcoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRuZXdfYXJyWydwYXJ0bmVyaWQnXSA9ICR1bmlmaWVkT3JkZXItPmFwcGlkLT5fX3RvU3RyaW5nKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkbmV3X2FyclsncHJlcGF5aWQnXSA9ICR1bmlmaWVkT3JkZXItPnByZXBheV9pZC0+X190b1N0cmluZygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJG5ld19hcnJbJ3BhY2thZ2UnXSA9ICJTaWduPVdYUGF5IjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRuZXdfYXJyWydub25jZXN0ciddID0gJHVuaWZpZWRPcmRlci0+bm9uY2Vfc3RyLT5fX3RvU3RyaW5nKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkbmV3X2FyclsndGltZXN0YW1wJ10gPSB0aW1lKCk7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy/nrKzkuozmrKHnrb7lkI0g6LCD6LW35b6u5L+h5pSv5LuYCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkc2lnbjIgPSAkdGhpcy0+d3hQYXktPmNyZWF0ZUpzQml6UGFja2FnZTIoJG5ld19hcnIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJG5ld19hcnJbInNpZ24iXSA9ICRzaWduMjsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkYXJyWyd1bmlmaWVkX29yZGVyJ10gPSAkbmV3X2FycjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRhcnJbJ3RpbWVzdGFtcCddID0gdGltZSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlU3VjY2VzcygkYXJyKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0gZWxzZWlmICgkcGF5X3R5cGUgPT0gUmVjaGFyZ2VPcmRlcjo6UEFZX1RZUEVfQUlMSVBBWSkgewogICAgICAgICAgICAgICAgICAgICAgICAvL+aUr+S7mOWunSB3ZWIKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCRvcmRlcl9jaGFubmVsIDw+IFJlY2hhcmdlT3JkZXI6Ok9SREVSX0NIQU5ORUxfQU5EUk9JRCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHZhbGlkYXRvciA9IFZhbGlkYXRvcjo6bWFrZShJbnB1dDo6cG9zdCgpLCBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2FsaXBheV9yZXR1cm5fdXJsJyA9PiAncmVxdWlyZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgXSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoJHZhbGlkYXRvci0+ZmFpbHMoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZUVycm9yKENvZGVGYWNhZGU6OkZBSUwsICR2YWxpZGF0b3ItPmdldE1lc3NhZ2VCYWcoKS0+dG9BcnJheSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWVtcHR5KCRhbGlwYXlfcmV0dXJuX3VybCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+YWxpUGF5LT5zZXRSZXR1cm5VcmwoJGFsaXBheV9yZXR1cm5fdXJsKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0aGlzLT5hbGlQYXktPnNldE5vdGlmeVVybCgkdGhpcy0+YWxpcGF5X25vdGlmeV91cmwpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmFsaVBheS0+c2V0VG90YWxGZWUoJG1vbmV5KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0aGlzLT5hbGlQYXktPnNldE91dFRyYWRlTm8oJG9yZGVyX251bWJlcik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+YWxpUGF5LT5zZXRPcmRlck5hbWUoJHNob3BfbmFtZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+YWxpUGF5LT5kb1BheSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJGFsaXBheV9jb25maWdzID0gJHRoaXMtPmFsaVBheS0+Z2V0Q29tbW9uQ29uZmlncygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgUmVkaXM6OnNldGV4KCdhbGlwYXlfJy4kdGhpcy0+cGVyc29uX2lkLDM2MDAqMjQqMSxqc29uX2VuY29kZSgkYWxpcGF5X2NvbmZpZ3MpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZVN1Y2Nlc3MoJG9yZGVyX251bWJlcik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL3JldHVybiByZXNwb25zZVN1Y2Nlc3MoJGFsaXBheV9jb25maWdzKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRhbGlwYXlfYW5kcm9pZCA9IG5ldyBBbGlwYXlBbmRyb2lkOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJGFsaXBheV9hbmRyb2lkLT5zZXROb3RpZnlVcmwoJHRoaXMtPmFsaXBheV9ub3RpZnlfdXJsKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICR1cmwgPSAkYWxpcGF5X2FuZHJvaWQtPmdldF9vcmRlcl9zdHJpbmcoJG9yZGVyX251bWJlciwgJG1vbmV5LCAkc2hvcF9uYW1lKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZVN1Y2Nlc3MoWydhcHBfY29uZmlnJyA9PiAkdXJsXSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGVsc2VpZiAoJHBheV90eXBlID09IFJlY2hhcmdlT3JkZXI6OlBBWV9UWVBFX0FQUExFKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICRhcnIgPSBhcnJheSgpOwogICAgICAgICAgICAgICAgICAgICAgICAkYXJyWydvcmRlcl9udW1iZXInXSA9ICRvcmRlcl9udW1iZXI7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZVN1Y2Nlc3MoJGFycik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICov</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBkCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAvL+acquWujOaIkAoKCiAgICAvKioKICAgICAqIEBwYXJhbSAkdGVhY2hlcl9pZAogICAgICogQHBhcmFtICRjbGFzc19pZAogICAgICogQHBhcmFtICRncm91cF9p</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8K</text>
+      </register>
+      <register name=":" type="4">
+        <text>520</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>group</last-search>
+      <last-offset />
+      <last-pattern>group</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>勋章</entry>
+        <entry>PersonInvitation</entry>
+        <entry>rule_value</entry>
+        <entry>xml</entry>
+        <entry>globa</entry>
+        <entry>HTTP_RAW_POST_DATA</entry>
+        <entry>content</entry>
+        <entry>签到天数</entry>
+        <entry>签到</entry>
+        <entry>$is_lock</entry>
+        <entry>$new_continuous_check_in_day</entry>
+        <entry>$person_point</entry>
+        <entry>continuous_check_in_day</entry>
+        <entry>pay</entry>
+        <entry>bind</entry>
+        <entry>status</entry>
+        <entry>person</entry>
+        <entry>company_person</entry>
+        <entry>company</entry>
+        <entry>group</entry>
+      </history-search>
+      <history-cmd>
+        <entry>vsp</entry>
+        <entry>q</entry>
+        <entry>sp</entry>
+        <entry>dox</entry>
+        <entry>w</entry>
+        <entry>520</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
