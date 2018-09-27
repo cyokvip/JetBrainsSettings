@@ -40,6 +40,13 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTaskController.php" timestamp="1538036531835">
+        <mark key="'" line="97" column="57" />
+        <mark key="[" line="91" column="18" />
+        <mark key="]" line="91" column="24" />
+        <mark key="." line="91" column="24" />
+        <mark key="^" line="91" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Libraries/IAuth.php" timestamp="1538026390420">
         <mark key="'" line="28" column="4" />
         <mark key="[" line="314" column="39" />
@@ -110,7 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonMedal.php" />
       <jump line="7" column="30" filename="$USER_HOME$/Documents/dev/www/platform/config/services.php" />
       <jump line="19" column="6" filename="$USER_HOME$/Documents/dev/www/platform/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php" />
       <jump line="77" column="14" filename="$USER_HOME$/Documents/dev/www/platform/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php" />
@@ -210,61 +216,61 @@
       <jump line="35" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/UpdatePersonPushTokenListener.php" />
       <jump line="41" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/UpdatePersonPushTokenListener.php" />
       <jump line="104" column="13" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AuthController.php" />
+      <jump line="94" column="57" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTaskController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Person::IS_FIRST_LOGIN_FALSE</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>Person::IS_FIRST_LOGIN_FALSE</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>p_push</text>
+        <text>tct</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncGVyc29uX2lkJz0+JGlkLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAkcF9wdXNoPW5ldyBQZXJzb247CiAgICAgICAgICAgICAgICAkcF9wdXNoLT5wdXNoX3Rva2VuX3VwZGF0ZSgkaWQsJHB1c2hfdG9rZW4pOwo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0cmFpbmluZ19jbGFzc190YXNrX2lkID07Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5L2c5LiaaWQK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAkcF9wdXNoPW5ldyBQZXJzb247CiAgICAgICAgICAgICAgICAkcF9wdXNoLT5wdXNoX3Rva2VuX3VwZGF0ZSgkaWQsJHB1c2hfdG9rZW4pOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IC8qKgogICAgICAgICogQFN5bm9wc2lzICDmm7TmlrDnlKjmiLdwdXNoIHRva2VuCiAgICAgICAgKgogICAgICAgICogQFBhcmFtICRwZXJzb25faWQKICAgICAgICAqIEBQYXJhbSAkcHVzaF90b2tlbgogICAgICAgICoKICAgICAgICAqIEBSZXR1cm5zCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBwdXNoX3Rva2VuX3VwZGF0ZSgkcGVyc29uX2lkLCRwdXNoX3Rva2VuKXsKICAgICAgICBQZXJzb246OndoZXJlKCdpZCcsJHBlcnNvbl9pZCktPnVwZGF0ZShbCiAgICAgICAgICAgICdwdXNoX3Rva2VuJz0+JHB1c2hfdG9rZW4sCiAgICAgICAgICAgICdwdXNoX3RhZ3MnPT4ncGVyc29uXycuJHBlcnNvbl9pZCwKICAgICAgICAgICAgJ3B1c2hfYWxpYXMnPT4ncGVyc29uJywKICAgICAgICBdKTsKICAgICAgICB0cnl7CiAgICAgICAgICAgICRwdXNoPW5ldyBQdXNoKCk7CiAgICAgICAgICAgICRwdXNoLT51cGRhdGVBbGlhcygkcHVzaF90b2tlbiwncGVyc29uJyk7CiAgICAgICAgICAgICRwdXNoLT5hZGRUYWdzKCRwdXNoX3Rva2VuLCdwZXJzb25fJy4kcGVyc29uX2lkKTsKICAgICAgICB9Y2F0Y2goIFxFeGNlcHRpb24gJGUpewogICAgICAgIH0KICAgIH0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUHVzaDo6Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUGVyc29uOjoK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlcl9ncm91cF9pZCA9ICRkYXRhWyd1c2VyX2dyb3VwX2lkJ107Ly/nlKjmiLfnu4QK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>520</text>
       </register>
     </registers>
     <search>
-      <last-search>p_push</last-search>
+      <last-search>tct</last-search>
       <last-offset />
-      <last-pattern>p_push</last-pattern>
+      <last-pattern>tct</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>$person_point</entry>
         <entry>continuous_check_in_day</entry>
         <entry>pay</entry>
         <entry>bind</entry>
@@ -284,6 +290,7 @@
         <entry>Person</entry>
         <entry>event</entry>
         <entry>p_push</entry>
+        <entry>tct</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
