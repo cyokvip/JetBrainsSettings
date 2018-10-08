@@ -70,6 +70,16 @@
         <mark key="." line="16" column="69" />
         <mark key="^" line="16" column="69" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" timestamp="1538965812403">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClass.php" timestamp="1538965784379">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Exceptions/Handler.php" timestamp="1538963314320">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -251,10 +261,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text>error</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHJzPURCOjp0YWJsZSgnbWFuYWdlX2FjbF9wcml2aWxlZ2UnKS0+Z2V0KCk7Cg==</text>
@@ -263,43 +273,44 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>}catch(\Exception $e){
+            return responseError();
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnl7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZmxhZyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChVc2VyR3JvdXA6OkdST1VQX0NPTVBBTlkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29tcGFueV9pZCk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAkYXJyPWFycmF5KCk7CiAgICAgICAgJGFycltdPWFycmF5KCduYW1lJz0+J+aYn+e6p+WLi+eroCcsJ3BpZCc9PjApOwogICAgICAgICRhcnJbXT1hcnJheSgnbmFtZSc9Piforq3nu4PokKXli4vnq6AnLCdwaWQnPT4wKTsKICAgICAgICAkYXJyW109YXJyYXkoJ25hbWUnPT4n5a2m5Lmg6L6+5Lq6MeaYn+e6pycsJ3BpZCc9PjEpOwogICAgICAgICRhcnJbXT1hcnJheSgnbmFtZSc9PiflrabkuaDovr7kuroy5pif57qnJywncGlkJz0+MSk7CiAgICAgICAgJGFycltdPWFycmF5KCduYW1lJz0+J+WtpuS5oOi+vuS6ujPmmJ/nuqcnLCdwaWQnPT4xKTsKICAgICAgICAkYXJyW109YXJyYXkoJ25hbWUnPT4n5Lqr5a2m5aSn56WeMeaYn+e6pycsJ3BpZCc9PjEpOwogICAgICAgICRhcnJbXT1hcnJheSgnbmFtZSc9PifkuqvlrablpKfnpZ4y5pif57qnJywncGlkJz0+MSk7CiAgICAgICAgJGFycltdPWFycmF5KCduYW1lJz0+J+S6q+WtpuWkp+elnjPmmJ/nuqcnLCdwaWQnPT4xKTsKICAgICAgICBmb3JlYWNoKCRhcnIgYXMgJGs9PiR2KXs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkY29tcGFueV9pZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHRvcGljX2luZm9fcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>520</text>
       </register>
     </registers>
     <search>
-      <last-search>status</last-search>
+      <last-search>error</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern>error</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>continuous_check_in_day</entry>
         <entry>pay</entry>
         <entry>bind</entry>
         <entry>company_person</entry>
@@ -319,6 +330,7 @@
         <entry>p_push</entry>
         <entry>tct</entry>
         <entry>status</entry>
+        <entry>error</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
