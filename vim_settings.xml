@@ -36,6 +36,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="52" column="115" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" timestamp="1539683046813">
+        <mark key="[" line="89" column="42" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="89" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherController.php" timestamp="1539670613995" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/HomeController.php" timestamp="1539678375816">
         <mark key="x" line="69" column="24" />
@@ -45,12 +51,20 @@
         <mark key="^" line="95" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/test/meedu/app/Models/FaqCategory.php" timestamp="1539668358182" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/.env.dev" timestamp="1539668712647" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/.env.dev" timestamp="1539681272509">
+        <mark key="[" line="10" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" timestamp="1539677652843">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="47" />
         <mark key="." line="2" column="47" />
         <mark key="^" line="2" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ManageController.php" timestamp="1539682783301">
+        <mark key="[" line="37" column="35" />
+        <mark key="]" line="37" column="35" />
+        <mark key="^" line="33" column="17" />
+        <mark key="." line="37" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTaskController.php" timestamp="1538967683848">
         <mark key="[" line="84" column="88" />
@@ -64,8 +78,12 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassMemberController.php" timestamp="1539679369327">
-        <mark key="'" line="92" column="51" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassMemberController.php" timestamp="1539680724449">
+        <mark key="'" line="89" column="51" />
+        <mark key="[" line="87" column="50" />
+        <mark key="]" line="87" column="50" />
+        <mark key="^" line="86" column="28" />
+        <mark key="." line="87" column="50" />
       </file>
       <file name="/platform.odm_person [120.77.144.173]" timestamp="1539668864369">
         <mark key="[" line="0" column="0" />
@@ -90,6 +108,11 @@
       <file name="/dummy.sql" timestamp="1539669051525">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonInvitation.php" timestamp="1539661447641">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="/platform.odm_app_splash [120.77.144.173]" timestamp="1539668835957">
         <mark key="[" line="0" column="0" />
       </file>
@@ -105,7 +128,7 @@
         <mark key="." line="112" column="92" />
         <mark key="^" line="112" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539679384795">
+      <file name="/Dummy.txt" timestamp="1539682614126">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/config/filesystems.php" timestamp="1539261447942">
@@ -120,11 +143,10 @@
         <mark key="." line="16" column="69" />
         <mark key="^" line="16" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" timestamp="1538967559471">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="^" line="174" column="88" />
-        <mark key="." line="173" column="0" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" timestamp="1539680729593">
+        <mark key="]" line="31" column="11" />
+        <mark key="^" line="31" column="11" />
+        <mark key="." line="31" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClass.php" timestamp="1538967435615">
         <mark key="[" line="52" column="10" />
@@ -149,6 +171,11 @@
         <mark key="]" line="269" column="7" />
         <mark key="." line="269" column="7" />
         <mark key="^" line="269" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrganizationController.php" timestamp="1539682097853">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/PersonController.php" timestamp="1539674187278">
         <mark key="'" line="0" column="0" />
@@ -302,44 +329,44 @@
       <jump line="92" column="51" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassMemberController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKi8K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LT5vcmRlckJ5KCdpZCcpLT5jaHVuaygxMDAsIGZ1bmN0aW9uICgkdXNlcnMpIHsKICAgICAgICAgICAgZm9yZWFjaCAoJHVzZXJzIGFzICR1c2VyKSB7CiAgICAgICAgICAgICAgICAvLwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>M</text>
       </register>
       <register name="/" type="4">
         <text>where_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoJG9yZGVyX3R5cGU9PTEwKSAkb3JkZXJfYnk9YXJyYXkoJ2V4cGVyaWVuY2VfdG90YWwnLCdhc2MnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHdoZXJlX2RhdGFbXSA9IGFycmF5KCd1c2VybmFtZScsJ2xpa2UnLCIleyR1c2VybmFtZX0lIik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKi8K</text>
+      <register name="1" type="4">
+        <text encoding="base64">LT5vcmRlckJ5KCdpZCcpLT5jaHVuaygxMDAsIGZ1bmN0aW9uICgkdXNlcnMpIHsKICAgICAgICAgICAgZm9yZWFjaCAoJHVzZXJzIGFzICR1c2VyKSB7CiAgICAgICAgICAgICAgICAvLwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJhbmtfbGlzdCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkb3JkZXJfYnkpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkd2hlcmVfZGF0YSk7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHdoZXJlX2RhdGFbXSA9IGFycmF5KCdyZWFsbmFtZScsJHJlYWxuYW1lKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkcnM9bmV3IE9yZ2FuaXphdGlvbjsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHdoZXJlX2RhdGFbXT1hcnJheSgnbW9iaWxlJywkbW9iaWxlKTsK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAkcGFnZSA9IElucHV0OjpnZXQoJ3BhZ2UnKTsKICAgICAgICAkcHNpemUgPSBJbnB1dDo6Z2V0KCdwc2l6ZScpOwogICAgICAgICR0cmFpbmluZ19jbGFzc19pZCA9IElucHV0OjpnZXQoJ3RyYWluaW5nX2NsYXNzX2lkJyk7CgogICAgICAgICRqb2luX3N0YXJ0X3RpbWUgPSBJbnB1dDo6Z2V0KCdqb2luX3N0YXJ0X3RpbWUnKTsKICAgICAgICAkam9pbl9lbmRfdGltZSA9IElucHV0OjpnZXQoJ2pvaW5fZW5kX3RpbWUnKTsKCiAgICAgICAgJG1vYmlsZSA9IElucHV0OjpnZXQoJ21vYmlsZScpOwogICAgICAgICRyZWFsbmFtZSA9IElucHV0OjpnZXQoJ3JlYWxuYW1lJyk7CiAgICAgICAgJHNleCA9IElucHV0OjpnZXQoJ3NleCcpOwogICAgICAgICRvcmRlcl90eXBlID0gSW5wdXQ6OmdldCgnb3JkZXJfdHlwZScpOy8v5o6S5bqPIDEw5oC757uP6aqM5YC85Y2H5bqP77yMMTHmgLvnu4/pqozlgLzpmY3luo8KCiAgICAgICAgJHdoZXJlX2RhdGE9YXJyYXkoKTsKCiAgICAgICAgJHZhbGlkYXRvciA9IFZhbGlkYXRvcjo6bWFrZShJbnB1dDo6Z2V0KCksIFsKICAgICAgICAgICAgJ3BhZ2UnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdwc2l6ZScgPT4gJ3JlcXVpcmVkJywKICAgICAgICAgICAgJ3RyYWluaW5nX2NsYXNzX2lkJyA9PiAncmVxdWlyZWQnLAogICAgICAgIF0pOw==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">JHBhZ2UgPSBJbnB1dDo6Z2V0KCdwYWdlJyk7CiAgICAgICAgJHBzaXplID0gSW5wdXQ6OmdldCgncHNpemUnKTsKICAgICAgICAkdHJhaW5pbmdfY2xhc3NfaWQgPSBJbnB1dDo6Z2V0KCd0cmFpbmluZ19jbGFzc19pZCcpOwoKICAgICAgICAkam9pbl9zdGFydF90aW1lID0gSW5wdXQ6OmdldCgnam9pbl9zdGFydF90aW1lJyk7CiAgICAgICAgJGpvaW5fZW5kX3RpbWUgPSBJbnB1dDo6Z2V0KCdqb2luX2VuZF90aW1lJyk7CgogICAgICAgICRtb2JpbGUgPSBJbnB1dDo6Z2V0KCdtb2JpbGUnKTsKICAgICAgICAkcmVhbG5hbWUgPSBJbnB1dDo6Z2V0KCdyZWFsbmFtZScpOwogICAgICAgICRzZXggPSBJbnB1dDo6Z2V0KCdzZXgnKTsKICAgICAgICAkb3JkZXJfdHlwZSA9IElucHV0OjpnZXQoJ29yZGVyX3R5cGUnKTsvL+aOkuW6jyAxMOaAu+e7j+mqjOWAvOWNh+W6j++8jDEx5oC757uP6aqM5YC86ZmN5bqPCgogICAgICAgICR3aGVyZV9kYXRhPWFycmF5KCk7CgogICAgICAgICR2YWxpZGF0b3IgPSBWYWxpZGF0b3I6Om1ha2UoSW5wdXQ6OmdldCgpLCBbCiAgICAgICAgICAgICdwYWdlJyA9PiAncmVxdWlyZWQnLAogICAgICAgICAgICAncHNpemUnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICd0cmFpbmluZ19jbGFzc19pZCcgPT4gJ3JlcXVpcmVkJywKICAgICAgICBdKTsKCiAgICAgICAgaWYgKCR2YWxpZGF0b3ItPmZhaWxzKCkpIHsKICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlRXJyb3IoQ29kZUZhY2FkZTo6RkFJTCwgJHZhbGlkYXRvci0+Z2V0TWVzc2FnZUJhZygpLT50b0FycmF5KCkpOwogICAgICAgIH0=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGNfcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzc2V0KCRzZXgpKSAkcXVlcnktPndoZXJlKCdzZXgnLCAkc2V4KTsK</text>
       </register>
       <register name=":" type="4">
         <text>520</text>
