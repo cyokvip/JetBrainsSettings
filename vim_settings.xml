@@ -3,23 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassExperienceController.php" timestamp="1538967603102">
-        <mark key="[" line="80" column="88" />
-        <mark key="]" line="80" column="88" />
-        <mark key="." line="80" column="88" />
-        <mark key="^" line="80" column="88" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" timestamp="1539661901687">
         <mark key="[" line="242" column="124" />
         <mark key="]" line="242" column="171" />
         <mark key="^" line="242" column="171" />
         <mark key="." line="242" column="171" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Providers/EventServiceProvider.php" timestamp="1539257119795">
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="26" column="16" />
-        <mark key="." line="26" column="16" />
-        <mark key="^" line="26" column="16" />
+      <file name="/api.learning.com.cn.odm_person_invitation [api.learning.com.cn]" timestamp="1539668975610">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/PersonInvitationController.php" timestamp="1539662080148">
         <mark key="[" line="44" column="0" />
@@ -33,30 +24,24 @@
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/test/meedu/app/Models/FaqCategory.php" timestamp="1539668358182" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/.env.dev" timestamp="1539666921067" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTaskController.php" timestamp="1538967683848">
-        <mark key="[" line="84" column="88" />
-        <mark key="]" line="84" column="88" />
-        <mark key="." line="84" column="88" />
-        <mark key="^" line="84" column="88" />
-      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/.env.dev" timestamp="1539668712647" />
       <file name="$USER_HOME$/Documents/dev/www/test/meedu/app/Listeners/PaymentSuccessListener.php" timestamp="1539667797965" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/Oss.php" timestamp="1539306719473">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="/platform.odm_person [120.77.144.173]" timestamp="1539668864369">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/PHP Console" timestamp="1538202099377">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/.env.online" timestamp="1539666869580" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/PersonFirstLoginSendMessageListener.php" timestamp="1538035917383">
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="31" column="11" />
-        <mark key="^" line="31" column="11" />
-        <mark key="." line="31" column="11" />
-      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/.env.online" timestamp="1539668919225" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AuthController.php" timestamp="1539661081294" />
+      <file name="/dummy.sql" timestamp="1539669051525">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/FileController.php" timestamp="1539307144882">
         <mark key="'" line="73" column="42" />
         <mark key="[" line="94" column="46" />
@@ -69,62 +54,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_09_27_172547_add_date_to_training_class_experience_table.php" timestamp="1538040465483">
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="28" column="25" />
-        <mark key="." line="28" column="25" />
-        <mark key="^" line="28" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassExperienceRuleController.php" timestamp="1538967656417">
-        <mark key="[" line="112" column="92" />
-        <mark key="]" line="112" column="92" />
-        <mark key="." line="112" column="92" />
-        <mark key="^" line="112" column="92" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1539667070546">
+      <file name="/platform.odm_app_splash [120.77.144.173]" timestamp="1539668835957">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/config/filesystems.php" timestamp="1539261447942">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="52" column="34" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_09_27_143146_add_user_group_id_to_message_content_table.php" timestamp="1538029969149">
-        <mark key="[" line="16" column="67" />
-        <mark key="]" line="16" column="69" />
-        <mark key="." line="16" column="69" />
-        <mark key="^" line="16" column="69" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" timestamp="1538967559471">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="^" line="174" column="88" />
-        <mark key="." line="173" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClass.php" timestamp="1538967435615">
-        <mark key="[" line="52" column="10" />
-        <mark key="]" line="52" column="16" />
-        <mark key="." line="52" column="16" />
-        <mark key="^" line="52" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Exceptions/Handler.php" timestamp="1538963314320">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="39" column="11" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" timestamp="1538968721564">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="65" column="88" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" timestamp="1538967513318">
-        <mark key="[" line="268" column="90" />
-        <mark key="]" line="269" column="7" />
-        <mark key="." line="269" column="7" />
-        <mark key="^" line="269" column="7" />
+      <file name="/Dummy.txt" timestamp="1539668941005">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/PersonController.php" timestamp="1539667310830">
         <mark key="'" line="0" column="0" />
@@ -133,24 +67,7 @@
         <mark key="." line="239" column="19" />
         <mark key="^" line="239" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/seeds/AclSeeder.php" timestamp="1538963187670">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="8" />
-        <mark key="^" line="4" column="8" />
-        <mark key="." line="4" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/NewMessageMarkListener.php" timestamp="1538032301802">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="13" column="6" />
-        <mark key="^" line="13" column="6" />
-        <mark key="." line="13" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_08_24_134016_create_training_class_experience_table.php" timestamp="1538040723505">
-        <mark key="[" line="20" column="77" />
-        <mark key="]" line="20" column="81" />
-        <mark key="^" line="20" column="81" />
-        <mark key="." line="20" column="81" />
-      </file>
+      <file name="ce61ad51-aa7b-49e4-889b-7fa43f43c756/schema/api.learning.com.cn/table/odm_person_invitation.sql" timestamp="1539669042672" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" timestamp="1539653832934">
         <mark key="[" line="38" column="2" />
         <mark key="]" line="38" column="2" />
