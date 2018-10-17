@@ -42,7 +42,6 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherController.php" timestamp="1539670613995" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/HomeController.php" timestamp="1539678375816">
         <mark key="x" line="69" column="24" />
         <mark key="[" line="94" column="33" />
@@ -50,7 +49,6 @@
         <mark key="." line="95" column="9" />
         <mark key="^" line="95" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/test/meedu/app/Models/FaqCategory.php" timestamp="1539668358182" />
       <file name="$USER_HOME$/Documents/dev/www/platform/.env.dev" timestamp="1539681272509">
         <mark key="[" line="10" column="8" />
       </file>
@@ -72,7 +70,6 @@
         <mark key="." line="84" column="88" />
         <mark key="^" line="84" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/test/meedu/app/Listeners/PaymentSuccessListener.php" timestamp="1539667797965" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/Oss.php" timestamp="1539306719473">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -91,7 +88,6 @@
       <file name="/PHP Console" timestamp="1538202099377">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/.env.online" timestamp="1539668919225" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/PersonFirstLoginSendMessageListener.php" timestamp="1538035917383">
         <mark key="[" line="31" column="11" />
         <mark key="]" line="31" column="11" />
@@ -128,7 +124,7 @@
         <mark key="." line="112" column="92" />
         <mark key="^" line="112" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539682614126">
+      <file name="/Dummy.txt" timestamp="1539741378234">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/config/filesystems.php" timestamp="1539261447942">
@@ -184,7 +180,6 @@
         <mark key="." line="172" column="135" />
         <mark key="^" line="172" column="135" />
       </file>
-      <file name="ce61ad51-aa7b-49e4-889b-7fa43f43c756/schema/api.learning.com.cn/table/odm_person_invitation.sql" timestamp="1539669042672" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Libraries/IAuth.php" timestamp="1539679557973">
         <mark key="'" line="137" column="23" />
         <mark key="[" line="147" column="0" />
