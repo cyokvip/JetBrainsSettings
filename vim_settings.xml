@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassExperienceController.php" timestamp="1538967603102">
@@ -82,11 +82,22 @@
         <mark key="^" line="86" column="28" />
         <mark key="." line="87" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/AppModuleTopic.php" timestamp="1539916804093">
+        <mark key="[" line="171" column="32" />
+        <mark key="]" line="171" column="32" />
+        <mark key="^" line="171" column="32" />
+        <mark key="." line="171" column="32" />
+      </file>
       <file name="/platform.odm_person [120.77.144.173]" timestamp="1539668864369">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1538202099377">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2018-10-19.log" timestamp="1539916649818">
+        <mark key="[" line="24" column="129" />
+        <mark key="]" line="24" column="129" />
+        <mark key="." line="24" column="129" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/PersonFirstLoginSendMessageListener.php" timestamp="1538035917383">
         <mark key="[" line="31" column="11" />
@@ -132,6 +143,11 @@
         <mark key="]" line="52" column="0" />
         <mark key="^" line="52" column="34" />
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/storage/logs/laravel-2018-10-18.log" timestamp="1539916816368">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_09_27_143146_add_user_group_id_to_message_content_table.php" timestamp="1538029969149">
         <mark key="[" line="16" column="67" />
@@ -331,47 +347,47 @@
       <jump line="430" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Libraries/IAuth.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">IFNVQ0NFU1MgPSAwOwogRkFJTCA9IDE7CiBQUk9DRVNTSUlORyA9IDM7CiBTVEFUVVNfRElTQUJMRSA9IDQ7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">WzIwMTgtMTAtMTggMTY6NDM6MDVdIGxvY2FsLkVSUk9SOiBbMF0gImNvdW50KCk6IFBhcmFtZXRlciBtdXN0IGJlIGFuIGFycmF5IG9yIGFuIG9iamVjdCB0aGF0IGltcGxlbWVudHMgQ291bnRhYmxlIiBvbiBsaW5lICBvZiBmaWxlICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>where_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHdoZXJlX2RhdGFbXSA9IGFycmF5KCd1c2VybmFtZScsJ2xpa2UnLCIleyR1c2VybmFtZX0lIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyB0aW1lKCk7Cg==</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">WzIwMTgtMTAtMTggMTY6NDM6MDVdIGxvY2FsLkVSUk9SOiBbMF0gImNvdW50KCk6IFBhcmFtZXRlciBtdXN0IGJlIGFuIGFycmF5IG9yIGFuIG9iamVjdCB0aGF0IGltcGxlbWVudHMgQ291bnRhYmxlIiBvbiBsaW5lICBvZiBmaWxlICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">WzIwMTgtMTAtMTggMTY6NDI6NDhdIGxvY2FsLkVSUk9SOiBbMF0gIlVuZGVmaW5lZCB2YXJpYWJsZTogcnMiIG9uIGxpbmUgNzAgb2YgZmlsZSAvdmFyL3d3dy9odG1sL3BsYXRmb3JtL2FwcC9Nb2RlbHMvQXBwTW9kdWxlVG9waWMucGhwICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">WzIwMTgtMTAtMTggMTU6Mzg6NTVdIGRldi5FUlJPUjogWzBdICIiIG9uIGxpbmUgNjEyIG9mIGZpbGUgL3Zhci93dy9odG1sL3BsYXRmb3JtL3ZlbmRvci9sYXJhdmVsL2ZyYW1ld29yay9zcmMvSWxsdW1pbmF0ZS9Sb3V0aW5nL1JvdXRlci5waHAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvIGRhdGUoJ1ktbS1kIEg6aTpzJyx0aW1lKCkpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyBkYXRlKCcnKQo=</text>
+      </register>
+      <register name="7" type="8">
         <text encoding="base64">IFNVQ0NFU1MgPSAwOwogRkFJTCA9IDE7CiBQUk9DRVNTSUlORyA9IDM7CiBTVEFUVVNfRElTQUJMRSA9IDQ7</text>
       </register>
-      <register name="2" type="8">
+      <register name="8" type="8">
         <text>ds
 fd
       
 fdsafd</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG8K</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">LT5vcmRlckJ5KCdpZCcpLT5jaHVuaygxMDAsIGZ1bmN0aW9uICgkdXNlcnMpIHsKICAgICAgICAgICAgZm9yZWFjaCAoJHVzZXJzIGFzICR1c2VyKSB7CiAgICAgICAgICAgICAgICAvLwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkd2hlcmVfZGF0YSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHdoZXJlX2RhdGFbXSA9IGFycmF5KCdyZWFsbmFtZScsJHJlYWxuYW1lKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcnM9bmV3IE9yZ2FuaXphdGlvbjsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHdoZXJlX2RhdGFbXT1hcnJheSgnbW9iaWxlJywkbW9iaWxlKTsK</text>
+        <text encoding="base64">ICAgIG8K</text>
       </register>
       <register name=":" type="4">
         <text>520</text>
