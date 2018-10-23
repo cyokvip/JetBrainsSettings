@@ -15,6 +15,12 @@
         <mark key="^" line="242" column="171" />
         <mark key="." line="242" column="171" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherShowController.php" timestamp="1540260899250">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="88" column="84" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Providers/EventServiceProvider.php" timestamp="1539257119795">
         <mark key="[" line="32" column="27" />
         <mark key="]" line="26" column="16" />
@@ -49,8 +55,10 @@
         <mark key="." line="95" column="9" />
         <mark key="^" line="95" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/.env.dev" timestamp="1539681272509">
-        <mark key="[" line="10" column="8" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/.env.dev" timestamp="1540259773829">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" timestamp="1539677652843">
         <mark key="[" line="2" column="34" />
@@ -94,6 +102,11 @@
       <file name="/PHP Console" timestamp="1538202099377">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/OrganizationTeacherShow.php" timestamp="1540259395009">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2018-10-19.log" timestamp="1539916649818">
         <mark key="[" line="24" column="129" />
         <mark key="]" line="24" column="129" />
@@ -135,7 +148,7 @@
         <mark key="." line="112" column="92" />
         <mark key="^" line="112" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539911483872">
+      <file name="/Dummy.txt" timestamp="1540260710554">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/config/filesystems.php" timestamp="1539261447942">
@@ -190,10 +203,11 @@
         <mark key="." line="269" column="7" />
         <mark key="^" line="269" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrganizationController.php" timestamp="1539682097853">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrganizationController.php" timestamp="1540260471880">
+        <mark key="[" line="117" column="63" />
+        <mark key="]" line="117" column="63" />
+        <mark key="." line="117" column="63" />
+        <mark key="^" line="116" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/PersonController.php" timestamp="1539674187278">
         <mark key="'" line="0" column="0" />
@@ -245,7 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="6" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassTask.php" />
       <jump line="37" column="32" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTaskController.php" />
       <jump line="219" column="34" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
       <jump line="470" column="35" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
@@ -345,49 +358,47 @@
       <jump line="68" column="7" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassMemberController.php" />
       <jump line="92" column="51" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassMemberController.php" />
       <jump line="430" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Libraries/IAuth.php" />
+      <jump line="106" column="44" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherShowController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">WzIwMTgtMTAtMTggMTY6NDM6MDVdIGxvY2FsLkVSUk9SOiBbMF0gImNvdW50KCk6IFBhcmFtZXRlciBtdXN0IGJlIGFuIGFycmF5IG9yIGFuIG9iamVjdCB0aGF0IGltcGxlbWVudHMgQ291bnRhYmxlIiBvbiBsaW5lICBvZiBmaWxlICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>where_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyB0aW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGstPnRlYWNoZXI9JGstPnRlYWNoZXIoKS0+Zmlyc3QoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">WzIwMTgtMTAtMTggMTY6NDM6MDVdIGxvY2FsLkVSUk9SOiBbMF0gImNvdW50KCk6IFBhcmFtZXRlciBtdXN0IGJlIGFuIGFycmF5IG9yIGFuIG9iamVjdCB0aGF0IGltcGxlbWVudHMgQ291bnRhYmxlIiBvbiBsaW5lICBvZiBmaWxlICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">WzIwMTgtMTAtMTggMTY6NDI6NDhdIGxvY2FsLkVSUk9SOiBbMF0gIlVuZGVmaW5lZCB2YXJpYWJsZTogcnMiIG9uIGxpbmUgNzAgb2YgZmlsZSAvdmFyL3d3dy9odG1sL3BsYXRmb3JtL2FwcC9Nb2RlbHMvQXBwTW9kdWxlVG9waWMucGhwICAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">WzIwMTgtMTAtMTggMTU6Mzg6NTVdIGRldi5FUlJPUjogWzBdICIiIG9uIGxpbmUgNjEyIG9mIGZpbGUgL3Zhci93dy9odG1sL3BsYXRmb3JtL3ZlbmRvci9sYXJhdmVsL2ZyYW1ld29yay9zcmMvSWxsdW1pbmF0ZS9Sb3V0aW5nL1JvdXRlci5waHAgIAo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkdGVhY2hlcl9pZD1hcnJheSgpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIGRhdGUoJ1ktbS1kIEg6aTpzJyx0aW1lKCkpOwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRlYWNoZXJfaWRbJGstPm9yZ2FuaXphdGlvbl90ZWFjaGVyX2lkXT0kay0+b3JnYW5pemF0aW9uX3RlYWNoZXJfaWQ7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAkb3JnYW5pemF0aW9uX2lkcz1hcnJheSgpOwogICAgICAgICR0ZWFjaGVyX3JzPU9yZ2FuaXphdGlvblRlYWNoZXI6OndoZXJlSW4oJ2lkJywkdGVhY2hlcl9pZCktPmdldCgpOwoKICAgICAgICBpZigkdGVhY2hlcl9ycyl7CiAgICAgICAgICAgIGZvcmVhY2goJHRlYWNoZXJfcnMgYXMgJGspewogICAgICAgICAgICAgICAgJG9yZ2FuaXphdGlvbl9pZHNbJGstPm9yZ2FuaXphdGlvbl9pZF09JGstPm9yZ2FuaXphdGlvbl9pZDsKICAgICAgICAgICAgfQoKICAgICAgICB9CiAgICAgICAgJG9yZ2FuaXphdGlvbl9saXN0PWFycmF5KCk7CiAgICAgICAgaWYoIWVtcHR5KCRvcmdhbml6YXRpb25faWRzKSl7CiAgICAgICAgICAgICRvX3JzPU9yZ2FuaXphdGlvbjo6d2hlcmVJbignaWQnLCRvcmdhbml6YXRpb25faWRzKS0+Z2V0KCk7CiAgICAgICAgICAgIGlmKCRvX3JzKXsKICAgICAgICAgICAgICAgIGZvcmVhY2goJG9fcnMgYXMgJGspewogICAgICAgICAgICAgICAgICAgICRvcmdhbml6YXRpb25fbGlzdFskay0+aWRdPSRrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIAogICAgICAgIH0KICAgICAgICBkZCgkb3JnYW5pemF0aW9uX2lkcyk7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyBkYXRlKCcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">IFNVQ0NFU1MgPSAwOwogRkFJTCA9IDE7CiBQUk9DRVNTSUlORyA9IDM7CiBTVEFUVVNfRElTQUJMRSA9IDQ7</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHRlYWNoZXJfcnMpOwo=</text>
       </register>
-      <register name="8" type="8">
-        <text>ds
-fd
-      
-fdsafd</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdGVhY2hlcl9ycyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG8K</text>
+        <text encoding="base64">I0RCX0RBVEFCQVNFPWxlYXJuaW5nLmNvbS5jbi50ZXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>520</text>
