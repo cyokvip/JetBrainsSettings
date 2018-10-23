@@ -42,11 +42,11 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="52" column="115" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" timestamp="1540263914337">
-        <mark key="[" line="375" column="0" />
-        <mark key="]" line="375" column="0" />
-        <mark key="." line="375" column="0" />
-        <mark key="^" line="348" column="67" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" timestamp="1540267163356">
+        <mark key="[" line="260" column="0" />
+        <mark key="]" line="260" column="0" />
+        <mark key="." line="260" column="0" />
+        <mark key="^" line="175" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/HomeController.php" timestamp="1539678375816">
         <mark key="x" line="69" column="24" />
@@ -148,7 +148,7 @@
         <mark key="." line="112" column="92" />
         <mark key="^" line="112" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540263969892">
+      <file name="/Dummy.txt" timestamp="1540267168391">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/config/filesystems.php" timestamp="1539261447942">
@@ -259,16 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="32" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTaskController.php" />
-      <jump line="219" column="34" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="470" column="35" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="508" column="46" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="20" column="23" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="14" column="15" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="27" column="23" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="66" column="6" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Pay.php" />
-      <jump line="131" column="24" filename="$USER_HOME$/Documents/dev/www/platform/vendor/yansongda/pay/src/Gateways/Wechat.php" />
-      <jump line="68" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PayController.php" />
       <jump line="137" column="9" filename="$USER_HOME$/Documents/dev/www/platform/vendor/yansongda/pay/src/Gateways/Wechat.php" />
       <jump line="243" column="44" filename="$USER_HOME$/Documents/dev/www/platform/vendor/yansongda/pay/src/Gateways/Wechat.php" />
       <jump line="134" column="4" filename="$USER_HOME$/Documents/dev/www/platform/vendor/yansongda/pay/src/Gateways/Wechat.php" />
@@ -359,62 +349,70 @@
       <jump line="92" column="51" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassMemberController.php" />
       <jump line="430" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Libraries/IAuth.php" />
       <jump line="106" column="44" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherShowController.php" />
+      <jump line="86" column="19" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" />
+      <jump line="41" column="7" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" />
+      <jump line="264" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" />
+      <jump line="122" column="15" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" />
+      <jump line="123" column="43" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" />
+      <jump line="130" column="15" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" />
+      <jump line="131" column="43" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" />
+      <jump line="139" column="12" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" />
+      <jump line="140" column="40" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" />
+      <jump line="166" column="8" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRleHBlcmllbmNlX3R5cGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>desc</text>
       </register>
       <register name="/" type="4">
-        <text>where_data</text>
+        <text>$key_myrank</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPndoZXJlKCdleHBlcmllbmNlX3R5cGUnLCAnPCcsIDE5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFlbXB0eSgkY2FjaGVbJGstPnBlcnNvbl9pZF0pKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRleHBlcmllbmNlX3R5cGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR0cmFpbmluZ19jbGFzc19pZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRleHBlcmllbmNlX3R5cGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbGlzdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlzc2V0KCRjYWNoZVskay0+cGVyc29uX2lkXSkpewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGQoJHNjb3JlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGQoJGNhY2hlWyRrLT5wZXJzb25faWRdKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGQoJGNhY2hlWzkwMF0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGQoJGstPnBlcnNvbl9pZCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAvL+ivu+WPluinhOWImQogICAgICAgICAgICAgICAgJG10Y2VyX3JzID0gVHJhaW5pbmdDbGFzc0V4cGVyaWVuY2VSdWxlOjp3aGVyZSgnZXhwZXJpZW5jZV90eXBlJywgJGV4cGVyaWVuY2VfdHlwZSktPndoZXJlKCd0cmFpbmluZ19jbGFzc19pZCcsICR0cmFpbmluZ19jbGFzc19pZCktPmZpcnN0KCk7CiAgICAgICAgICAgICAgICAkZXhwZXJpZW5jZV92YWx1ZSA9ICRtdGNlcl9ycy0+ZXhwZXJpZW5jZV92YWx1ZTsKICAgICAgICAgICAgICAgICRyZW1hcmsgPSAkbXRjZXJfcnMtPmV4cGVyaWVuY2VfbmFtZTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>520</text>
       </register>
     </registers>
     <search>
-      <last-search>where_data</last-search>
+      <last-search>$key_myrank</last-search>
       <last-offset />
-      <last-pattern>where_data</last-pattern>
+      <last-pattern>$key_myrank</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>st</entry>
-        <entry>$point_type_list</entry>
         <entry>p</entry>
         <entry>$p</entry>
         <entry>new</entry>
@@ -433,6 +431,8 @@
         <entry>12</entry>
         <entry>order</entry>
         <entry>where_data</entry>
+        <entry>all_key</entry>
+        <entry>$key_myrank</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
