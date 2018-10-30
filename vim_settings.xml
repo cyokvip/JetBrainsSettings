@@ -89,6 +89,13 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" timestamp="1540864840949">
+        <mark key="'" line="213" column="16" />
+        <mark key="[" line="97" column="54" />
+        <mark key="]" line="97" column="62" />
+        <mark key="." line="97" column="62" />
+        <mark key="^" line="97" column="62" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" timestamp="1538968721564">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
@@ -234,7 +241,7 @@
         <mark key="." line="112" column="92" />
         <mark key="^" line="112" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540805595884">
+      <file name="/Dummy.txt" timestamp="1540864875941">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/config/filesystems.php" timestamp="1539261447942">
@@ -309,8 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="14" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="79" column="14" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
       <jump line="184" column="12" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
       <jump line="139" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
       <jump line="172" column="20" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
@@ -409,61 +414,62 @@
       <jump line="1063" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
       <jump line="89" column="40" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/AclController.php" />
       <jump line="353" column="52" filename="$USER_HOME$/Documents/dev/www/platform/app/Libraries/IAuth.php" />
+      <jump line="77" column="16" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" />
+      <jump line="212" column="16" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghZW1wdHkoJG1vYmlsZSkpICRjdV9kYXRhWydtb2JpbGUnXSA9ICRtb2JpbGU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>n login</text>
+        <text>company_user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG0tPnRpdGxlPSRjb21wYW55X2luZm8tPmNvbXBhbnlfbmFtZS4n6YKA6K+35L2g5Yqg5YWlJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc3NldCgkc3RhdHVzKSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghZW1wdHkoJG1vYmlsZSkpICRjdV9kYXRhWydtb2JpbGUnXSA9ICRtb2JpbGU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRtYW5hZ2VNb2RlbC0+c3RhdHVzID0gJHN0YXR1czsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1hbmFnZU1vZGVsLT51cGRhdGUoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAkaW5mbyA9IENvbXBhbnk6OmZpbmQoJGlkKTsKICAgICAgICAgICAgICAgIGlmICgkaW5mbykgewogICAgICAgICAgICAgICAgICAgICRpbmZvLT5zdGF0dXMgPSAkc3RhdHVzOwogICAgICAgICAgICAgICAgICAgICRpbmZvLT51cGRhdGUoKTsKICAgICAgICAgICAgICAgICAgICBpZigkc3RhdHVzPT0wKXsKICAgICAgICAgICAgICAgICAgICAgICAgLy/liKDpmaTlkZjlt6UKICAgICAgICAgICAgICAgICAgICAgICAgQ29tcGFueVVzZXI6OndoZXJlKCdjb21wYW55X2lkJywgJGlkKS0+d2hlcmUoJ2lzX2FkbWluJywgMCktPmRlbGV0ZSgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAvL+S/ruaUueS8geS4mueKtuaAgQogICAgICAgICAgICAgICAgICAgIENvbXBhbnlVc2VyOjp3aGVyZSgnY29tcGFueV9pZCcsJGlkKS0+dXBkYXRlKFsnc3RhdHVzJz0+JHN0YXR1c10pOwogICAgICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRtYW5hZ2VNb2RlbC0+c3RhdHVzID0gJHN0YXR1czsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfWVsc2V7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlRXJyb3IoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1hbmFnZU1vZGVsLT51cGRhdGUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>520</text>
       </register>
     </registers>
     <search>
-      <last-search>n login</last-search>
+      <last-search>company_user</last-search>
       <last-offset />
-      <last-pattern>n login</last-pattern>
+      <last-pattern>company_user</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>NewMessageMark</entry>
         <entry>person</entry>
         <entry>Person</entry>
         <entry>event</entry>
@@ -483,6 +489,7 @@
         <entry>n message_button</entry>
         <entry>n message_info</entry>
         <entry>n login</entry>
+        <entry>company_user</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
