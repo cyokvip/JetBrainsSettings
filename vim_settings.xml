@@ -30,7 +30,14 @@
       <file name="/api.learning.com.cn.odm_person_invitation [api.learning.com.cn]" timestamp="1539668975610">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/.env.dev" timestamp="1540867833597">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/HomeController.php" timestamp="1540869530632">
+        <mark key="x" line="72" column="24" />
+        <mark key="[" line="69" column="8" />
+        <mark key="]" line="69" column="8" />
+        <mark key="." line="69" column="8" />
+        <mark key="^" line="69" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/.env.dev" timestamp="1540868862766">
         <mark key="[" line="26" column="19" />
         <mark key="]" line="26" column="19" />
         <mark key="." line="26" column="19" />
@@ -261,7 +268,7 @@
         <mark key="." line="112" column="92" />
         <mark key="^" line="112" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540866682818">
+      <file name="/Dummy.txt" timestamp="1540869537038">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/config/filesystems.php" timestamp="1539261447942">
@@ -439,10 +446,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>company_user</text>
