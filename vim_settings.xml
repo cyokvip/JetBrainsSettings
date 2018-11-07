@@ -156,11 +156,7 @@
         <mark key="^" line="50" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/OrganizationTeacher.php" timestamp="1540954342758">
-        <mark key="'" line="135" column="4" />
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="31" />
-        <mark key="^" line="15" column="31" />
+        <mark key="'" line="127" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" timestamp="1540877350124">
         <mark key="[" line="42" column="5" />
@@ -231,7 +227,6 @@
         <mark key="^" line="44" column="125" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/vendor/teamtnt/tntsearch/src/TNTSearch.php" timestamp="1540951820338" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTaskController.php" timestamp="1540801786484">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -288,7 +283,7 @@
         <mark key="." line="112" column="92" />
         <mark key="^" line="112" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540954331011">
+      <file name="/Dummy.txt" timestamp="1540954450426">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/config/filesystems.php" timestamp="1539261447942">
@@ -327,11 +322,11 @@
         <mark key="^" line="116" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1540879678731">
-        <mark key="'" line="1063" column="0" />
-        <mark key="[" line="1074" column="50" />
-        <mark key="]" line="1074" column="50" />
-        <mark key="." line="1074" column="50" />
-        <mark key="^" line="1074" column="50" />
+        <mark key="'" line="1087" column="0" />
+        <mark key="[" line="1098" column="50" />
+        <mark key="]" line="1098" column="50" />
+        <mark key="." line="1098" column="50" />
+        <mark key="^" line="1098" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/seeds/AclSeeder.php" timestamp="1538963187670">
         <mark key="[" line="4" column="6" />
