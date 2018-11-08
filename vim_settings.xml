@@ -155,6 +155,9 @@
         <mark key="." line="50" column="50" />
         <mark key="^" line="50" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/assess/apps/manage/controller/Login.php" timestamp="1541644273106">
+        <mark key="'" line="54" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/OrganizationTeacher.php" timestamp="1540954342758">
         <mark key="'" line="127" column="4" />
       </file>
@@ -363,7 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="20" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
       <jump line="72" column="24" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
       <jump line="59" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
       <jump line="77" column="28" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
@@ -463,6 +465,7 @@
       <jump line="212" column="16" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" />
       <jump line="121" column="4" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/OrganizationTeacher.php" />
       <jump line="63" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/HomeController.php" />
+      <jump line="54" column="7" filename="$USER_HOME$/Documents/dev/www/assess/apps/manage/controller/Login.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
