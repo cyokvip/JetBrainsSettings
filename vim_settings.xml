@@ -86,11 +86,6 @@
         <mark key="." line="19" column="67" />
         <mark key="^" line="19" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2018-10-31.log" timestamp="1540952874134">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_09_27_172547_add_date_to_training_class_experience_table.php" timestamp="1538040465483">
         <mark key="[" line="28" column="26" />
         <mark key="]" line="28" column="25" />
@@ -341,6 +336,9 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/tdf_assess/thinkphp/helper.php" timestamp="1541662886142">
+        <mark key="'" line="455" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" timestamp="1540877522654">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -359,7 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="39" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" />
       <jump line="143" column="9" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" />
       <jump line="198" column="9" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" />
@@ -459,6 +456,7 @@
       <jump line="81" column="20" filename="$USER_HOME$/Documents/dev/www/tdf_assess/thinkphp/library/think/Cache.php" />
       <jump line="251" column="21" filename="$USER_HOME$/Documents/dev/www/tdf_assess/thinkphp/library/think/cache/driver/Redis.php" />
       <jump line="25" column="28" filename="$USER_HOME$/Documents/dev/www/tdf_assess/thinkphp/library/think/cache/driver/Redis.php" />
+      <jump line="455" column="13" filename="$USER_HOME$/Documents/dev/www/tdf_assess/thinkphp/helper.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
