@@ -125,6 +125,12 @@
       <file name="$USER_HOME$/Documents/dev/www/assess/apps/manage/controller/Login.php" timestamp="1541644273106">
         <mark key="'" line="54" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Http/Controllers/Api/Manage/TeacherController.php" timestamp="1544084020041">
+        <mark key="[" line="141" column="77" />
+        <mark key="]" line="141" column="94" />
+        <mark key="^" line="141" column="94" />
+        <mark key="." line="141" column="94" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/OrganizationTeacher.php" timestamp="1540954342758">
         <mark key="'" line="127" column="4" />
       </file>
@@ -200,10 +206,11 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Http/Controllers/Api/Front/CertificateController.php" timestamp="1544065176237">
-        <mark key="]" line="26" column="18" />
-        <mark key="^" line="26" column="18" />
-        <mark key="." line="26" column="18" />
+      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Models/TeacherCasesRelationship.php" timestamp="1544084272681">
+        <mark key="[" line="12" column="47" />
+        <mark key="]" line="12" column="47" />
+        <mark key="^" line="12" column="47" />
+        <mark key="." line="12" column="47" />
       </file>
       <file name="/platform.odm_person [120.77.144.173]" timestamp="1539668864369">
         <mark key="[" line="0" column="0" />
@@ -253,7 +260,7 @@
         <mark key="." line="112" column="92" />
         <mark key="^" line="112" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544075655749">
+      <file name="/Dummy.txt" timestamp="1544084329153">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/config/filesystems.php" timestamp="1539261447942">
@@ -268,11 +275,22 @@
         <mark key="." line="52" column="16" />
         <mark key="^" line="52" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Models/Teacher.php" timestamp="1544083989790">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Exceptions/Handler.php" timestamp="1539678857002">
         <mark key="[" line="40" column="15" />
         <mark key="]" line="40" column="15" />
         <mark key="^" line="39" column="16" />
         <mark key="." line="40" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/storage/logs/sql_2018-12-06.log" timestamp="1544083930633">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrganizationController.php" timestamp="1540260471880">
         <mark key="[" line="117" column="63" />
@@ -280,7 +298,7 @@
         <mark key="." line="117" column="63" />
         <mark key="^" line="116" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1543807596721">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1544084877468">
         <mark key="[" line="211" column="0" />
         <mark key="]" line="211" column="0" />
         <mark key="." line="211" column="0" />
@@ -430,10 +448,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>platform</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>platform</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>per</text>
@@ -442,31 +460,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZUVycm9yKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFN0b3JhZ2U7Cg==</text>
+        <text encoding="base64">WzIwMTgtMTItMDYgMTA6Mjg6MjldOiBzZWxlY3QgKiBmcm9tIGBvZG1fbWFuYWdlX2FjbF9wcml2aWxlZ2VgIHdoZXJlIGBhY3Rpb24gPSAnY2FzZXMnIGxpbWl0IDEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFJlZGlzOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFN0b3JhZ2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxFdmVudHNcVXBsb2FkOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFJlZGlzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">dXNlIEFwcFxFdmVudHNcVXBsb2FkOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkcnMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFfZGF0YVsneWVhcnNfb2ZfdHJhaW5pbmcnXSA9ICR5ZWFyc19vZl90cmFpbmluZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNzZXQoJHllYXJzX29mX3RyYWluaW5nKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFfZGF0YVsneWVhcnNfb2ZfdHJhaW5pbmcnXSA9ICR5ZWFyc19vZl90cmFpbmluZzsK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
