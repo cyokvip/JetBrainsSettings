@@ -115,7 +115,6 @@
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/LogListener.php" timestamp="1543468232259">
         <mark key="'" line="19" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" timestamp="1543800437917" />
       <file name="$USER_HOME$/Documents/dev/www/tdf_assess/thinkphp/library/think/cache/driver/Redis.php" timestamp="1541659622972">
         <mark key="'" line="25" column="28" />
       </file>
@@ -204,6 +203,11 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Http/Controllers/Api/Front/CertificateController.php" timestamp="1544064920574">
+        <mark key="]" line="26" column="18" />
+        <mark key="^" line="26" column="18" />
+        <mark key="." line="26" column="18" />
+      </file>
       <file name="/platform.odm_person [120.77.144.173]" timestamp="1539668864369">
         <mark key="[" line="0" column="0" />
       </file>
@@ -212,12 +216,6 @@
       </file>
       <file name="/PHP Console" timestamp="1538202099377">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/tdf_assess/apps/mobile/controller/Base.php" timestamp="1543805903921">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="64" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_09_03_152409_create_company_user_acl_privilege_table.php" timestamp="1540803417038">
         <mark key="[" line="20" column="0" />
@@ -296,7 +294,6 @@
         <mark key="." line="33" column="55" />
         <mark key="^" line="32" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/tdf_assess/apps/api/controller/Outside.php" timestamp="1543804633077" />
       <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/manage.php" timestamp="1540805264449">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="5" />
@@ -521,6 +518,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
