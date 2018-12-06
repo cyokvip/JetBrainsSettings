@@ -33,6 +33,7 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="109" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Http/Controllers/Api/Manage/ManageController.php" timestamp="1544065188870" />
       <file name="/api.learning.com.cn.odm_person_invitation [api.learning.com.cn]" timestamp="1539668975610">
         <mark key="[" line="0" column="0" />
       </file>
@@ -45,6 +46,7 @@
         <mark key="^" line="28" column="14" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Http/Controllers/Api/Manage/CertificateController.php" timestamp="1544065310601" />
       <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" timestamp="1543803288385">
         <mark key="'" line="270" column="33" />
         <mark key="[" line="75" column="40" />
@@ -76,18 +78,13 @@
         <mark key="." line="19" column="67" />
         <mark key="^" line="19" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Outer/PersonController.php" timestamp="1543808162495">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="66" column="11" />
-        <mark key="." line="66" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_09_27_172547_add_date_to_training_class_experience_table.php" timestamp="1538040465483">
         <mark key="[" line="28" column="26" />
         <mark key="]" line="28" column="25" />
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Http/Controllers/Api/Manage/BannerController.php" timestamp="1544065217125" />
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_09_27_143146_add_user_group_id_to_message_content_table.php" timestamp="1538029969149">
         <mark key="[" line="16" column="67" />
         <mark key="]" line="16" column="69" />
@@ -100,6 +97,10 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Models/Config.php" timestamp="1544065361435">
+        <mark key="'" line="10" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Models/Certificate.php" timestamp="1544065337810" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" timestamp="1538968721564">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
@@ -114,6 +115,9 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/LogListener.php" timestamp="1543468232259">
         <mark key="'" line="19" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Models/Links.php" timestamp="1544065366044">
+        <mark key="[" line="8" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/tdf_assess/thinkphp/library/think/cache/driver/Redis.php" timestamp="1541659622972">
         <mark key="'" line="25" column="28" />
@@ -161,6 +165,9 @@
       <file name="$USER_HOME$/Documents/dev/www/tdf_assess/apps/manage/model/System.php" timestamp="1541657320603">
         <mark key="'" line="373" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Models/Blog.php" timestamp="1544065344380">
+        <mark key="[" line="8" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Providers/EventServiceProvider.php" timestamp="1539257119795">
         <mark key="[" line="32" column="27" />
         <mark key="]" line="26" column="16" />
@@ -203,7 +210,7 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Http/Controllers/Api/Front/CertificateController.php" timestamp="1544064920574">
+      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Http/Controllers/Api/Front/CertificateController.php" timestamp="1544065176237">
         <mark key="]" line="26" column="18" />
         <mark key="^" line="26" column="18" />
         <mark key="." line="26" column="18" />
@@ -216,6 +223,13 @@
       </file>
       <file name="/PHP Console" timestamp="1538202099377">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Models/Cases.php" timestamp="1544065246195" />
+      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Models/BlogSort.php" timestamp="1544065349908">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_09_03_152409_create_company_user_acl_privilege_table.php" timestamp="1540803417038">
         <mark key="[" line="20" column="0" />
@@ -235,13 +249,14 @@
       <file name="/platform.odm_app_splash [120.77.144.173]" timestamp="1539668835957">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Helpers/Functions.php" timestamp="1544065316618" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassExperienceRuleController.php" timestamp="1538967656417">
         <mark key="[" line="112" column="92" />
         <mark key="]" line="112" column="92" />
         <mark key="." line="112" column="92" />
         <mark key="^" line="112" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543808110820">
+      <file name="/Dummy.txt" timestamp="1544065381244">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/tdf_assess/thinkphp/library/think/Cache.php" timestamp="1541658283256">
@@ -276,11 +291,10 @@
         <mark key="^" line="116" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1543807596721">
-        <mark key="'" line="219" column="98" />
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="232" column="0" />
-        <mark key="." line="232" column="0" />
-        <mark key="^" line="233" column="31" />
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="0" />
+        <mark key="." line="211" column="0" />
+        <mark key="^" line="212" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/seeds/AclSeeder.php" timestamp="1538963187670">
         <mark key="[" line="4" column="6" />
@@ -324,7 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="10" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" />
       <jump line="69" column="53" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" />
       <jump line="42" column="6" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PayController.php" />
       <jump line="52" column="87" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/RechargeOrder.php" />
@@ -424,6 +437,7 @@
       <jump line="429" column="0" filename="$USER_HOME$/Documents/dev/www/tdf_assess/apps/api/controller/User.php" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/dev/www/tdf_assess/apps/api/controller/User.php" />
       <jump line="40" column="43" filename="$USER_HOME$/Documents/dev/www/tdf_assess/apps/api/controller/User.php" />
+      <jump line="10" column="4" filename="$USER_HOME$/Documents/dev/www/ondemand_api/app/Models/Config.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
