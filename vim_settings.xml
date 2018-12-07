@@ -255,6 +255,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Helpers/Functions.php" timestamp="1544065316618" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassController.php" timestamp="1544149226155" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassExperienceRuleController.php" timestamp="1538967656417">
         <mark key="[" line="112" column="92" />
         <mark key="]" line="112" column="92" />
