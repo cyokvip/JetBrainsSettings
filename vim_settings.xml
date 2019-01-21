@@ -93,11 +93,22 @@
         <mark key="." line="41" column="51" />
         <mark key="^" line="41" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AuthController.php" timestamp="1548064111189">
+        <mark key="'" line="105" column="73" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_09_27_172547_add_date_to_training_class_experience_table.php" timestamp="1538040465483">
         <mark key="[" line="28" column="26" />
         <mark key="]" line="28" column="25" />
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1548064115710">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_09_27_143146_add_user_group_id_to_message_content_table.php" timestamp="1538029969149">
         <mark key="[" line="16" column="67" />
@@ -273,7 +284,7 @@
         <mark key="." line="112" column="92" />
         <mark key="^" line="112" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548055710338">
+      <file name="/Dummy.txt" timestamp="1548064133108">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/config/filesystems.php" timestamp="1539261447942">
@@ -299,6 +310,11 @@
         <mark key="]" line="40" column="15" />
         <mark key="^" line="39" column="16" />
         <mark key="." line="40" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyCourseController.php" timestamp="1548064127771">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/ondemand_api/storage/logs/sql_2018-12-06.log" timestamp="1544083930633">
         <mark key="]" line="0" column="0" />
@@ -349,7 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="315" column="38" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
       <jump line="318" column="9" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
       <jump line="350" column="114" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
       <jump line="143" column="8" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
@@ -449,10 +464,11 @@
       <jump line="27" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/DeleteLog.php" />
       <jump line="41" column="12" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/DeleteLog.php" />
       <jump line="39" column="16" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/DeleteLog.php" />
+      <jump line="111" column="73" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AuthController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ29tcGFueUNvdXJzZVNlY3Rpb247Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -464,30 +480,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGNwZC0+dHJhaW5pbmdfY2xhc3NfaWQ9JHRyYWluaW5nX2NsYXNzX2lkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ29tcGFueUNvdXJzZVNlY3Rpb247Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXElucHV0Owo=</text>
       </register>
-      <register name="3" type="4">
-        <text>$a=1;
-        $b=$a++;
-        echo $b;exit;</text>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcUGVyc29uTG9nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBcQXBwXENvbnNvbGVcQ29tbWFuZHNcVHJhaW5pbmdDbGFzc1ByaXplRG9uZTo6Y2xhc3MsCg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcUGVyc29uSW52aXRhdGlvbjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGNwZC0+dHJhaW5pbmdfY2xhc3NfaWQ9JHRyYWluaW5nX2NsYXNzX2lkOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcUGVyc29uRXh0ZW5kOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcUGVyc29uUG9pbnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcTWVzc2FnZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHRbJ2xpc3QnXT0kcnM7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxMaWJyYXJpZXNcVXNlckdyb3VwOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
