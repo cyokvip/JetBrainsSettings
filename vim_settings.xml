@@ -220,6 +220,11 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="47" column="59" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingTaskTopicController.php" timestamp="1548055295341">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/tdf_assess/apps/extra/Redis.php" timestamp="1541659172274">
         <mark key="[" line="14" column="6" />
         <mark key="]" line="14" column="7" />
@@ -268,7 +273,7 @@
         <mark key="." line="112" column="92" />
         <mark key="^" line="112" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547712143160">
+      <file name="/Dummy.txt" timestamp="1548055288411">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/config/filesystems.php" timestamp="1539261447942">
@@ -447,7 +452,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBcQXBwXENvbnNvbGVcQ29tbWFuZHNcVHJhaW5pbmdDbGFzc1ByaXplRG9uZTo6Y2xhc3MsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -459,28 +464,30 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGNwZC0+dHJhaW5pbmdfY2xhc3NfaWQ9JHRyYWluaW5nX2NsYXNzX2lkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBcQXBwXENvbnNvbGVcQ29tbWFuZHNcVHJhaW5pbmdDbGFzc1ByaXplRG9uZTo6Y2xhc3MsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGNwZC0+dHJhaW5pbmdfY2xhc3NfaWQ9JHRyYWluaW5nX2NsYXNzX2lkOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>$a=1;
+        $b=$a++;
+        echo $b;exit;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBcQXBwXENvbnNvbGVcQ29tbWFuZHNcVHJhaW5pbmdDbGFzc1ByaXplRG9uZTo6Y2xhc3MsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHRbJ2xpc3QnXT0kcnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGNwZC0+dHJhaW5pbmdfY2xhc3NfaWQ9JHRyYWluaW5nX2NsYXNzX2lkOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHRbJ2xpc3QnXT0kcnM7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
