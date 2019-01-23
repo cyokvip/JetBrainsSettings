@@ -106,7 +106,8 @@
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1548064115710">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1548205933590">
+        <mark key="'" line="26" column="37" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -186,6 +187,12 @@
         <mark key="]" line="20" column="81" />
         <mark key="^" line="20" column="81" />
         <mark key="." line="20" column="81" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/SplashController.php" timestamp="1548205926711">
+        <mark key="'" line="58" column="26" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/Indexs.php" timestamp="1540951845733">
         <mark key="[" line="42" column="23" />
@@ -369,8 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="9" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
-      <jump line="350" column="114" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
       <jump line="143" column="8" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
       <jump line="320" column="4" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
       <jump line="23" column="1" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
@@ -469,25 +474,27 @@
       <jump line="41" column="12" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/DeleteLog.php" />
       <jump line="39" column="16" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/DeleteLog.php" />
       <jump line="111" column="73" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AuthController.php" />
+      <jump line="58" column="26" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/SplashController.php" />
+      <jump line="26" column="37" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGVyc29uX2lkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGlkc19hcnI9YXJyYXkoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>TrainingClassExperience</text>
+        <text>input</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGNwZC0+dHJhaW5pbmdfY2xhc3NfaWQ9JHRyYWluaW5nX2NsYXNzX2lkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGVyc29uX2lkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGlkc19hcnI9YXJyYXkoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGVyc29uKTsK</text>
+        <text encoding="base64">ICAgICAgICAkaW5mbz1hcnJheSgpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+cGVyc29uX2lkOwo=</text>
@@ -496,34 +503,33 @@
         <text encoding="base64">ICAgICAgICBkZCgkcGVyc29uKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcGVyc29uPSR0Y20tPmdldF91c2VybmFtZSgkdGhpcy0+cGVyc29uX2lkLCRjb21tZW50X3JzLT50cmFpbmluZ19jbGFzc19pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGVyc29uX2lkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ29tcGFueUNvdXJzZVNlY3Rpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGVyc29uKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXElucHV0Owo=</text>
+        <text encoding="base64">ICAgICAgICAkcGVyc29uPSR0Y20tPmdldF91c2VybmFtZSgkdGhpcy0+cGVyc29uX2lkLCRjb21tZW50X3JzLT50cmFpbmluZ19jbGFzc19pZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcUGVyc29uTG9nOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ29tcGFueUNvdXJzZVNlY3Rpb247Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcUGVyc29uSW52aXRhdGlvbjsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXElucHV0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>TrainingClassExperience</last-search>
+      <last-search>input</last-search>
       <last-offset />
-      <last-pattern>TrainingClassExperience</last-pattern>
+      <last-pattern>input</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>vall</entry>
         <entry>wall</entry>
         <entry>12</entry>
         <entry>order</entry>
@@ -543,6 +549,7 @@
         <entry>$cases_ids</entry>
         <entry>list</entry>
         <entry>TrainingClassExperience</entry>
+        <entry>input</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
