@@ -164,6 +164,12 @@
         <mark key="^" line="92" column="8" />
         <mark key="." line="92" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingTaskTopicController.php" timestamp="1548297668204">
+        <mark key="[" line="36" column="62" />
+        <mark key="]" line="37" column="34" />
+        <mark key="^" line="37" column="34" />
+        <mark key="." line="37" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" timestamp="1540877350124">
         <mark key="[" line="42" column="5" />
         <mark key="]" line="43" column="9" />
@@ -221,6 +227,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="52" column="115" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingTaskTopicController.php" timestamp="1548297656236">
+        <mark key="[" line="37" column="20" />
+        <mark key="]" line="37" column="33" />
+        <mark key="^" line="37" column="33" />
+        <mark key="." line="37" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ManageController.php" timestamp="1540870281783">
         <mark key="[" line="116" column="40" />
         <mark key="]" line="116" column="66" />
@@ -259,7 +271,7 @@
       <file name="/platform.odm_person [120.77.144.173]" timestamp="1539668864369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingTaskCommentController.php" timestamp="1548296428625" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingTaskCommentController.php" timestamp="1548297571748" />
       <file name="/PHP Console" timestamp="1538202099377">
         <mark key="[" line="0" column="0" />
       </file>
@@ -293,7 +305,7 @@
         <mark key="." line="112" column="92" />
         <mark key="^" line="112" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548144268129">
+      <file name="/Dummy.txt" timestamp="1548297672153">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/config/filesystems.php" timestamp="1539261447942">
