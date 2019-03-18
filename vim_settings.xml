@@ -26,13 +26,19 @@
       <file name="/platform.odm_person [120.77.144.173]" timestamp="1539668864369">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/shop/oscshop/admin/controller/User.php" timestamp="1552875332794">
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="21" column="8" />
+        <mark key="^" line="21" column="8" />
+        <mark key="." line="21" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingTaskCommentController.php" timestamp="1548315309111">
         <mark key="[" line="72" column="16" />
         <mark key="]" line="72" column="34" />
         <mark key="^" line="72" column="34" />
         <mark key="." line="72" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/shop/extend/oscshop/Dir.php" timestamp="1552874481713">
+      <file name="$USER_HOME$/Documents/dev/www/shop/extend/oscshop/Dir.php" timestamp="1552875258905">
         <mark key="[" line="87" column="35" />
         <mark key="]" line="88" column="13" />
         <mark key="." line="88" column="13" />
@@ -45,6 +51,12 @@
       </file>
       <file name="/PHP Console" timestamp="1538202099377">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/shop/oscshop/admin/view/user/index.html" timestamp="1552875185680">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+        <mark key="." line="22" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/DeleteLog.php" timestamp="1548054958283">
         <mark key="'" line="39" column="16" />
