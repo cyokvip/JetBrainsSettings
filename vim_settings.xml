@@ -51,6 +51,12 @@
         <mark key="^" line="33" column="7" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingTaskTopicController.php" timestamp="1548315159480">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="45" column="36" />
+        <mark key="^" line="45" column="36" />
+        <mark key="." line="45" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_08_24_134016_create_training_class_experience_table.php" timestamp="1553073809517" />
       <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Models/Blog.php" timestamp="1544065344380">
         <mark key="[" line="8" column="30" />
@@ -60,6 +66,12 @@
         <mark key="]" line="37" column="33" />
         <mark key="^" line="37" column="33" />
         <mark key="." line="37" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/PersonPointController.php" timestamp="1553074999214">
+        <mark key="[" line="40" column="69" />
+        <mark key="]" line="40" column="75" />
+        <mark key="^" line="40" column="75" />
+        <mark key="." line="40" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/ApiManageController.php" timestamp="1553062741740" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Home/GoodsController.php" timestamp="1553073605791">
@@ -72,9 +84,27 @@
       <file name="/platform.odm_person [120.77.144.173]" timestamp="1539668864369">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/shop/oscshop/admin/controller/User.php" timestamp="1552875332794">
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="21" column="8" />
+        <mark key="^" line="21" column="8" />
+        <mark key="." line="21" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_02_22_105006_add_images_to_app_feedback.php" timestamp="1553073735511" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingTaskCommentController.php" timestamp="1553062477260">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="47" />
+        <mark key="^" line="72" column="34" />
+        <mark key="." line="72" column="34" />
+      </file>
       <file name="/PHP Console" timestamp="1538202099377">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/shop/oscshop/admin/view/user/index.html" timestamp="1552875185680">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+        <mark key="." line="22" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/ManageAclRole.php" timestamp="1553063503896" />
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_03_20_172158_add_goods_realname_to_person.php" timestamp="1553073793136">
@@ -112,12 +142,18 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/AdController.php" timestamp="1553061529926" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/PersonController.php" timestamp="1553071308941" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1553074182274">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1553074986731">
         <mark key="'" line="1043" column="56" />
-        <mark key="[" line="217" column="0" />
+        <mark key="[" line="352" column="71" />
         <mark key="]" line="217" column="0" />
         <mark key="." line="217" column="0" />
         <mark key="^" line="250" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingTaskCommentController.php" timestamp="1548144264085">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="99" column="13" />
+        <mark key="." line="99" column="13" />
+        <mark key="^" line="99" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/home.php" timestamp="1553073302996">
         <mark key="[" line="53" column="52" />
