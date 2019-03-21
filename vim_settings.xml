@@ -3,11 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_03_21_154455_create_person_goods_follow_table.php" timestamp="1553154377958">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="35" />
+        <mark key="^" line="20" column="35" />
+      </file>
       <file name="/api.learning.com.cn.odm_person_invitation [api.learning.com.cn]" timestamp="1539668975610">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1541659191897">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" timestamp="1553153847565">
+        <mark key="[" line="301" column="0" />
+        <mark key="]" line="301" column="0" />
+        <mark key="^" line="304" column="58" />
+        <mark key="." line="301" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_03_20_172120_add_goods_address_to_person.php" timestamp="1553073759552">
         <mark key="[" line="16" column="70" />
@@ -65,6 +77,7 @@
         <mark key="^" line="33" column="7" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TeacherController.php" timestamp="1553154430434" />
       <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Http/Controllers/Api/Manage/TeacherController.php" timestamp="1544086750447">
         <mark key="'" line="83" column="28" />
         <mark key="[" line="91" column="9" />
@@ -72,6 +85,7 @@
         <mark key="^" line="92" column="8" />
         <mark key="." line="92" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_07_30_174534_create_person_teacher_follow_table.php" timestamp="1553154340869" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingTaskTopicController.php" timestamp="1548315159480">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="45" column="36" />
@@ -170,6 +184,13 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/AdController.php" timestamp="1553061529926" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/PersonController.php" timestamp="1553071308941" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GoodsController.php" timestamp="1553154518718">
+        <mark key="'" line="23" column="6" />
+        <mark key="[" line="129" column="15" />
+        <mark key="]" line="129" column="12" />
+        <mark key="." line="129" column="12" />
+        <mark key="^" line="129" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1553074986731">
         <mark key="'" line="1043" column="56" />
         <mark key="[" line="352" column="71" />
@@ -183,11 +204,14 @@
         <mark key="." line="99" column="13" />
         <mark key="^" line="99" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/home.php" timestamp="1553073302996">
-        <mark key="[" line="53" column="52" />
-        <mark key="]" line="53" column="55" />
-        <mark key="." line="53" column="55" />
-        <mark key="^" line="53" column="55" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ConfigController.php" timestamp="1553153685112">
+        <mark key="'" line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/home.php" timestamp="1553153829788">
+        <mark key="[" line="49" column="52" />
+        <mark key="]" line="49" column="55" />
+        <mark key="." line="49" column="55" />
+        <mark key="^" line="49" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GoodsSort.php" timestamp="1553070224089">
         <mark key="'" line="8" column="36" />
@@ -196,16 +220,8 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/manage.php" timestamp="1553071128863">
-        <mark key="'" line="31" column="52" />
-        <mark key="[" line="426" column="34" />
-        <mark key="]" line="426" column="34" />
-        <mark key="." line="426" column="34" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="29" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" />
-      <jump line="37" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/NewMessageMarkListener.php" />
       <jump line="44" column="29" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/NewMessageMarkListener.php" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/NewMessageMarkListener.php" />
@@ -304,13 +320,15 @@
       <jump line="8" column="36" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/GoodsSort.php" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/GoodsController.php" />
       <jump line="1031" column="56" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="8" column="34" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ConfigController.php" />
+      <jump line="23" column="6" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GoodsController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>数据不存在</text>
+        <text>teacher_id</text>
       </register>
       <register name="-" type="4">
-        <text>数据不存在</text>
+        <text>teacher_id</text>
       </register>
       <register name="/" type="4">
         <text>名片</text>
@@ -322,28 +340,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNzZXQoJGNvbXBhbnlfcG9zaXRpb24pKQo=</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcT3JnYW5pemF0aW9uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ291cnNlRnJlZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJzID0gQ291cnNlOjp3aXRoKCcnKQo=</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ291cnNlSmY7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJzID0gQ291cnNlOjpsZWZ0Sm9pbignY291cnNlX2pmJywgJ2NvdXJzZV9qZi5jb3Vyc2VfaWQnLCAnPScsICdjb3Vyc2UuaWQnKS0+d2hlcmUoJHdoZXJlX2RhdGEpLT5vcmRlckJ5KCdjb3Vyc2UuaWQnLCAnZGVzYycpLT5wYWdpbmF0ZSgkcHNpemUpOwogICAgICAgICAgICAkcnMgPSBDb3Vyc2U6OndpdGgoJycpLT53aGVyZSgnaWQnLCAkaWQpLT5maXJzdCgpOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ291cnNlVGo7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ291cnNlQ2hhcHRlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlRXJyb3IoJycsICfmmoLml6DmlbDmja4nKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNzZXQoJGNvbXBhbnlfcG9zaXRpb24pKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
