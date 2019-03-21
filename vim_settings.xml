@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" timestamp="1553156329996">
+        <mark key="[" line="329" column="287" />
+        <mark key="]" line="329" column="287" />
+        <mark key="^" line="329" column="287" />
+        <mark key="." line="329" column="287" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_03_21_154455_create_person_goods_follow_table.php" timestamp="1553154377958">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="20" column="35" />
@@ -166,7 +172,7 @@
         <mark key="." line="11" column="79" />
         <mark key="^" line="11" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553073263863">
+      <file name="/Dummy.txt" timestamp="1553156578666">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingTaskCommentController.php" timestamp="1548315344341">
@@ -191,8 +197,8 @@
         <mark key="." line="129" column="12" />
         <mark key="^" line="129" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1553074986731">
-        <mark key="'" line="1043" column="56" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1553156537852">
+        <mark key="'" line="335" column="5" />
         <mark key="[" line="352" column="71" />
         <mark key="]" line="217" column="0" />
         <mark key="." line="217" column="0" />
@@ -222,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/NewMessageMarkListener.php" />
       <jump line="44" column="29" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/NewMessageMarkListener.php" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/NewMessageMarkListener.php" />
       <jump line="52" column="45" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" />
@@ -322,16 +327,17 @@
       <jump line="1031" column="56" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
       <jump line="8" column="34" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ConfigController.php" />
       <jump line="23" column="6" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GoodsController.php" />
+      <jump line="335" column="5" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>teacher_id</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="-" type="4">
-        <text>teacher_id</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
-        <text>名片</text>
+        <text>n update</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkeWVhcnNfb2ZfdHJhaW5pbmcgPSBJbnB1dDo6cG9zdCgneWVhcnNfb2ZfdHJhaW5pbmcnKTsK</text>
@@ -340,43 +346,42 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcT3JnYW5pemF0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ291cnNlRnJlZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ291cnNlSmY7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkYV9kYXRhWydnb29kc19yZWFsbmFtZSddID0gJGdvb2RzX3JlYWxuYW1lOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ291cnNlVGo7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpc3NldCgkZ29vZHNfcmVhbG5hbWUpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ291cnNlQ2hhcHRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkYV9kYXRhWydnb29kc19waG9uZSddID0gJGdvb2RzX3Bob25lOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpc3NldCgkY29tcGFueV9wb3NpdGlvbikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNzZXQoJGNvbXBhbnlfcG9zaXRpb24pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkYV9kYXRhWydnb29kc19hZGRyZXNzJ10gPSAkZ29vZHNfYWRkcmVzczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpc3NldCgkZ29vZHNfYWRkcmVzcykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>名片</last-search>
+      <last-search>n update</last-search>
       <last-offset />
-      <last-pattern>名片</last-pattern>
+      <last-pattern>n update</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>all_key</entry>
         <entry>$key_myrank</entry>
         <entry>redis</entry>
         <entry>n message_button</entry>
@@ -396,6 +401,7 @@
         <entry>insert</entry>
         <entry>个人资料</entry>
         <entry>名片</entry>
+        <entry>n update</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
