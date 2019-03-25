@@ -187,8 +187,8 @@
         <mark key="." line="22" column="32" />
         <mark key="^" line="22" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GoodsController.php" timestamp="1553154518718">
-        <mark key="'" line="23" column="6" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GoodsController.php" timestamp="1553486079131">
+        <mark key="'" line="142" column="0" />
         <mark key="[" line="129" column="15" />
         <mark key="]" line="129" column="12" />
         <mark key="." line="129" column="12" />
@@ -225,7 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/NewMessageMarkListener.php" />
       <jump line="52" column="45" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" />
       <jump line="59" column="25" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" />
@@ -325,6 +324,7 @@
       <jump line="23" column="6" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GoodsController.php" />
       <jump line="335" column="5" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
       <jump line="47" column="46" filename="$USER_HOME$/Documents/dev/www/platform/config/database.php" />
+      <jump line="142" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GoodsController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
