@@ -178,13 +178,6 @@
       <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Models/Links.php" timestamp="1544065366044">
         <mark key="[" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1553584222396">
-        <mark key="'" line="251" column="0" />
-        <mark key="[" line="250" column="0" />
-        <mark key="]" line="250" column="0" />
-        <mark key="." line="250" column="0" />
-        <mark key="^" line="246" column="18" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingTaskCommentController.php" timestamp="1548144264085">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="99" column="13" />
@@ -229,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="17" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AuthController.php" />
       <jump line="45" column="8" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/UpdatePersonPushTokenListener.php" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/UpdatePersonPushTokenListener.php" />
       <jump line="41" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/UpdatePersonPushTokenListener.php" />
@@ -329,6 +321,7 @@
       <jump line="247" column="38" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
       <jump line="252" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
       <jump line="198" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GoodsController.php" />
+      <jump line="321" column="26" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -338,7 +331,7 @@
         <text>100-199</text>
       </register>
       <register name="/" type="4">
-        <text>categorty</text>
+        <text>我的名片</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJy9hcHAvZ29vZHMvaW5mbycsICdHb29kc0NvbnRyb2xsZXJAaW5mbycpOwo=</text>
@@ -375,15 +368,14 @@
       </register>
     </registers>
     <search>
-      <last-search>categorty</last-search>
+      <last-search>我的名片</last-search>
       <last-offset />
-      <last-pattern>categorty</last-pattern>
+      <last-pattern>我的名片</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>n login</entry>
         <entry>company_user</entry>
         <entry>Vanry\Scout\TNTSearchScoutServiceProvider</entry>
         <entry>tnt</entry>
@@ -403,6 +395,7 @@
         <entry>goods</entry>
         <entry>goods_phone</entry>
         <entry>categorty</entry>
+        <entry>我的名片</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
