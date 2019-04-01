@@ -54,11 +54,12 @@
         <mark key="." line="88" column="13" />
         <mark key="^" line="88" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrderDeliveryController.php" timestamp="1554090728399">
-        <mark key="[" line="144" column="24" />
-        <mark key="]" line="145" column="15" />
-        <mark key="^" line="145" column="15" />
-        <mark key="." line="145" column="15" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrderDeliveryController.php" timestamp="1554094742158">
+        <mark key="'" line="60" column="33" />
+        <mark key="[" line="148" column="20" />
+        <mark key="]" line="148" column="19" />
+        <mark key="^" line="148" column="19" />
+        <mark key="." line="148" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Kernel.php" timestamp="1553852121660">
         <mark key="[" line="33" column="72" />
@@ -118,14 +119,19 @@
         <mark key="^" line="92" column="8" />
         <mark key="." line="92" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyPerson.php" timestamp="1554090814882" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyPerson.php" timestamp="1554094437397" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingTaskTopicController.php" timestamp="1548315159480">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="45" column="36" />
         <mark key="^" line="45" column="36" />
         <mark key="." line="45" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" timestamp="1554090864496" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" timestamp="1554094570896">
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="18" column="41" />
+        <mark key="." line="18" column="41" />
+        <mark key="^" line="18" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Models/Blog.php" timestamp="1544065344380">
         <mark key="[" line="8" column="30" />
       </file>
@@ -264,11 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/PersonController.php" />
-      <jump line="229" column="50" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AuthController.php" />
-      <jump line="291" column="39" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AuthController.php" />
-      <jump line="137" column="23" filename="$USER_HOME$/Documents/dev/www/platform/app/Libraries/IAuth.php" />
-      <jump line="68" column="7" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassMemberController.php" />
       <jump line="92" column="51" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassMemberController.php" />
       <jump line="430" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Libraries/IAuth.php" />
       <jump line="106" column="44" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherShowController.php" />
@@ -364,36 +365,50 @@
       <jump line="15" column="4" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" />
       <jump line="42" column="13" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/BiController.php" />
       <jump line="218" column="5" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GoodsController.php" />
+      <jump line="148" column="30" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrderDeliveryController.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrderDeliveryController.php" />
+      <jump line="151" column="34" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrderDeliveryController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrderDeliveryController.php" />
+      <jump line="60" column="33" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrderDeliveryController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJy9hcHAvZ29vZHMvcG9pbnRfY2F0ZWdvcnknLCAnR29vZHNDb250cm9sbGVyQHBvaW50X2NhdGVnb3J5Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>3</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BvaW50X2xpc3QnPT4kcG9pbnRfbGlzdCwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IFRZUEVfT1JERVJfTk9UX1NISVBQRUQgPSA0Oy8v5LyB5Lia6YKA6K+355So5oi3Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJy9hcHAvZ29vZHMvcG9pbnRfY2F0ZWdvcnknLCAnR29vZHNDb250cm9sbGVyQHBvaW50X2NhdGVnb3J5Jyk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5Y+R6YCB5Yqg5YWl6YKA6K+3Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIGh0dHBcTWVzc2FnZTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJy9hcHAvZ29vZHMvcG9pbnRfY2F0ZWdvcnknLCAnR29vZHNDb250cm9sbGVyQHBvaW50X2NhdGVnb3J5Jyk7Cg==</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>//积分分类列表
     public function point_category()
     {
@@ -401,15 +416,6 @@
         return responseSuccess($arr);
 
     }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgogICAgLy/ojrflj5blvIDlp4vml7bpl7QKICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0U3RhcnRUaW1lKCR0aW1lKQogICAgewogICAgICAgIGlmICgkdGltZSA9PSAndG9kYXknKSB7CiAgICAgICAgICAgICRzdGFydF90aW1lID0gbWt0aW1lKDAsIDAsIDAsIGRhdGUoJ20nKSwgZGF0ZSgnZCcpLCBkYXRlKCdZJykpOwogICAgICAgIH0gZWxzZSBpZiAoJHRpbWUgPT0gJ3dlZWsnKSB7CiAgICAgICAgICAgICR3ID0gZGF0ZSgndycpID8gZGF0ZSgndycpIDogNzsKICAgICAgICAgICAgJHN0YXJ0X3RpbWUgPSBta3RpbWUoMCwgMCwgMCwgZGF0ZSgnbScpLCBkYXRlKCdkJykgLSAkdyArIDEsIGRhdGUoJ1knKSk7CiAgICAgICAgfSBlbHNlIGlmICgkdGltZSA9PSAnbW9udGgnKSB7CiAgICAgICAgICAgICRzdGFydF90aW1lID0gbWt0aW1lKDAsIDAsIDAsIGRhdGUoJ20nKSwgMSwgZGF0ZSgnWScpKTsKICAgICAgICB9IGVsc2UgaWYgKCR0aW1lID09ICdzZWFzb24nKSB7CiAgICAgICAgICAgICRzZWFzb24gPSBjZWlsKChkYXRlKCduJykpIC8gMyk7CiAgICAgICAgICAgICRzdGFydF90aW1lID0gbWt0aW1lKDAsIDAsIDAsICRzZWFzb24gKiAzIC0gMyArIDEsIDEsIGRhdGUoJ1knKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgJHN0YXJ0X3RpbWUgPSBzdHJ0b3RpbWUoZGF0ZSgiWSIsIHRpbWUoKSkgLiAiLTEiIC4gIi0xIik7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJHN0YXJ0X3RpbWU7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
