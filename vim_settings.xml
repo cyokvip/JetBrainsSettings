@@ -54,12 +54,12 @@
         <mark key="." line="88" column="13" />
         <mark key="^" line="88" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrderDeliveryController.php" timestamp="1554094742158">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrderDeliveryController.php" timestamp="1554095851282">
         <mark key="'" line="60" column="33" />
-        <mark key="[" line="148" column="20" />
-        <mark key="]" line="148" column="19" />
-        <mark key="^" line="148" column="19" />
-        <mark key="." line="148" column="19" />
+        <mark key="[" line="146" column="38" />
+        <mark key="]" line="146" column="38" />
+        <mark key="^" line="146" column="38" />
+        <mark key="." line="146" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Kernel.php" timestamp="1553852121660">
         <mark key="[" line="33" column="72" />
@@ -373,49 +373,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbWVzc2FnZV90aXRsZT0kZ29vZHNfaW5mby0+dGl0bGU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>3</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFRZUEVfT1JERVJfTk9UX1NISVBQRUQgPSA0Oy8v5LyB5Lia6YKA6K+355So5oi3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbWVzc2FnZV90aXRsZT0kZ29vZHNfaW5mby0+dGl0bGU7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5Y+R6YCB5Yqg5YWl6YKA6K+3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIGh0dHBcTWVzc2FnZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5Y+R6YCB5Yqg5YWl6YKA6K+3Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJy9hcHAvZ29vZHMvcG9pbnRfY2F0ZWdvcnknLCAnR29vZHNDb250cm9sbGVyQHBvaW50X2NhdGVnb3J5Jyk7Cg==</text>
+        <text encoding="base64">dXNlIGh0dHBcTWVzc2FnZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJy9hcHAvZ29vZHMvcG9pbnRfY2F0ZWdvcnknLCAnR29vZHNDb250cm9sbGVyQHBvaW50X2NhdGVnb3J5Jyk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>//积分分类列表
-    public function point_category()
-    {
-       
-        return responseSuccess($arr);
-
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
