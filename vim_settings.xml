@@ -200,7 +200,7 @@
         <mark key="." line="11" column="79" />
         <mark key="^" line="11" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554170067746">
+      <file name="/Dummy.txt" timestamp="1554173936900">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/BiController.php" timestamp="1554085364513">
@@ -235,12 +235,12 @@
         <mark key="^" line="11" column="42" />
         <mark key="." line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GoodsController.php" timestamp="1554170023160">
-        <mark key="'" line="221" column="5" />
-        <mark key="[" line="124" column="20" />
-        <mark key="]" line="124" column="20" />
-        <mark key="." line="124" column="20" />
-        <mark key="^" line="124" column="20" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GoodsController.php" timestamp="1554173878255">
+        <mark key="'" line="7" column="25" />
+        <mark key="[" line="161" column="153" />
+        <mark key="]" line="161" column="153" />
+        <mark key="." line="161" column="153" />
+        <mark key="^" line="168" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1554098661249">
         <mark key="[" line="443" column="0" />
@@ -273,9 +273,9 @@
         <mark key="]" line="466" column="1" />
         <mark key="." line="466" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CourseController.php" timestamp="1554173742868" />
     </filemarks>
     <jumps>
-      <jump line="92" column="51" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassMemberController.php" />
       <jump line="430" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Libraries/IAuth.php" />
       <jump line="106" column="44" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrganizationTeacherShowController.php" />
       <jump line="86" column="19" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" />
@@ -375,16 +375,17 @@
       <jump line="151" column="34" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrderDeliveryController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrderDeliveryController.php" />
       <jump line="60" column="33" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/OrderDeliveryController.php" />
+      <jump line="7" column="25" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GoodsController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3dFeGNlcHRpb25NZXNzYWdlKCfmmoLml6DmlbDmja4nKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>3</text>
+        <text>PersonCourseGet</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc2hvcF9pZCcgPT4gJHNob3BfaWQsCg==</text>
@@ -421,15 +422,14 @@
       </register>
     </registers>
     <search>
-      <last-search>3</last-search>
+      <last-search>PersonCourseGet</last-search>
       <last-offset />
-      <last-pattern>3</last-pattern>
+      <last-pattern>PersonCourseGet</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tnt</entry>
         <entry>my_info</entry>
         <entry>personal_information_point_first</entry>
         <entry>per</entry>
@@ -449,6 +449,7 @@
         <entry>我的名片</entry>
         <entry>时时彩</entry>
         <entry>3</entry>
+        <entry>PersonCourseGet</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
