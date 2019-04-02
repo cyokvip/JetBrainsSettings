@@ -86,7 +86,7 @@
         <mark key="." line="19" column="95" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AuthController.php" timestamp="1554168183819" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" timestamp="1554197377509">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" timestamp="1554198711819">
         <mark key="'" line="139" column="8" />
         <mark key="[" line="85" column="51" />
         <mark key="]" line="85" column="52" />
@@ -187,8 +187,15 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554196944379">
+      <file name="/Dummy.txt" timestamp="1554199517304">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/BiController.php" timestamp="1554199506794">
+        <mark key="'" line="280" column="131" />
+        <mark key="[" line="369" column="81" />
+        <mark key="]" line="369" column="86" />
+        <mark key="." line="369" column="86" />
+        <mark key="^" line="369" column="86" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_03_20_133533_create_review_project_table.php" timestamp="1553851506164">
         <mark key="[" line="19" column="58" />
@@ -248,8 +255,6 @@
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CourseController.php" timestamp="1554173742868" />
     </filemarks>
     <jumps>
-      <jump line="166" column="8" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" />
-      <jump line="315" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" />
       <jump line="171" column="0" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" />
       <jump line="240" column="45" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/CompanyPersonController.php" />
       <jump line="473" column="9" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
@@ -348,16 +353,18 @@
       <jump line="49" column="20" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" />
       <jump line="83" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" />
       <jump line="139" column="8" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" />
+      <jump line="369" column="47" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/BiController.php" />
+      <jump line="280" column="131" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/BiController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJzLT5jdXJyZW50X21hbmFnZV9zaWduYXR1cmVfc3RhdHVzID0gMDsK</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>becde63c4852fb160cf26e6d69e61b74</text>
+        <text>order_type</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHJzLT5jdXJyZW50X21hbmFnZV9zaWduYXR1cmVfc3RhdHVzID0gMDsK</text>
@@ -394,15 +401,14 @@
       </register>
     </registers>
     <search>
-      <last-search>becde63c4852fb160cf26e6d69e61b74</last-search>
+      <last-search>order_type</last-search>
       <last-offset />
-      <last-pattern>becde63c4852fb160cf26e6d69e61b74</last-pattern>
+      <last-pattern>order_type</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>$cases_ids</entry>
         <entry>list</entry>
         <entry>TrainingClassExperience</entry>
         <entry>input</entry>
@@ -422,6 +428,7 @@
         <entry>order_list</entry>
         <entry>person_order</entry>
         <entry>becde63c4852fb160cf26e6d69e61b74</entry>
+        <entry>order_type</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
