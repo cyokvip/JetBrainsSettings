@@ -66,7 +66,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555640117106">
+      <file name="/Dummy.txt" timestamp="1556265789315">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/BiController.php" timestamp="1554269242418">
@@ -75,6 +75,12 @@
         <mark key="]" line="372" column="14" />
         <mark key="." line="372" column="14" />
         <mark key="^" line="372" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1556265736958">
+        <mark key="[" line="68" column="75" />
+        <mark key="]" line="68" column="71" />
+        <mark key="." line="68" column="71" />
+        <mark key="^" line="68" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" timestamp="1554341648153">
         <mark key="'" line="95" column="13" />
@@ -238,10 +244,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JGNsYXNzX2luZm8tPmNsYXNzX2NvdmVyWyduYW1lJ107</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGNsYXNzX2luZm8tPmNsYXNzX2NvdmVyWyduYW1lJ107</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>class_info</text>
