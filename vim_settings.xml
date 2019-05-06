@@ -37,11 +37,11 @@
         <mark key="." line="49" column="35" />
         <mark key="^" line="51" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/AppBannerController.php" timestamp="1556526857863">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/AppBannerController.php" timestamp="1557122149285">
         <mark key="'" line="69" column="4" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/AppModuleTopic.php" timestamp="1554186597001">
         <mark key="'" line="189" column="0" />
@@ -312,8 +312,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>$</text>
@@ -325,31 +325,31 @@
         <text encoding="base64">ICAgICAgICAkcHNpemUgPSBJbnB1dDo6Z2V0KCdwc2l6ZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRiYW5uZXJbMF09JGNvbXBhbnlfcnMtPnNjaG9vbF9pbWFnZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRiYW5uZXI9W107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRiYW5uZXJbMF09JGNvbXBhbnlfcnMtPnNjaG9vbF9pbWFnZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfWVsc2V7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRiYW5uZXI9W107Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRiYW5uZXI9JGJhbm5lcl9yczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfWVsc2V7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
