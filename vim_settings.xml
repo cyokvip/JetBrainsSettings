@@ -24,11 +24,11 @@
       <file name="/platform.odm_goods [120.77.144.173]" timestamp="1553499732367">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_06_172432_add_submission_method_to_training_class_task_table.php" timestamp="1557134730441">
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_06_172432_add_submission_method_to_training_class_task_table.php" timestamp="1557139796813">
         <mark key="[" line="16" column="71" />
-        <mark key="]" line="16" column="71" />
-        <mark key="." line="16" column="71" />
-        <mark key="^" line="16" column="58" />
+        <mark key="]" line="25" column="25" />
+        <mark key="." line="25" column="25" />
+        <mark key="^" line="25" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitCompanyAppModuleHome.php" timestamp="1556524199259">
         <mark key="'" line="20" column="17" />
@@ -134,6 +134,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="23" column="29" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" timestamp="1557140311063">
+        <mark key="[" line="79" column="56" />
+        <mark key="]" line="79" column="56" />
+        <mark key="." line="79" column="56" />
+        <mark key="^" line="79" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_04_29_155637_create_company_app_banner_table.php" timestamp="1556525848923">
         <mark key="[" line="17" column="0" />
@@ -321,44 +327,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>店铺介绍</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGluc2VydF8K</text>
       </register>
       <register name="-" type="4">
-        <text>店铺介绍</text>
+        <text>2017.jpg</text>
       </register>
       <register name="/" type="4">
         <text>$ac</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcHNpemUgPSBJbnB1dDo6Z2V0KCdwc2l6ZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFycmF5KCd0aXRsZSc9PidhYS5qcGcnLCd2YWx1ZSc9PicyMDE3LmpwZycpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGluc2VydF8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdkZGRhJywnZGRkZGMnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFlbXB0eSgkdG1wKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhLmpwZycsJ2IucGRmJywnYy5kb2N4Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGlfZGF0YT1hcnJheSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRsaXN0W10gPSAkdG1wOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGlfZGF0YVsnJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRyYWluaW5nQ2xhc3NUb3BpY1R5cGU6Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRkKCRrKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR0eXBlX2RhdGEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfWVsc2V7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRhPWdldEN1cnJlbnRWZXJzaW9uKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
