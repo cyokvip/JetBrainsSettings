@@ -24,6 +24,12 @@
       <file name="/platform.odm_goods [120.77.144.173]" timestamp="1553499732367">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_06_172432_add_submission_method_to_training_class_task_table.php" timestamp="1557134730441">
+        <mark key="[" line="16" column="71" />
+        <mark key="]" line="16" column="71" />
+        <mark key="." line="16" column="71" />
+        <mark key="^" line="16" column="58" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitCompanyAppModuleHome.php" timestamp="1556524199259">
         <mark key="'" line="20" column="17" />
         <mark key="[" line="8" column="6" />
@@ -75,6 +81,7 @@
         <mark key="^" line="18" column="105" />
         <mark key="." line="19" column="95" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_04_15_164420_add_shop_info_to_organization_table.php" timestamp="1557134700906" />
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_04_29_155857_create_company_app_banner_temp_table.php" timestamp="1556525844107">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -314,11 +321,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>店铺介绍</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>店铺介绍</text>
       </register>
       <register name="/" type="4">
         <text>$ac</text>
