@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" timestamp="1557221670867">
+        <mark key="'" line="53" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassTopicType.php" timestamp="1557192652129">
         <mark key="[" line="15" column="1" />
         <mark key="]" line="15" column="1" />
@@ -324,7 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="26" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" />
       <jump line="52" column="33" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" />
       <jump line="107" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" />
       <jump line="8" column="36" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/GoodsSort.php" />
@@ -424,6 +426,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/FileController.php" />
       <jump line="80" column="57" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Oss.php" />
       <jump line="63" column="27" filename="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" />
+      <jump line="53" column="34" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -433,7 +436,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>geturl</text>
+        <text>my_training_list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRmb2xkZXIgPSBzZWxmOjokX2ZvbGRlcl9zb3VuZDsK</text>
@@ -482,15 +485,14 @@
       </register>
     </registers>
     <search>
-      <last-search>geturl</last-search>
+      <last-search>my_training_list</last-search>
       <last-offset />
-      <last-pattern>geturl</last-pattern>
+      <last-pattern>my_training_list</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>PersonCourseGet</entry>
         <entry>order_list</entry>
         <entry>person_order</entry>
         <entry>becde63c4852fb160cf26e6d69e61b74</entry>
@@ -510,6 +512,7 @@
         <entry>upload</entry>
         <entry>filename</entry>
         <entry>geturl</entry>
+        <entry>my_training_list</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
