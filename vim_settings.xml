@@ -278,14 +278,14 @@
         <mark key="." line="19" column="63" />
         <mark key="^" line="19" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/FileController.php" timestamp="1557220218986">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/FileController.php" timestamp="1557305529177">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-        <mark key="^" line="45" column="7" />
+        <mark key="[" line="66" column="143" />
+        <mark key="]" line="66" column="145" />
+        <mark key="." line="66" column="145" />
+        <mark key="^" line="66" column="145" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557300962241">
+      <file name="/Dummy.txt" timestamp="1557305532883">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/BiController.php" timestamp="1554269242418">
@@ -336,12 +336,12 @@
         <mark key="^" line="17" column="122" />
         <mark key="." line="17" column="122" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" timestamp="1557223028934">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" timestamp="1557305764835">
         <mark key="'" line="22" column="50" />
-        <mark key="[" line="64" column="45" />
-        <mark key="]" line="64" column="46" />
-        <mark key="^" line="64" column="46" />
-        <mark key="." line="64" column="46" />
+        <mark key="[" line="64" column="28" />
+        <mark key="]" line="64" column="30" />
+        <mark key="^" line="64" column="30" />
+        <mark key="." line="64" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/UploadListener.php" timestamp="1557220022052">
         <mark key="[" line="38" column="30" />
@@ -454,10 +454,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>curr</text>
