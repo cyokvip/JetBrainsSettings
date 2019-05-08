@@ -82,11 +82,11 @@
         <mark key="^" line="129" column="18" />
         <mark key="." line="129" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1557219659074">
-        <mark key="[" line="57" column="91" />
-        <mark key="]" line="57" column="107" />
-        <mark key="^" line="57" column="107" />
-        <mark key="." line="57" column="107" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1557291065646">
+        <mark key="[" line="82" column="20" />
+        <mark key="]" line="82" column="21" />
+        <mark key="^" line="83" column="11" />
+        <mark key="." line="82" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" timestamp="1557045734128">
         <mark key="'" line="0" column="0" />
@@ -161,7 +161,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyPerson.php" timestamp="1557287898291">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyPerson.php" timestamp="1557290569001">
         <mark key="'" line="65" column="8" />
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -272,7 +272,7 @@
         <mark key="." line="110" column="0" />
         <mark key="^" line="45" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557286052420">
+      <file name="/Dummy.txt" timestamp="1557291069288">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/BiController.php" timestamp="1554269242418">
@@ -441,11 +441,11 @@
       <jump line="65" column="8" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyPerson.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvd0V4Y2VwdGlvbk1lc3NhZ2UoMjIyKTsK</text>
+      <register name="&quot;" type="4">
+        <text>$person_rs</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>$person_rs</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
