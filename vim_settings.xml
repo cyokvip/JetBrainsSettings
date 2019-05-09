@@ -45,12 +45,12 @@
         <mark key="." line="175" column="44" />
         <mark key="^" line="175" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" timestamp="1557368963143">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" timestamp="1557371892646">
         <mark key="'" line="62" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="61" column="11" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="84" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTopicController.php" timestamp="1557300958526">
         <mark key="[" line="99" column="12" />
@@ -186,7 +186,7 @@
         <mark key="." line="66" column="145" />
         <mark key="^" line="66" column="145" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557368991076">
+      <file name="/Dummy.txt" timestamp="1557372072725">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/BiController.php" timestamp="1554269242418">
@@ -213,11 +213,17 @@
         <mark key="." line="156" column="66" />
         <mark key="^" line="157" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1557294021933">
-        <mark key="'" line="1271" column="14" />
-        <mark key="[" line="706" column="0" />
-        <mark key="]" line="706" column="0" />
-        <mark key="." line="706" column="0" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1557372314355">
+        <mark key="'" line="445" column="30" />
+        <mark key="[" line="496" column="0" />
+        <mark key="]" line="496" column="0" />
+        <mark key="." line="496" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_08_03_114928_create_message_table.php" timestamp="1557372277930">
+        <mark key="[" line="17" column="113" />
+        <mark key="]" line="17" column="122" />
+        <mark key="^" line="17" column="122" />
+        <mark key="." line="17" column="122" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" timestamp="1557363289626">
         <mark key="'" line="22" column="50" />
@@ -228,15 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="311" column="21" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" />
-      <jump line="246" column="64" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" />
-      <jump line="248" column="64" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" />
-      <jump line="310" column="21" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" />
-      <jump line="49" column="20" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" />
-      <jump line="83" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" />
-      <jump line="139" column="8" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" />
-      <jump line="369" column="47" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/BiController.php" />
-      <jump line="280" column="131" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/BiController.php" />
       <jump line="352" column="59" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/BiController.php" />
       <jump line="95" column="13" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" />
       <jump line="154" column="35" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AuthController.php" />
@@ -328,55 +325,64 @@
       <jump line="39" column="9" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
       <jump line="218" column="13" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
       <jump line="62" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
+      <jump line="708" column="53" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="1227" column="20" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="1232" column="43" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="1243" column="20" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="1253" column="30" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="1254" column="31" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="424" column="20" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="440" column="40" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="445" column="30" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbGlua19hcnIgPSB1bnNlcmlhbGl6ZShiYXNlNjRfZGVjb2RlKCRpbmZvLT5saW5rKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>assessStatistics</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>topic_type_del</text>
+        <text>message</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJy9jb21wYW55L3RyYWluaW5nX2NsYXNzL2Fzc2Vzc19zdGF0aXN0aWNzJywgJ1RyYWluaW5nQ2xhc3NDb250cm9sbGVyQGFzc2Vzc1N0YXRpc3RpY3MnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcnMtPmNvbnRlbnQgPSAkY29udGVudDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbGlua19hcnIgPSB1bnNlcmlhbGl6ZShiYXNlNjRfZGVjb2RlKCRpbmZvLT5saW5rKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2VTdWNjZXNzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBEQjo6YmVnaW5UcmFuc2FjdGlvbigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFlbXB0eSgkdHlwZV9kYXRhKSAmJiAhZW1wdHkoJHRpdGxlKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRocm93RXhjZXB0aW9uTWVzc2FnZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXR1cycgPT4gJ3JlcXVpcmVkJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgREI6OnJvbGxiYWNrKCk7Ly/kuovliqHlm57mu5oK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NsYXNzX2lkJyA9PiAncmVxdWlyZWQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRycyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>topic_type_del</last-search>
+      <last-search>message</last-search>
       <last-offset />
-      <last-pattern>topic_type_del</last-pattern>
+      <last-pattern>message</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -393,7 +399,6 @@
         <entry>filename</entry>
         <entry>geturl</entry>
         <entry>my_training_list</entry>
-        <entry>message</entry>
         <entry>new</entry>
         <entry>module</entry>
         <entry>count</entry>
@@ -402,6 +407,7 @@
         <entry>curr</entry>
         <entry>TrainingClassTopicType</entry>
         <entry>topic_type_del</entry>
+        <entry>message</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
