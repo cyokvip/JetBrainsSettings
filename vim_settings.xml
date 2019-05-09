@@ -125,18 +125,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyPerson.php" timestamp="1557290569001">
-        <mark key="'" line="65" column="8" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyAppModuleHome.php" timestamp="1557279798933">
-        <mark key="'" line="77" column="20" />
-        <mark key="[" line="104" column="166" />
-        <mark key="]" line="104" column="167" />
-        <mark key="." line="104" column="167" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_09_152522_update_photos_to_training_task_company_comment_table.php" timestamp="1557386805099">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -202,7 +190,7 @@
         <mark key="." line="19" column="63" />
         <mark key="^" line="19" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557390635506">
+      <file name="/Dummy.txt" timestamp="1557392336276">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -233,11 +221,12 @@
         <mark key="^" line="43" column="29" />
         <mark key="." line="43" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1557372314355">
-        <mark key="'" line="445" column="30" />
-        <mark key="[" line="496" column="0" />
-        <mark key="]" line="496" column="0" />
-        <mark key="." line="496" column="0" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1557392517189">
+        <mark key="'" line="446" column="30" />
+        <mark key="[" line="500" column="0" />
+        <mark key="]" line="500" column="0" />
+        <mark key="." line="500" column="0" />
+        <mark key="^" line="500" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingTaskCommentController.php" timestamp="1557386400524">
         <mark key="[" line="52" column="48" />
@@ -375,10 +364,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3Nlc3NfdHJhaW5pbmdfbWVtYmVyX2F0dGVuZAo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>AssessAttend</text>
       </register>
       <register name="/" type="4">
         <text>stage</text>
@@ -387,31 +376,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmKCFlbXB0eSgkcGVyc29uX2lkKSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3Nlc3NfdHJhaW5pbmdfbWVtYmVyX2F0dGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0ay0+aXNfaGF2ZV9jb3Vyc2UgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0ay0+aXNfaGF2ZV9jb3Vyc2UgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
