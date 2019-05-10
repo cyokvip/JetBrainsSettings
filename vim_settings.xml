@@ -230,14 +230,14 @@
         <mark key="." line="19" column="63" />
         <mark key="^" line="19" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/FileController.php" timestamp="1557404268518">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/FileController.php" timestamp="1557458347345">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="105" column="11" />
-        <mark key="]" line="66" column="145" />
-        <mark key="." line="66" column="145" />
-        <mark key="^" line="66" column="145" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="87" column="22" />
+        <mark key="." line="100" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557399010144">
+      <file name="/Dummy.txt" timestamp="1557458350567">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -414,43 +414,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3Nlc3NfdHJhaW5pbmdfbWVtYmVyX2F0dGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>AssessAttend</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>红点</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmKCFlbXB0eSgkcGVyc29uX2lkKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkYiA9IE9zczo6dXBsb2FkRmlsZSgkZmlsZSwgJG5ld19maWxlLCAkZm9sZGVyX3R5cGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3Nlc3NfdHJhaW5pbmdfbWVtYmVyX2F0dGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRmaWxlX3BhdGggPSAkZmlsZV9vYmotPnN0b3JlQXMoJ3B1YmxpYycsICRuZXdfZmlsZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3Nlc3NfdHJhaW5pbmdfbWVtYmVyX2F0dGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0ay0+aXNfaGF2ZV9jb3Vyc2UgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
