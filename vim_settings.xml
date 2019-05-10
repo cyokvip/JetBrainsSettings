@@ -118,6 +118,12 @@
         <mark key="." line="238" column="85" />
         <mark key="^" line="238" column="85" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" timestamp="1557467225436">
+        <mark key="[" line="592" column="43" />
+        <mark key="]" line="592" column="44" />
+        <mark key="." line="592" column="44" />
+        <mark key="^" line="592" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Http/Controllers/Api/Manage/AclController.php" timestamp="1555036092711">
         <mark key="[" line="37" column="52" />
         <mark key="]" line="37" column="53" />
@@ -155,11 +161,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" timestamp="1557398777629">
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="21" column="40" />
-        <mark key="." line="21" column="40" />
-        <mark key="^" line="21" column="40" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" timestamp="1557465916622">
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="21" column="52" />
+        <mark key="^" line="21" column="52" />
+        <mark key="." line="21" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitCompanyAppBanner.php" timestamp="1557284262718">
         <mark key="'" line="42" column="30" />
@@ -175,7 +181,7 @@
         <mark key="^" line="25" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_09_152204_update_content_to_training_task_comment_table.php" timestamp="1557386665941" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_01_03_154536_create_training_task_comment_table.php" timestamp="1557386777509" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_01_03_154536_create_training_task_comment_table.php" timestamp="1557466042453" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyAppBannerTemp.php" timestamp="1556525471398">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="31" />
@@ -185,7 +191,8 @@
       <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Models/Blog.php" timestamp="1544065344380">
         <mark key="[" line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_01_03_160938_create_training_task_company_comment_table.php" timestamp="1557386647841" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_01_03_160938_create_training_task_company_comment_table.php" timestamp="1557466044558" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_08_165641_create_assess_training_member_attend_table.php" timestamp="1557466067362" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitCompanyAppModuleHome.php" timestamp="1557284136781">
         <mark key="'" line="21" column="17" />
         <mark key="[" line="45" column="66" />
@@ -237,7 +244,7 @@
         <mark key="^" line="87" column="22" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557458350567">
+      <file name="/Dummy.txt" timestamp="1557466862923">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -311,7 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="68" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/ShortClassController.php" />
       <jump line="394" column="23" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/ShortClassController.php" />
       <jump line="91" column="26" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyAppModuleHome.php" />
       <jump line="117" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/AppModuleHomeController.php" />
@@ -411,61 +417,61 @@
       <jump line="34" column="33" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingTaskCommentController.php" />
       <jump line="73" column="43" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingTaskCommentController.php" />
       <jump line="49" column="43" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingTaskCommentController.php" />
+      <jump line="615" column="36" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>红点</text>
+        <text>assess_training_member_attend</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkYiA9IE9zczo6dXBsb2FkRmlsZSgkZmlsZSwgJG5ld19maWxlLCAkZm9sZGVyX3R5cGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndHJhaW5pbmdfaWQnID0+ICRjbGFzc19pbmZvLT50cmFpbmluZ19pZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRhcnJbJ2lkZW50J10gICA9ICAgIDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRhcnJbJ2lkZW50J10gICA9ICAgICRtX3NlbmQtPmlkOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRmaWxlX3BhdGggPSAkZmlsZV9vYmotPnN0b3JlQXMoJ3B1YmxpYycsICRuZXdfZmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZ2V0X3R5cGUnID0+ICcnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3Nlc3NfdHJhaW5pbmdfbWVtYmVyX2F0dGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
       </register>
     </registers>
     <search>
-      <last-search>红点</last-search>
+      <last-search>assess_training_member_attend</last-search>
       <last-offset />
-      <last-pattern>红点</last-pattern>
+      <last-pattern>assess_training_member_attend</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>date</entry>
         <entry>new_file</entry>
         <entry>content</entry>
         <entry encoding="base64">XDxJbnB1dFw+</entry>
@@ -485,6 +491,7 @@
         <entry>message</entry>
         <entry>stage</entry>
         <entry>红点</entry>
+        <entry>assess_training_member_attend</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
