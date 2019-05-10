@@ -15,11 +15,11 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassTopic.php" timestamp="1557390567926">
-        <mark key="[" line="51" column="41" />
-        <mark key="]" line="51" column="46" />
-        <mark key="^" line="51" column="46" />
-        <mark key="." line="51" column="46" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassTopic.php" timestamp="1557479256927">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="60" column="46" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="/api.learning.com.cn.odm_person_invitation [api.learning.com.cn]" timestamp="1539668975610">
         <mark key="[" line="0" column="0" />
@@ -99,11 +99,11 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="115" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTopicController.php" timestamp="1557390322032">
-        <mark key="[" line="151" column="88" />
-        <mark key="]" line="151" column="104" />
-        <mark key="." line="151" column="104" />
-        <mark key="^" line="151" column="104" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTopicController.php" timestamp="1557479101199">
+        <mark key="[" line="197" column="17" />
+        <mark key="]" line="198" column="16" />
+        <mark key="." line="198" column="16" />
+        <mark key="^" line="198" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_09_152508_update_photos_to_training_task_comment_table.php" timestamp="1557386799601">
         <mark key="[" line="16" column="0" />
@@ -427,43 +427,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50X3IoJGluc2VydF9kYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0cmFpbmluZ19jbGFzc190b3BpY190eXBlX2xpc3Q9W107Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>assess_training_member_attend</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRpbnNlcnRfZGF0YVsnY29udGVudCddID0gJGsyWydjb250ZW50J107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndHlwZSc9PjMsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50X3IoJGluc2VydF9kYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0cmFpbmluZ19jbGFzc190b3BpY190eXBlX2xpc3Q9W107Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZCgkazJbJ2NvbnRlbnRfdHlwZSddKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRhcnJbJ2lkZW50J10gICA9ICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJzLT5jb250ZW50KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRhcnJbJ2lkZW50J10gICA9ICAgICRtX3NlbmQtPmlkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZ2V0X3R5cGUnID0+ICcnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">JHJzLT5pbmZvID0gJGNvbnRlbnRfYXJyOwoKICAgICAgICAgICAgICAgICJ0cmFpbmluZ19jbGFzc190b3BpY190eXBlX2xpc3QiOiBbCiAgICAgICAgICAgICAgICAgICAgLXsKICAgICAgICAgICAgICAgICAgICAiaWQiOiAxNSwKInRyYWluaW5nX2NsYXNzX3RvcGljX2lkIjogMzQ2LAoidHlwZSI6IDEsCi0iY29udGVudCI6IFsKICAgICAgICAgICAgICAgICAgICAgICAgLXsKICAgICAgICAgICAgICAgICAgICAgICAgImlkIjogMTEsCiJ0cmFpbmluZ19jbGFzc190b3BpY190eXBlX2lkIjogMTUsCiJ0aXRsZSI6ICIxIiwKImNvbnRlbnQiOiAiOTAiLAoiY29udGVudF90eXBlIjogMSw=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
