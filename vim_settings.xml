@@ -78,7 +78,7 @@
         <mark key="^" line="87" column="22" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557481039600">
+      <file name="/Dummy.txt" timestamp="1557741617276">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -181,6 +181,12 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyPerson.php" timestamp="1557741613368">
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="^" line="165" column="11" />
+        <mark key="." line="216" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_09_152522_update_photos_to_training_task_company_comment_table.php" timestamp="1557386805099">
         <mark key="[" line="17" column="0" />
@@ -324,10 +330,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>assess_training_member_attend</text>
@@ -336,22 +342,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndHlwZSc9PjMsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvIOS4iue6v+aXtuWAmeimgeWIoOaOiQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvIOS4iue6v+aXtuWAmeimgeWIoOaOiQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9mZHNhZmRzYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJzLT5jb250ZW50PSdhQCFAYkAhQGNAIUBkJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9mZHNhZmRzYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJzLT5jb250ZW50PSdhQCFAYkAhQGNAIUBkJzsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
@@ -360,7 +366,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndHJhaW5pbmdfY2xhc3NfdG9waWNfaWQnPT4kdG9waWNfaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
