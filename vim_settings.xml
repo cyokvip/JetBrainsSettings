@@ -15,12 +15,14 @@
         <mark key="." line="25" column="25" />
         <mark key="^" line="25" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/.env.dev" timestamp="1557895251012" />
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_10_140238_add_content_type_to_training_class_topic_type_content_table.php" timestamp="1557468248893">
         <mark key="[" line="16" column="66" />
         <mark key="]" line="22" column="5" />
         <mark key="." line="22" column="5" />
         <mark key="^" line="22" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/.env.online" timestamp="1557895511210" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1557398945042">
         <mark key="[" line="90" column="33" />
         <mark key="]" line="90" column="53" />
