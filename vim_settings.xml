@@ -29,7 +29,17 @@
         <mark key="." line="22" column="5" />
         <mark key="^" line="22" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/.env.online" timestamp="1557895511210" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Kernel.php" timestamp="1558062352165">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/.env.online" timestamp="1558061565496">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1557398945042">
         <mark key="[" line="90" column="33" />
         <mark key="]" line="90" column="53" />
@@ -98,6 +108,12 @@
         <mark key="^" line="165" column="11" />
         <mark key="." line="216" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/Swoole.php" timestamp="1558062423742">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="21" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_09_152522_update_photos_to_training_task_company_comment_table.php" timestamp="1557386805099">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -108,6 +124,12 @@
         <mark key="]" line="21" column="52" />
         <mark key="^" line="21" column="52" />
         <mark key="." line="21" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/UpgradeConfigController.php" timestamp="1558061904915">
+        <mark key="[" line="57" column="35" />
+        <mark key="]" line="57" column="11" />
+        <mark key="^" line="57" column="11" />
+        <mark key="." line="57" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitCompanyAppBanner.php" timestamp="1557284262718">
         <mark key="'" line="42" column="30" />
@@ -121,6 +143,11 @@
         <mark key="]" line="25" column="30" />
         <mark key="." line="25" column="30" />
         <mark key="^" line="25" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/storage/logs/laravel-2019-05-17.log" timestamp="1558061682337">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitCompanyAppModuleHome.php" timestamp="1557284136781">
         <mark key="'" line="21" column="17" />
@@ -314,43 +341,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQZXJzb246Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>删除数据库日志</text>
       </register>
       <register name="/" type="4">
         <text>assess_training_member_attend</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRpbmZvLT5hc3Nlc3NfYXR0ZW5kX3N0YXR1cyA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBcQXBwXENvbnNvbGVcQ29tbWFuZHNcUmVzZXRUcmFpbmluZ0V4cGVyaWVuY2VSdWxlTmFtZTo6Y2xhc3MsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQZXJzb246Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcTWFuYWdlTG9nOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAucjc5OTYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBDb21tYW5kc1xTd29vbGU6OkNsYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZigkYXNzZXNzX2F0dGVuZF9ycyl7Cg==</text>
+        <text encoding="base64">WzIwMTktMDUtMTcgMTA6NDg6NDRdIGRldi5FUlJPUjogWzBdICIiIG9uIGxpbmUgNjEyIG9mIGZpbGUgL3Zhci93d3cvaHRtbC9wbGF0Zm9ybS92ZW5kb3IvbGFyYXZlbC9mcmFtZXdvcmsvc3JjL0lsbHVtaW5hdGUvUm91dGluZy9Sb3V0ZXIucGhwICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fHx8fHx8fCAucjc5MzUK</text>
+        <text encoding="base64">WzIwMTktMDUtMTcgMTA6NDg6NDhdIGRldi5FUlJPUjogWzBdICIiIG9uIGxpbmUgNjEyIG9mIGZpbGUgL3Zhci93d3cvaHRtbC9wbGF0Zm9ybS92ZW5kb3IvbGFyYXZlbC9mcmFtZXdvcmsvc3JjL0lsbHVtaW5hdGUvUm91dGluZy9Sb3V0ZXIucGhwICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkYXNzZXNzX2F0dGVuZF9ycyk7Cg==</text>
+        <text encoding="base64">WzIwMTktMDUtMTcgMTA6NDk6MDRdIGRldi5FUlJPUjogWzBdICIiIG9uIGxpbmUgNjEyIG9mIGZpbGUgL3Zhci93d3cvaHRtbC9wbGF0Zm9ybS92ZW5kb3IvbGFyYXZlbC9mcmFtZXdvcmsvc3JjL0lsbHVtaW5hdGUvUm91dGluZy9Sb3V0ZXIucGhwICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCAubWluZQo=</text>
+        <text encoding="base64">WzIwMTktMDUtMTcgMTA6NTE6MTVdIGRldi5FUlJPUjogWzBdICIiIG9uIGxpbmUgNjEyIG9mIGZpbGUgL3Zhci93d3cvaHRtbC9wbGF0Zm9ybS92ZW5kb3IvbGFyYXZlbC9mcmFtZXdvcmsvc3JjL0lsbHVtaW5hdGUvUm91dGluZy9Sb3V0ZXIucGhwICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkY2xhc3NfaW5mbyl7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQZXJzb246Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
