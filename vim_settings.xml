@@ -108,11 +108,12 @@
         <mark key="^" line="165" column="11" />
         <mark key="." line="216" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/Swoole.php" timestamp="1558062423742">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="21" column="35" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/Swoole.php" timestamp="1558065659313">
+        <mark key="'" line="62" column="49" />
+        <mark key="[" line="84" column="12" />
+        <mark key="]" line="84" column="12" />
+        <mark key="^" line="84" column="12" />
+        <mark key="." line="84" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_09_152522_update_photos_to_training_task_company_comment_table.php" timestamp="1557386805099">
         <mark key="[" line="17" column="0" />
@@ -238,7 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="8" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/AppModuleHomeController.php" />
       <jump line="87" column="4" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/AppBannerController.php" />
       <jump line="21" column="10" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" />
@@ -338,61 +338,61 @@
       <jump line="4" column="38" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/Company.php" />
       <jump line="87" column="15" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ShortClassController.php" />
       <jump line="4" column="4" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ShortClassController.php" />
+      <jump line="67" column="49" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/Swoole.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>删除数据库日志</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>assess_training_member_attend</text>
+        <text>dispatch_mode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBcQXBwXENvbnNvbGVcQ29tbWFuZHNcUmVzZXRUcmFpbmluZ0V4cGVyaWVuY2VSdWxlTmFtZTo6Y2xhc3MsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHdzLT5wdXNoKCRmcmFtZS0+ZmQsICJzZXJ2ZXI6IHskZnJhbWUtPmRhdGF9Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHdzLT5wdXNoKDIsICIx5Y+R6YCB57uZMnNlcnZlcjogeyRmcmFtZS0+ZGF0YX0iKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcTWFuYWdlTG9nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGlmICgkdGhpcy0+YmluZCgkcERhdGEtPmZpZCwgJGZyYW1lLT5mZCkpIHsgIC8v57uR5a6aZmQKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tYW5kc1xTd29vbGU6OkNsYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhID0gJHRoaXMtPmxvYWRIaXN0b3J5KCRwRGF0YS0+ZmlkLCAkcERhdGEtPnRpZCk7IC8v5Yqg6L295Y6G5Y+y6K6w5b2VCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">WzIwMTktMDUtMTcgMTA6NDg6NDRdIGRldi5FUlJPUjogWzBdICIiIG9uIGxpbmUgNjEyIG9mIGZpbGUgL3Zhci93d3cvaHRtbC9wbGF0Zm9ybS92ZW5kb3IvbGFyYXZlbC9mcmFtZXdvcmsvc3JjL0lsbHVtaW5hdGUvUm91dGluZy9Sb3V0ZXIucGhwICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">WzIwMTktMDUtMTcgMTA6NDg6NDhdIGRldi5FUlJPUjogWzBdICIiIG9uIGxpbmUgNjEyIG9mIGZpbGUgL3Zhci93d3cvaHRtbC9wbGF0Zm9ybS92ZW5kb3IvbGFyYXZlbC9mcmFtZXdvcmsvc3JjL0lsbHVtaW5hdGUvUm91dGluZy9Sb3V0ZXIucGhwICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhID0gYXJyYXkoImNvbnRlbnQiID0+ICLml6Dms5Xnu5HlrppmZCIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">WzIwMTktMDUtMTcgMTA6NDk6MDRdIGRldi5FUlJPUjogWzBdICIiIG9uIGxpbmUgNjEyIG9mIGZpbGUgL3Zhci93d3cvaHRtbC9wbGF0Zm9ybS92ZW5kb3IvbGFyYXZlbC9mcmFtZXdvcmsvc3JjL0lsbHVtaW5hdGUvUm91dGluZy9Sb3V0ZXIucGhwICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGVyc29uOjp3aGVyZSgnJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">WzIwMTktMDUtMTcgMTA6NTE6MTVdIGRldi5FUlJPUjogWzBdICIiIG9uIGxpbmUgNjEyIG9mIGZpbGUgL3Zhci93d3cvaHRtbC9wbGF0Zm9ybS92ZW5kb3IvbGFyYXZlbC9mcmFtZXdvcmsvc3JjL0lsbHVtaW5hdGUvUm91dGluZy9Sb3V0ZXIucGhwICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQZXJzb246Ogo=</text>
+        <text encoding="base64">ICAgICAgICAkd3MtPnNlbmRNZXNzYWdlKCdmZDFtZXNzYWdlJywgJzEnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
       </register>
     </registers>
     <search>
-      <last-search>assess_training_member_attend</last-search>
+      <last-search>dispatch_mode</last-search>
       <last-offset />
-      <last-pattern>assess_training_member_attend</last-pattern>
+      <last-pattern>dispatch_mode</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>new_file</entry>
         <entry>content</entry>
         <entry encoding="base64">XDxJbnB1dFw+</entry>
         <entry>n message</entry>
@@ -412,6 +412,7 @@
         <entry>stage</entry>
         <entry>红点</entry>
         <entry>assess_training_member_attend</entry>
+        <entry>dispatch_mode</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
