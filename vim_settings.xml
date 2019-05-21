@@ -137,11 +137,11 @@
         <mark key="." line="32" column="36" />
         <mark key="^" line="32" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/Chat.php" timestamp="1558406399344">
-        <mark key="[" line="15" column="63" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-        <mark key="^" line="16" column="7" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/Chat.php" timestamp="1558408473449">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="42" />
+        <mark key="." line="20" column="42" />
+        <mark key="^" line="20" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameDailyLoginRewardPerson.php" timestamp="1558343546303">
         <mark key="[" line="26" column="0" />
@@ -425,11 +425,11 @@
       <jump line="16" column="13" filename="$USER_HOME$/Documents/dev/www/platform/config/services.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>$client</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>hset</text>
