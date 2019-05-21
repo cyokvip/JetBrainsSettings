@@ -130,6 +130,19 @@
         <mark key="^" line="59" column="52" />
         <mark key="." line="10" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/config/services.php" timestamp="1558405318543">
+        <mark key="'" line="16" column="13" />
+        <mark key="[" line="32" column="31" />
+        <mark key="]" line="32" column="36" />
+        <mark key="." line="32" column="36" />
+        <mark key="^" line="32" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/Chat.php" timestamp="1558406399344">
+        <mark key="[" line="15" column="63" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameDailyLoginRewardPerson.php" timestamp="1558343546303">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -148,7 +161,7 @@
         <mark key="^" line="81" column="15" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/.env.dev" timestamp="1557895251012" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/.env.dev" timestamp="1558405310287" />
       <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" timestamp="1558345626637">
         <mark key="'" line="5" column="26" />
         <mark key="[" line="339" column="33" />
@@ -168,7 +181,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/.env.online" timestamp="1558061565496">
+      <file name="$USER_HOME$/Documents/dev/www/platform/.env.online" timestamp="1558405321056">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="13" />
@@ -310,7 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="521" column="21" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" />
       <jump line="50" column="6" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
       <jump line="87" column="17" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/FileController.php" />
       <jump line="88" column="26" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/FileController.php" />
@@ -410,13 +422,14 @@
       <jump line="27" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameDailyLoginReward.php" />
       <jump line="30" column="39" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameDailyTaskontroller.php" />
       <jump line="51" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameDailyTaskController.php" />
+      <jump line="16" column="13" filename="$USER_HOME$/Documents/dev/www/platform/config/services.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>$client</text>
       </register>
       <register name="/" type="4">
         <text>hset</text>
@@ -428,31 +441,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">IC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gJHBlcnNvbl9pZCAKICAgICAqIEBwYXJhbSAkZ2FtZV9kYWlseV90YXNrX2lkIAogICAgICogQHJldHVybiBpbnQgMOacquWujOaIkO+8jDHlt7LlrozmiJAKICAgICAqLw==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgncGVyc29uX2lkJywgJHRoaXMtPnBlcnNvbl9pZCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHVzZSBKTWVzc2FnZVxJTVxVc2VyOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">JHVzZXItPnJlZ2lzdGVyKCR1c2VybmFtZSwgJHBhc3N3b3JkKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA9IG5ldyBKUHVzaCgkYXBwX2tleSwgJG1hc3Rlcl9zZWNyZXQsJGxvZ0ZpbGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
@@ -495,9 +508,10 @@
         <entry>action GotoAction</entry>
         <entry>action Find</entry>
         <entry>nohlsearch</entry>
-        <entry>sp</entry>
         <entry>q</entry>
         <entry>vsp</entry>
+        <entry>SP</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
