@@ -23,10 +23,11 @@
         <mark key="." line="123" column="20" />
         <mark key="^" line="116" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Libraries/SendMail.php" timestamp="1558510739937">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Libraries/SendMail.php" timestamp="1558579454750">
+        <mark key="[" line="48" column="61" />
+        <mark key="]" line="48" column="65" />
+        <mark key="." line="48" column="65" />
+        <mark key="^" line="48" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_22_131504_add_email_username_to_company_table.php" timestamp="1558502482760">
         <mark key="[" line="16" column="79" />
@@ -181,7 +182,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558526255717">
+      <file name="/Dummy.txt" timestamp="1558579936181">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -322,16 +323,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>del</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkY2dtX3JzID0gQ2hhdEdyb3VwOjp3aGVyZSgnaWQnLCAkY2hhdF9ncm91cF9pZCktPmZpcnN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vJG1lc3NhZ2UtPmF0dGFjaCgkZW1haWxfYXR0YWNobWVudCwgWydhcycgPT4gIj0/VVRGLTg/Qj8iIC4gYmFzZTY0X2VuY29kZSgkZW1haWxfYXR0YWNobWVudF9hc19uYW1lKSAuICI/PSJdKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
