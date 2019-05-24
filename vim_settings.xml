@@ -205,7 +205,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558603331117">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/FileController.php" timestamp="1558663496736">
+        <mark key="[" line="128" column="128" />
+        <mark key="]" line="128" column="132" />
+        <mark key="^" line="128" column="132" />
+        <mark key="." line="128" column="132" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1558663509343">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
