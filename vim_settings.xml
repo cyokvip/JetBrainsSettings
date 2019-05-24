@@ -30,10 +30,10 @@
         <mark key="." line="16" column="88" />
         <mark key="^" line="16" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassMember.php" timestamp="1558670113853">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassMember.php" timestamp="1558680172986">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/storage/logs/laravel-2019-05-23.log" timestamp="1558595753654">
         <mark key="[" line="24" column="36" />
@@ -339,7 +339,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -351,31 +351,31 @@
         <text encoding="base64">ICAgICAgICAkcmVzdWx0WydjaGF0X3VzZXJuYW1lJ109JHBlcnNvbl9pbmZvLT5jaGF0X3VzZXJuYW1lOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGUpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1aQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1aQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL+WIoOmZpOmXr+WFs+i/m+W6pgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL+WIoOmZpOmXr+WFs+i/m+W6pgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICRyZXN1bHQ9W107CiAgICAgICAgJHJlc3VsdFsndXNlcm5hbWUnXT0kcGVyc29uX2luZm8tPnVzZXJuYW1lOwogICAgICAgICRyZXN1bHRbJ3Bob3RvJ109JHBlcnNvbl9pbmZvLT5waG90bzsKICAgICAgICAkcmVzdWx0WydjaGF0X3VzZXJuYW1lJ109JHBlcnNvbl9pbmZvLT5jaGF0X3VzZXJuYW1lOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
