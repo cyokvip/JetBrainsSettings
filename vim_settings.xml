@@ -109,10 +109,10 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/WebSocket.php" timestamp="1558939059643">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/WebSocket.php" timestamp="1558939725578">
+        <mark key="[" line="64" column="76" />
+        <mark key="]" line="64" column="76" />
+        <mark key="." line="64" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Models/Links.php" timestamp="1544065366044">
         <mark key="[" line="8" column="31" />
@@ -344,11 +344,11 @@
       <jump line="68" column="43" filename="$USER_HOME$/Documents/dev/www/platform/config/laravels.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIFN3b29sZVxXZWJTb2NrZXRcU2VydmVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>responseError</text>
