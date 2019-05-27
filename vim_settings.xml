@@ -56,10 +56,11 @@
       <file name="/platform.odm_company_user [120.77.144.173]" timestamp="1554197340383">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Kernel.php" timestamp="1558929280075">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Kernel.php" timestamp="1558934017876">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="9" />
+        <mark key="." line="19" column="9" />
+        <mark key="^" line="19" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_22_131538_add_email_from_address_to_company_table.php" timestamp="1558502521333">
         <mark key="[" line="16" column="82" />
@@ -181,6 +182,12 @@
         <mark key="." line="16" column="57" />
         <mark key="^" line="16" column="57" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/config/laravels.php" timestamp="1558934270840">
+        <mark key="[" line="6" column="61" />
+        <mark key="]" line="6" column="67" />
+        <mark key="." line="6" column="67" />
+        <mark key="^" line="6" column="67" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_22_102518_create_chat_group_table.php" timestamp="1558496654226">
         <mark key="[" line="18" column="59" />
         <mark key="]" line="18" column="65" />
@@ -253,7 +260,7 @@
         <mark key="^" line="128" column="132" />
         <mark key="." line="128" column="132" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558929389417">
+      <file name="/Dummy.txt" timestamp="1558934213141">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -417,11 +424,11 @@
       <jump line="207" column="6" filename="$USER_HOME$/Documents/dev/www/platform/vendor/swooletw/laravel-swoole/src/Commands/HttpServerCommand.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>127.0.0.1</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
         <text>del</text>
