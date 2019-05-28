@@ -34,7 +34,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" timestamp="1558599306557">
+      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" timestamp="1559033467738">
         <mark key="'" line="8" column="18" />
         <mark key="[" line="343" column="67" />
         <mark key="]" line="343" column="67" />
@@ -304,7 +304,8 @@
         <mark key="^" line="18" column="54" />
         <mark key="." line="18" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1558949141384">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1559033476998">
+        <mark key="'" line="141" column="30" />
         <mark key="[" line="265" column="0" />
         <mark key="]" line="265" column="0" />
         <mark key="." line="265" column="0" />
@@ -348,7 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1240" column="6" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
       <jump line="356" column="32" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" />
       <jump line="856" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" />
@@ -448,6 +448,7 @@
       <jump line="20" column="18" filename="$USER_HOME$/Documents/dev/www/platform/.env.dev" />
       <jump line="79" column="0" filename="$USER_HOME$/Documents/dev/www/platform/.env.dev" />
       <jump line="484" column="16" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" />
+      <jump line="141" column="30" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -457,7 +458,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>responseError</text>
+        <text>sign_in</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcHNpemUgPSBJbnB1dDo6Z2V0KCdwc2l6ZScpOwo=</text>
@@ -494,15 +495,14 @@
       </register>
     </registers>
     <search>
-      <last-search>responseError</last-search>
+      <last-search>sign_in</last-search>
       <last-offset />
-      <last-pattern>responseError</last-pattern>
+      <last-pattern>sign_in</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>upload</entry>
         <entry>filename</entry>
         <entry>geturl</entry>
         <entry>my_training_list</entry>
@@ -522,6 +522,7 @@
         <entry>hset</entry>
         <entry>del</entry>
         <entry>responseError</entry>
+        <entry>sign_in</entry>
       </history-search>
       <history-cmd>
         <entry>dox</entry>
