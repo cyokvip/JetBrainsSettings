@@ -16,6 +16,12 @@
         <mark key="^" line="524" column="15" />
         <mark key="." line="524" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassTopic.php" timestamp="1559198449996">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="58" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" timestamp="1559033467738">
         <mark key="'" line="8" column="18" />
         <mark key="[" line="343" column="67" />
@@ -105,11 +111,10 @@
         <mark key="." line="17" column="27" />
         <mark key="^" line="17" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitTrainingClassChatGroup.php" timestamp="1559195818968">
-        <mark key="[" line="73" column="44" />
-        <mark key="]" line="73" column="44" />
-        <mark key="^" line="73" column="44" />
-        <mark key="." line="73" column="44" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitTrainingClassChatGroup.php" timestamp="1559197516358">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_22_131332_add_email_host_to_company_table.php" timestamp="1558502444475">
         <mark key="[" line="16" column="68" />
@@ -122,7 +127,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatListener.php" timestamp="1559195796333">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatListener.php" timestamp="1559197374514">
         <mark key="[" line="120" column="21" />
         <mark key="]" line="121" column="20" />
         <mark key="." line="121" column="20" />
@@ -415,10 +420,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAndmVyc2lvbl80Jz0+JzEuNycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCR0ay0+dGl0bGUgPT0gMSkgewo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>training_class_id</text>
       </register>
       <register name="/" type="4">
         <text>sign_in</text>
@@ -427,31 +432,31 @@
         <text encoding="base64">ICAgICAgICAndmVyc2lvbl80Jz0+JzEuNycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCR0ay0+dGl0bGUgPT0gMSkgewo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICB9IGVsc2VpZiAoJHRrLT50aXRsZSA9PSAyKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdGstPmluZm8gPSBDb21wYW55Q291cnNlOjpmaW5kKCR0ay0+Y29udGVudCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL+WIpOaWreaYr+WQpuaOiOadg+e7meeUqOaItwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFlbXB0eSgkcGVyc29uX2lkKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRwZXJzb25fY291cnNlX2dldF9mbGFnID0gUGVyc29uQ291cnNlR2V0Ojp3aGVyZSgnZ2V0X3R5cGUnLCA1KS0+d2hlcmUoJ2NvdXJzZV9pZCcsICR0ay0+Y29udGVudCktPndoZXJlKCdwZXJzb25faWQnLCAkcGVyc29uX2lkKS0+Zmlyc3QoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoJHBlcnNvbl9jb3Vyc2VfZ2V0X2ZsYWcpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHRrLT5pbmZvLT5pc19oYXZlX2NvdXJzZSA9IDE7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHRrLT5pbmZvLT5pc19oYXZlX2NvdXJzZSA9IDA7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJyAgICAgICAgICAgICAgPT4gJG5hbWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/lhbzlrrnlubPlj7DliJvlu7rnmoTnj63nuqcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQZXJzb246OmFsbCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJ29rJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRyczIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
