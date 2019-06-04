@@ -28,11 +28,11 @@
         <mark key="^" line="215" column="17" />
         <mark key="." line="215" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Jobs/SendPush.php" timestamp="1559563284234">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Jobs/SendPush.php" timestamp="1559610837490">
         <mark key="'" line="49" column="35" />
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/MessageController.php" timestamp="1559562233186">
         <mark key="[" line="111" column="0" />
@@ -160,7 +160,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" timestamp="1559563279873">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" timestamp="1559610366235">
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
@@ -276,8 +276,8 @@
       <jump line="209" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGltcGxlbWVudHMgU2hvdWxkUXVldWU=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcHVzaF9mbGFnICAgICAgPSBmYWxzZTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGltcGxlbWVudHMgU2hvdWxkUXVldWU=</text>
@@ -289,13 +289,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXNlcl9ncm91cF9pZCcgPT4gJHJzLT51c2VyX2dyb3VwX2lkLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRhbGlhcy5QSFBfRU9MOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcHVzaF9mbGFnICAgICAgPSBmYWxzZTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBlY2hvICRhbGlhcy5QSFBfRU9MOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRhbGlhcy5QSFBfRU9MOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -304,16 +304,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHN0ciA9ICdbJyAuIGRhdGUoJ1ktbS1kIEg6aTpzJykgLiAnXTogJyAuICdTdWNjZXNzIE1lc3NhZ2VDb250ZW50SWTvvJonIC4gJG1lc3NhZ2VfY29udGVudF9ycy0+aWQgLiBQSFBfRU9MOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHN0ciA9ICdbJyAuIGRhdGUoJ1ktbS1kIEg6aTpzJykgLiAnXTogJyAuICdTdWNjZXNzIE1lc3NhZ2VDb250ZW50SWTvvJonIC4gJG1lc3NhZ2VfY29udGVudF9ycy0+aWQgLiBQSFBfRU9MOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcHVzaF9mbGFnICAgICAgPSAkcHVzaC0+cHVzaF9hKCRwZXJzb25faW5mby0+cHVzaF90YWdzLCBqc29uX2VuY29kZSgkYXJyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcHVzaF9mbGFnICAgICAgPSAkcHVzaC0+cHVzaF9hKCRwZXJzb25faW5mby0+cHVzaF90YWdzLCBqc29uX2VuY29kZSgkYXJyKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
