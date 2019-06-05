@@ -75,6 +75,12 @@
         <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Events/Test.php" timestamp="1559619537685" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/ExperienceRuleUpdateTemp.php" timestamp="1559715249633">
+        <mark key="[" line="50" column="19" />
+        <mark key="]" line="50" column="19" />
+        <mark key="^" line="50" column="19" />
+        <mark key="." line="50" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassExperienceController.php" timestamp="1559704355982">
         <mark key="[" line="217" column="102" />
         <mark key="]" line="217" column="113" />
@@ -198,44 +204,44 @@
       <jump line="73" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>版本号修改</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>版本号修改</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>env</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJyWydpZCddICAgICAgICAgPSAkZGF0YVsnaWQnXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgJ2V4cGVyaWVuY2VfdmFsdWVfbWF4Jz0+JGstPmV4cGVyaWVuY2VfdmFsdWVfbWF4LCAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZmxhZyA9IGZhbHNlOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICRjb3VudD1Db21wYW55QXBwQmFubmVyVGVtcDo6d2hlcmUoJ2NvbXBhbnlfaWQnLCRrLT5pZCktPmNvdW50KCk7CiAgICAgICAgICAgIGlmKCRjb3VudD09MCkgewogICAgICAgICAgICAgICAgJGMtPmluaXRfY29tcGFueV9iYW5uZXIoJGstPmlkKTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGVudCA9ICRhcnJbJ2NvbnRlbnQnXTsK</text>
+        <text encoding="base64">ICAgICAgICAkcnM9Q29tcGFueTo6YWxsKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">WzIwMTktMDYtMDQgMTI6MDE6MThdIGRldi5FUlJPUjogWzBdICJVbmRlZmluZWQgaW5kZXg6IHB1c2hfdGFncyIgb24gbGluZSAzMyBvZiBmaWxlIC92YXIvd3d3L2h0bWwvcGxhdGZvcm0vYXBwL0xpc3RlbmVycy9UZXN0TGlzdGVuZXIucGhwICAK</text>
+        <text encoding="base64">ICAgICAgICAkYz1uZXcgKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ29tcGFueUFwcEJhbm5lclRlbXA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ29tcGFueTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ29tcGFueUFwcEJhbm5lclRlbXA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ29tcGFueUFwcEJhbm5lcjsK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
