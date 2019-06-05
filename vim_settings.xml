@@ -14,57 +14,24 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatListener.php" timestamp="1559614531675">
-        <mark key="'" line="82" column="62" />
-        <mark key="[" line="90" column="80" />
-        <mark key="]" line="90" column="81" />
-        <mark key="." line="90" column="81" />
-        <mark key="^" line="90" column="81" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Providers/EventServiceProvider.php" timestamp="1559627576852">
-        <mark key="[" line="43" column="6" />
-        <mark key="]" line="43" column="6" />
-        <mark key="." line="43" column="6" />
-        <mark key="^" line="45" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassTopic.php" timestamp="1559648393567">
         <mark key="[" line="61" column="84" />
         <mark key="]" line="61" column="98" />
         <mark key="^" line="61" column="98" />
         <mark key="." line="61" column="98" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/TestListener.php" timestamp="1559626993382" />
-      <file name="/Push.php" timestamp="1559615103744" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/storage/logs/jpush_2019-06-04.log" timestamp="1559618048714">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Jobs/SendPush.php" timestamp="1559614599138">
-        <mark key="'" line="49" column="35" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/MessageController.php" timestamp="1559562233186">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Events/Test.php" timestamp="1559619537685" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Events/SendPush.php" timestamp="1559627102361">
         <mark key="[" line="22" column="37" />
         <mark key="]" line="22" column="36" />
         <mark key="^" line="22" column="36" />
         <mark key="." line="22" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/UpdatePersonLoginListener.php" timestamp="1559559676257" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/PersonFirstLoginSendMessageListener.php" timestamp="1559559664883" />
-      <file name="/Dummy.txt" timestamp="1559628063988">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AuthController.php" timestamp="1559700664189" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" timestamp="1559645391795">
         <mark key="[" line="130" column="44" />
         <mark key="]" line="130" column="44" />
@@ -79,6 +46,40 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
         <mark key="^" line="71" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatListener.php" timestamp="1559614531675">
+        <mark key="'" line="82" column="62" />
+        <mark key="[" line="90" column="80" />
+        <mark key="]" line="90" column="81" />
+        <mark key="." line="90" column="81" />
+        <mark key="^" line="90" column="81" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Providers/EventServiceProvider.php" timestamp="1559627576852">
+        <mark key="[" line="43" column="6" />
+        <mark key="]" line="43" column="6" />
+        <mark key="." line="43" column="6" />
+        <mark key="^" line="45" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/TestListener.php" timestamp="1559626993382" />
+      <file name="/Push.php" timestamp="1559615103744" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/storage/logs/jpush_2019-06-04.log" timestamp="1559618048714">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Jobs/SendPush.php" timestamp="1559614599138">
+        <mark key="'" line="49" column="35" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Events/Test.php" timestamp="1559619537685" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/UpdatePersonLoginListener.php" timestamp="1559559676257" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/PersonFirstLoginSendMessageListener.php" timestamp="1559559664883" />
+      <file name="/Dummy.txt" timestamp="1559628063988">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" timestamp="1559627714673">
         <mark key="[" line="144" column="0" />
