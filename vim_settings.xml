@@ -14,13 +14,13 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" timestamp="1559718505278">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" timestamp="1559719462971">
         <mark key="[" line="59" column="120" />
         <mark key="]" line="59" column="7" />
         <mark key="^" line="59" column="7" />
         <mark key="." line="59" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassTopic.php" timestamp="1559648393567">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassTopic.php" timestamp="1559720123421">
         <mark key="[" line="61" column="84" />
         <mark key="]" line="61" column="98" />
         <mark key="^" line="61" column="98" />
@@ -211,7 +211,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>env</text>
+        <text>n info</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgJ2V4cGVyaWVuY2VfdmFsdWVfbWF4Jz0+JGstPmV4cGVyaWVuY2VfdmFsdWVfbWF4LCAK</text>
@@ -248,15 +248,14 @@
       </register>
     </registers>
     <search>
-      <last-search>env</last-search>
+      <last-search>n info</last-search>
       <last-offset />
-      <last-pattern>env</last-pattern>
+      <last-pattern>n info</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>my_training_list</entry>
         <entry>new</entry>
         <entry>module</entry>
         <entry>count</entry>
@@ -276,6 +275,7 @@
         <entry>sign_in</entry>
         <entry>sdk_group_id</entry>
         <entry>env</entry>
+        <entry>n info</entry>
       </history-search>
       <history-cmd>
         <entry>dox</entry>
