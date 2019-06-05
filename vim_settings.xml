@@ -54,6 +54,7 @@
         <mark key="." line="90" column="81" />
         <mark key="^" line="90" column="81" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassExperienceRuleController.php" timestamp="1559703842231" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Providers/EventServiceProvider.php" timestamp="1559627576852">
         <mark key="[" line="43" column="6" />
         <mark key="]" line="43" column="6" />
@@ -74,9 +75,15 @@
         <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Events/Test.php" timestamp="1559619537685" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassExperienceController.php" timestamp="1559704355982">
+        <mark key="[" line="217" column="102" />
+        <mark key="]" line="217" column="113" />
+        <mark key="." line="217" column="113" />
+        <mark key="^" line="217" column="113" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/UpdatePersonLoginListener.php" timestamp="1559559676257" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/PersonFirstLoginSendMessageListener.php" timestamp="1559559664883" />
-      <file name="/Dummy.txt" timestamp="1559628063988">
+      <file name="/Dummy.txt" timestamp="1559704487814">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
