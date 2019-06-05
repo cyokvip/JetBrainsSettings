@@ -14,6 +14,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" timestamp="1559718505278">
+        <mark key="[" line="59" column="120" />
+        <mark key="]" line="59" column="7" />
+        <mark key="^" line="59" column="7" />
+        <mark key="." line="59" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassTopic.php" timestamp="1559648393567">
         <mark key="[" line="61" column="84" />
         <mark key="]" line="61" column="98" />
@@ -67,12 +73,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Jobs/SendPush.php" timestamp="1559614599138">
-        <mark key="'" line="49" column="35" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Events/Test.php" timestamp="1559619537685" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/ExperienceRuleUpdateTemp.php" timestamp="1559715249633">
