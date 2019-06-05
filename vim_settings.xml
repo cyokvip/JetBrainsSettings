@@ -81,15 +81,15 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassExperienceController.php" timestamp="1559704355982">
-        <mark key="[" line="217" column="102" />
-        <mark key="]" line="217" column="113" />
-        <mark key="." line="217" column="113" />
-        <mark key="^" line="217" column="113" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassExperienceController.php" timestamp="1559726951294">
+        <mark key="[" line="207" column="125" />
+        <mark key="]" line="208" column="47" />
+        <mark key="." line="208" column="47" />
+        <mark key="^" line="208" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/UpdatePersonLoginListener.php" timestamp="1559559676257" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/PersonFirstLoginSendMessageListener.php" timestamp="1559559664883" />
-      <file name="/Dummy.txt" timestamp="1559704487814">
+      <file name="/Dummy.txt" timestamp="1559726955781">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -211,17 +211,17 @@
       <jump line="425" column="18" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>n message</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgJ2V4cGVyaWVuY2VfdmFsdWVfbWF4Jz0+JGstPmV4cGVyaWVuY2VfdmFsdWVfbWF4LCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0+d2hlcmUoJ2V4cGVyaWVuY2VfdHlwZScsJyE9JywzMCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
