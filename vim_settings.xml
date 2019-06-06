@@ -155,11 +155,17 @@
         <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Events/Test.php" timestamp="1559619537685" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/ExperienceRuleUpdateTemp.php" timestamp="1559721300596">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/ExperienceRuleUpdateTemp.php" timestamp="1559793074704">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="0" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ConfigController.php" timestamp="1559793088923">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/CompanyController.php" timestamp="1558503537062">
         <mark key="[" line="65" column="12" />
@@ -174,7 +180,7 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/UpdatePersonLoginListener.php" timestamp="1559559676257" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/PersonFirstLoginSendMessageListener.php" timestamp="1559559664883" />
-      <file name="/Dummy.txt" timestamp="1559789624680">
+      <file name="/Dummy.txt" timestamp="1559793231920">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -307,7 +313,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdmFsdWVfc3RyID0gJGstPmV4cGVyaWVuY2VfdmFsdWUgLiAnficgLiAkay0+ZXhwZXJpZW5jZV92YWx1ZV9tYXg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>==</text>
@@ -319,31 +325,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRtZXRob2RfbmFtZSAuICRrLT5leHBlcmllbmNlX3ZhbHVlIC4gJ34nIC4gJGstPmV4cGVyaWVuY2VfdmFsdWVfbWF4Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdmFsdWVfc3RyID0gJGstPmV4cGVyaWVuY2VfdmFsdWUgLiAnficgLiAkay0+ZXhwZXJpZW5jZV92YWx1ZV9tYXg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Ly90b2RvIDEuN+S4iue6v+aXtuWAmeaJp+ihjAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdmFsdWVfc3RyID0gJGstPmV4cGVyaWVuY2VfdmFsdWUgLiAnficgLiAkay0+ZXhwZXJpZW5jZV92YWx1ZV9tYXg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQkdmFsdWVfc3RyPScnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgnZXhwZXJpZW5jZV90eXBlJywgJyE9JywgMzApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcnNfc3lzdGVtKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRtdGNlcl9ycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQkdmFsdWVfc3RyPScnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgnZXhwZXJpZW5jZV90eXBlJywgJyE9JywgMzApCg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
