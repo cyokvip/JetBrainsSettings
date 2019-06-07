@@ -3,386 +3,302 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Models/Blog.php" timestamp="1544065344380">
-        <mark key="[" line="8" column="30" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" timestamp="1559109160100">
+        <mark key="[" line="312" column="33" />
+        <mark key="]" line="312" column="47" />
+        <mark key="." line="312" column="47" />
+        <mark key="^" line="312" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassTopic.php" timestamp="1557481027392">
-        <mark key="[" line="69" column="47" />
-        <mark key="]" line="69" column="48" />
-        <mark key="." line="69" column="48" />
-        <mark key="^" line="69" column="48" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassTopic.php" timestamp="1559199130747">
+        <mark key="[" line="58" column="22" />
+        <mark key="]" line="59" column="21" />
+        <mark key="." line="59" column="21" />
+        <mark key="^" line="59" column="21" />
       </file>
-      <file name="/api.learning.com.cn.odm_person_invitation [api.learning.com.cn]" timestamp="1539668975610">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" timestamp="1559033467738">
+        <mark key="'" line="8" column="18" />
+        <mark key="[" line="343" column="67" />
+        <mark key="]" line="343" column="67" />
+        <mark key="^" line="343" column="67" />
+        <mark key="." line="343" column="67" />
       </file>
-      <file name="/a.dummy" timestamp="1541659191897">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/config/app.php" timestamp="1559196010014">
+        <mark key="'" line="190" column="0" />
+        <mark key="[" line="144" column="29" />
+        <mark key="]" line="144" column="33" />
+        <mark key="^" line="144" column="33" />
+        <mark key="." line="144" column="33" />
       </file>
-      <file name="/platform.odm_goods [120.77.144.173]" timestamp="1553499732367">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Kernel.php" timestamp="1558942572804">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_06_172432_add_submission_method_to_training_class_task_table.php" timestamp="1557385846480">
-        <mark key="[" line="16" column="71" />
-        <mark key="]" line="25" column="25" />
-        <mark key="." line="25" column="25" />
-        <mark key="^" line="25" column="25" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperienceRule.php" timestamp="1559293420126">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitCompanyAppModuleHome.php" timestamp="1557284136781">
-        <mark key="'" line="21" column="17" />
-        <mark key="[" line="45" column="66" />
-        <mark key="]" line="45" column="69" />
-        <mark key="." line="45" column="69" />
-        <mark key="^" line="45" column="69" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassMember.php" timestamp="1558680172986">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_10_140238_add_content_type_to_training_class_topic_type_content_table.php" timestamp="1557468248893">
-        <mark key="[" line="16" column="66" />
-        <mark key="]" line="22" column="5" />
-        <mark key="." line="22" column="5" />
-        <mark key="^" line="22" column="5" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/storage/logs/laravel-2019-05-23.log" timestamp="1558595753654">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="36" />
+        <mark key="." line="24" column="36" />
       </file>
-      <file name="/platform.odm_person [120.77.144.173]" timestamp="1557398805723">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_17_165411_create_game_person_title_table.php" timestamp="1559011776321">
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="22" column="37" />
+        <mark key="^" line="22" column="37" />
+        <mark key="." line="22" column="37" />
       </file>
-      <file name="/platform.odm_company_user [120.77.144.173]" timestamp="1554197340383">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassMemberController.php" timestamp="1559195986388">
+        <mark key="[" line="63" column="55" />
+        <mark key="]" line="63" column="56" />
+        <mark key="." line="63" column="56" />
       </file>
-      <file name="/PHP Console" timestamp="1538202099377">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/WebSocket.php" timestamp="1558942548504">
+        <mark key="[" line="64" column="76" />
+        <mark key="]" line="64" column="76" />
+        <mark key="." line="64" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_09_152141_update_content_to_training_task_company_comment_table.php" timestamp="1557386793287">
-        <mark key="[" line="16" column="49" />
-        <mark key="]" line="16" column="56" />
-        <mark key="^" line="16" column="56" />
-        <mark key="." line="16" column="56" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTaskController.php" timestamp="1559209140163" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitTrainingClassChatGroup.php" timestamp="1559202655304">
+        <mark key="[" line="80" column="14" />
+        <mark key="]" line="80" column="18" />
+        <mark key="." line="80" column="18" />
+        <mark key="^" line="80" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/ShortClassController.php" timestamp="1557386036020">
-        <mark key="'" line="329" column="72" />
-        <mark key="[" line="368" column="23" />
-        <mark key="]" line="368" column="25" />
-        <mark key="." line="368" column="25" />
-        <mark key="^" line="368" column="25" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/UpgradeConfigController.php" timestamp="1559109718379">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_03_28_162152_change_person_order_table.php" timestamp="1554189276699">
-        <mark key="[" line="16" column="93" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatListener.php" timestamp="1559201642961">
+        <mark key="'" line="109" column="81" />
+        <mark key="[" line="90" column="80" />
+        <mark key="]" line="90" column="81" />
+        <mark key="." line="90" column="81" />
+        <mark key="^" line="90" column="81" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1559905398381" />
-      <file name="/dummy.sql" timestamp="1557212860879">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" timestamp="1559009473538">
+        <mark key="[" line="215" column="16" />
+        <mark key="]" line="215" column="17" />
+        <mark key="^" line="215" column="17" />
+        <mark key="." line="215" column="17" />
       </file>
-      <file name="/platform.odm_app_splash [120.77.144.173]" timestamp="1539668835957">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassMemberController.php" timestamp="1559008847742" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/CompanyController.php" timestamp="1558503537062">
+        <mark key="[" line="65" column="12" />
+        <mark key="]" line="65" column="12" />
+        <mark key="." line="65" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/FileController.php" timestamp="1557458347345">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="^" line="87" column="22" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassExperienceController.php" timestamp="1559108963680">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557481039600">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassController.php" timestamp="1559195997925">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="109" column="119" />
+        <mark key="]" line="109" column="120" />
+        <mark key="." line="109" column="120" />
+        <mark key="^" line="109" column="126" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1559293422596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingTaskCommentController.php" timestamp="1557389181339">
-        <mark key="'" line="49" column="43" />
-        <mark key="[" line="51" column="19" />
-        <mark key="]" line="51" column="19" />
-        <mark key="." line="51" column="19" />
-        <mark key="^" line="51" column="27" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1559108413681">
+        <mark key="'" line="141" column="30" />
+        <mark key="[" line="265" column="0" />
+        <mark key="]" line="265" column="0" />
+        <mark key="." line="265" column="0" />
+        <mark key="^" line="264" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1557398945042">
-        <mark key="[" line="90" column="33" />
-        <mark key="]" line="90" column="53" />
-        <mark key="^" line="90" column="53" />
-        <mark key="." line="90" column="53" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/Chat.php" timestamp="1559200487597">
+        <mark key="'" line="81" column="6" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingTaskTopic.php" timestamp="1557386115105">
-        <mark key="[" line="103" column="32" />
-        <mark key="]" line="103" column="32" />
-        <mark key="." line="103" column="32" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingTaskCommentController.php" timestamp="1558947674289">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" timestamp="1557280556693">
-        <mark key="'" line="167" column="40" />
-        <mark key="[" line="175" column="42" />
-        <mark key="]" line="175" column="44" />
-        <mark key="." line="175" column="44" />
-        <mark key="^" line="175" column="44" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameDailyLoginRewardController.php" timestamp="1558514629108">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyAppBanner.php" timestamp="1557280936362">
-        <mark key="'" line="17" column="4" />
-        <mark key="[" line="43" column="22" />
-        <mark key="]" line="43" column="29" />
-        <mark key="^" line="43" column="29" />
-        <mark key="." line="43" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" timestamp="1557470431838">
-        <mark key="'" line="218" column="48" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="115" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTopicController.php" timestamp="1557479101199">
-        <mark key="[" line="197" column="17" />
-        <mark key="]" line="198" column="16" />
-        <mark key="." line="198" column="16" />
-        <mark key="^" line="198" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_09_152508_update_photos_to_training_task_comment_table.php" timestamp="1557386799601">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="63" />
-        <mark key="." line="16" column="53" />
-        <mark key="^" line="16" column="53" />
-      </file>
-      <file name="/platform.odm_training_class_member [120.77.144.173]" timestamp="1557212848569">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" timestamp="1557368780473">
-        <mark key="'" line="217" column="66" />
-        <mark key="[" line="238" column="83" />
-        <mark key="]" line="238" column="85" />
-        <mark key="." line="238" column="85" />
-        <mark key="^" line="238" column="85" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" timestamp="1557467225436">
-        <mark key="[" line="592" column="43" />
-        <mark key="]" line="592" column="44" />
-        <mark key="." line="592" column="44" />
-        <mark key="^" line="592" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Person.php" timestamp="1557294017978">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Models/Links.php" timestamp="1544065366044">
-        <mark key="[" line="8" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTaskController.php" timestamp="1557404740469">
-        <mark key="'" line="88" column="46" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1557398915085">
-        <mark key="'" line="446" column="30" />
-        <mark key="[" line="500" column="0" />
-        <mark key="]" line="500" column="0" />
-        <mark key="." line="500" column="0" />
-        <mark key="^" line="500" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingTaskCommentController.php" timestamp="1557386400524">
-        <mark key="[" line="52" column="48" />
-        <mark key="]" line="52" column="47" />
-        <mark key="." line="52" column="47" />
-        <mark key="^" line="52" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/ApiAppController.php" timestamp="1557277322813">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_09_152522_update_photos_to_training_task_company_comment_table.php" timestamp="1557386805099">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" timestamp="1557465916622">
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="21" column="52" />
-        <mark key="^" line="21" column="52" />
-        <mark key="." line="21" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitCompanyAppBanner.php" timestamp="1557284262718">
-        <mark key="'" line="42" column="30" />
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="45" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_08_03_114928_create_message_table.php" timestamp="1557372277930">
-        <mark key="[" line="17" column="113" />
-        <mark key="]" line="17" column="122" />
-        <mark key="^" line="17" column="122" />
-        <mark key="." line="17" column="122" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" timestamp="1557363289626">
-        <mark key="'" line="22" column="50" />
-        <mark key="[" line="64" column="28" />
-        <mark key="]" line="64" column="30" />
-        <mark key="^" line="64" column="30" />
-        <mark key="." line="64" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AppModuleHomeController.php" timestamp="1557286048013">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="30" />
-        <mark key="." line="25" column="30" />
-        <mark key="^" line="25" column="30" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" timestamp="1559009351408">
+        <mark key="'" line="24" column="24" />
+        <mark key="[" line="149" column="37" />
+        <mark key="]" line="152" column="37" />
+        <mark key="." line="152" column="37" />
+        <mark key="^" line="152" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="26" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyAppModuleHome.php" />
-      <jump line="117" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/AppModuleHomeController.php" />
-      <jump line="123" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/AppModuleHomeController.php" />
-      <jump line="138" column="21" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/AppModuleHomeController.php" />
-      <jump line="65" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitCompanyAppModuleHome.php" />
-      <jump line="20" column="17" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitCompanyAppModuleHome.php" />
-      <jump line="171" column="48" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" />
-      <jump line="118" column="8" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/AppModuleHomeController.php" />
-      <jump line="87" column="4" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/AppBannerController.php" />
-      <jump line="21" column="10" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" />
-      <jump line="77" column="20" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyAppModuleHome.php" />
-      <jump line="103" column="24" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" />
-      <jump line="198" column="17" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ReviewProjectController.php" />
-      <jump line="127" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="226" column="78" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" />
-      <jump line="202" column="4" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="230" column="83" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" />
-      <jump line="166" column="44" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" />
-      <jump line="19" column="33" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="65" column="43" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTopicController.php" />
-      <jump line="181" column="95" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="207" column="86" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="138" column="12" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTopicController.php" />
-      <jump line="191" column="32" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="204" column="49" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="82" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/FileController.php" />
-      <jump line="45" column="13" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTaskController.php" />
-      <jump line="68" column="29" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTaskController.php" />
-      <jump line="242" column="17" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTaskController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTaskController.php" />
-      <jump line="91" column="32" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTaskController.php" />
-      <jump line="88" column="46" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTaskController.php" />
-      <jump line="67" column="32" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" />
-      <jump line="518" column="15" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" />
-      <jump line="519" column="7" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" />
-      <jump line="58" column="94" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" />
-      <jump line="521" column="21" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" />
-      <jump line="50" column="6" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="87" column="17" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/FileController.php" />
-      <jump line="88" column="26" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/FileController.php" />
-      <jump line="120" column="28" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/FileController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/FileController.php" />
-      <jump line="80" column="57" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Oss.php" />
-      <jump line="63" column="27" filename="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" />
-      <jump line="53" column="34" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" />
-      <jump line="12" column="24" filename="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" />
-      <jump line="13" column="9" filename="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" />
-      <jump line="14" column="9" filename="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" />
-      <jump line="18" column="23" filename="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" />
-      <jump line="22" column="50" filename="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" />
-      <jump line="706" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="1077" column="38" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="1083" column="38" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="1090" column="30" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="1211" column="18" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="1271" column="14" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="166" column="40" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" />
-      <jump line="14" column="4" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyAppBanner.php" />
-      <jump line="41" column="30" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitCompanyAppBanner.php" />
-      <jump line="25" column="23" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/AppBannerController.php" />
-      <jump line="65" column="8" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyPerson.php" />
-      <jump line="187" column="41" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="192" column="34" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="177" column="100" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="217" column="66" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" />
-      <jump line="229" column="13" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="40" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="234" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="89" column="25" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="65" column="45" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="76" column="64" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="113" column="61" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="61" column="44" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="88" column="54" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="182" column="9" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/BlogController.php" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/AppBannerController.php" />
-      <jump line="127" column="4" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/AppModuleHomeController.php" />
-      <jump line="189" column="15" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="168" column="26" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="329" column="72" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/ShortClassController.php" />
-      <jump line="13" column="28" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="39" column="9" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="218" column="13" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="62" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
-      <jump line="708" column="53" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="1227" column="20" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="1232" column="43" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="1243" column="20" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="1253" column="30" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="1254" column="31" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="424" column="20" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="440" column="40" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="445" column="30" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
-      <jump line="34" column="33" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingTaskCommentController.php" />
-      <jump line="73" column="43" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingTaskCommentController.php" />
-      <jump line="49" column="43" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingTaskCommentController.php" />
-      <jump line="615" column="36" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" />
-      <jump line="215" column="48" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" />
+      <jump line="856" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" />
+      <jump line="160" column="22" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/Training.php" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" />
+      <jump line="18" column="10" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameDailyLoginReward.php" />
+      <jump line="5" column="26" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameDailyLoginReward.php" />
+      <jump line="30" column="39" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameDailyTaskontroller.php" />
+      <jump line="51" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameDailyTaskController.php" />
+      <jump line="16" column="13" filename="$USER_HOME$/Documents/dev/www/platform/config/services.php" />
+      <jump line="11" column="113" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-05-21.log" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-05-21.log" />
+      <jump line="28" column="30" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Chat.php" />
+      <jump line="69" column="36" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" />
+      <jump line="45" column="55" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Chat.php" />
+      <jump line="138" column="16" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AuthController.php" />
+      <jump line="141" column="25" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassController.php" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatGroupListener.php" />
+      <jump line="514" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" />
+      <jump line="140" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassController.php" />
+      <jump line="139" column="31" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassController.php" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/GameLotteryController.php" />
+      <jump line="1243" column="14" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="21" column="18" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/ChatGroup.php" />
+      <jump line="35" column="4" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Chat.php" />
+      <jump line="39" column="30" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatGroupListener.php" />
+      <jump line="41" column="36" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Chat.php" />
+      <jump line="133" column="12" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassController.php" />
+      <jump line="58" column="51" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Chat.php" />
+      <jump line="69" column="6" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Chat.php" />
+      <jump line="18" column="48" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-05-22.log" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatGroupListener.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/PersonFirstLoginSendMessageListener.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatGroupListener.php" />
+      <jump line="378" column="15" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/ShortClassController.php" />
+      <jump line="86" column="38" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/ShortClassMember.php" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatGroupListener.php" />
+      <jump line="138" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/ShortClassController.php" />
+      <jump line="50" column="41" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/ShortClassMember.php" />
+      <jump line="193" column="36" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" />
+      <jump line="77" column="22" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassMember.php" />
+      <jump line="147" column="48" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/BlogController.php" />
+      <jump line="10" column="66" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" />
+      <jump line="217" column="6" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" />
+      <jump line="25" column="5" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" />
+      <jump line="183" column="26" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" />
+      <jump line="7" column="41" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" />
+      <jump line="185" column="32" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" />
+      <jump line="10" column="10" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" />
+      <jump line="11" column="10" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" />
+      <jump line="12" column="10" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" />
+      <jump line="6" column="10" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" />
+      <jump line="7" column="10" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" />
+      <jump line="8" column="10" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" />
+      <jump line="9" column="10" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" />
+      <jump line="223" column="5" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" />
+      <jump line="16" column="36" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" />
+      <jump line="24" column="24" filename="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" />
+      <jump line="55" column="9" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" />
+      <jump line="32" column="6" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatGroupListener.php" />
+      <jump line="38" column="83" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/laravel-2019-05-22.log" />
+      <jump line="116" column="44" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatGroupListener.php" />
+      <jump line="224" column="25" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" />
+      <jump line="88" column="47" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassMember.php" />
+      <jump line="87" column="21" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatListener.php" />
+      <jump line="104" column="31" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassMember.php" />
+      <jump line="47" column="28" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassController.php" />
+      <jump line="112" column="34" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassController.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassController.php" />
+      <jump line="220" column="34" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
+      <jump line="227" column="12" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" />
+      <jump line="737" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/UpdatePersonLoginListener.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/UpdatePersonLoginListener.php" />
+      <jump line="5" column="10" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/UpdatePersonLoginListener.php" />
+      <jump line="78" column="19" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AuthController.php" />
+      <jump line="562" column="45" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" />
+      <jump line="77" column="26" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AuthController.php" />
+      <jump line="47" column="21" filename="$USER_HOME$/Documents/dev/www/platform/.env.online" />
+      <jump line="40" column="15" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PayController.php" />
+      <jump line="49" column="28" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatListener.php" />
+      <jump line="8" column="18" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" />
+      <jump line="98" column="29" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassMember.php" />
+      <jump line="40" column="8" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" />
+      <jump line="92" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" />
+      <jump line="183" column="0" filename="$USER_HOME$/Documents/dev/www/platform/config/app.php" />
+      <jump line="11" column="16" filename="$USER_HOME$/Documents/dev/www/platform/config/swoole_http.php" />
+      <jump line="207" column="6" filename="$USER_HOME$/Documents/dev/www/platform/vendor/swooletw/laravel-swoole/src/Commands/HttpServerCommand.php" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/WebSocketService.php" />
+      <jump line="45" column="21" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Socket.php" />
+      <jump line="100" column="33" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/WebSocketService.php" />
+      <jump line="73" column="36" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/WebSocketService.php" />
+      <jump line="68" column="43" filename="$USER_HOME$/Documents/dev/www/platform/config/laravels.php" />
+      <jump line="100" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/Swoole.php" />
+      <jump line="20" column="18" filename="$USER_HOME$/Documents/dev/www/platform/.env.dev" />
+      <jump line="79" column="0" filename="$USER_HOME$/Documents/dev/www/platform/.env.dev" />
+      <jump line="484" column="16" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" />
+      <jump line="141" column="30" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="109" column="81" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatListener.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJzLT5jb250ZW50PSdhQCFAYkAhQGNAIUBkJzsK</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>default_group_person_id</text>
       </register>
       <register name="/" type="4">
-        <text>assess_training_member_attend</text>
+        <text>sdk_group_id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndHlwZSc9PjMsCg==</text>
+        <text encoding="base64">ICAgICAgICAndmVyc2lvbl80Jz0+JzEuNycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJzLT5jb250ZW50PSdhQCFAYkAhQGNAIUBkJzsK</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8qIHRvZG8g5bim5Yig6ZmkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndHJhaW5pbmdfY2xhc3NfdG9waWNfaWQnPT4kdG9waWNfaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndHlwZSc9PjMsCg==</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJzLT5jb250ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy/mt7vliqDliLDnvqTnu4QK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
       </register>
     </registers>
     <search>
-      <last-search>assess_training_member_attend</last-search>
+      <last-search>sdk_group_id</last-search>
       <last-offset />
-      <last-pattern>assess_training_member_attend</last-pattern>
+      <last-pattern>sdk_group_id</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>new_file</entry>
-        <entry>content</entry>
-        <entry encoding="base64">XDxJbnB1dFw+</entry>
-        <entry>n message</entry>
-        <entry>upload</entry>
-        <entry>filename</entry>
         <entry>geturl</entry>
         <entry>my_training_list</entry>
         <entry>new</entry>
@@ -397,9 +313,14 @@
         <entry>stage</entry>
         <entry>红点</entry>
         <entry>assess_training_member_attend</entry>
+        <entry>dispatch_mode</entry>
+        <entry>hset</entry>
+        <entry>del</entry>
+        <entry>responseError</entry>
+        <entry>sign_in</entry>
+        <entry>sdk_group_id</entry>
       </history-search>
       <history-cmd>
-        <entry>vsp</entry>
         <entry>dox</entry>
         <entry>520</entry>
         <entry>vimgrep</entry>
@@ -410,6 +331,9 @@
         <entry>action Find</entry>
         <entry>nohlsearch</entry>
         <entry>q</entry>
+        <entry>vsp</entry>
+        <entry>SP</entry>
+        <entry>195</entry>
         <entry>sp</entry>
       </history-cmd>
       <history-expr />
