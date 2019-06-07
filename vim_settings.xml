@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Models/Blog.php" timestamp="1544065344380">
+        <mark key="[" line="8" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassTopic.php" timestamp="1557481027392">
         <mark key="[" line="69" column="47" />
         <mark key="]" line="69" column="48" />
@@ -24,17 +27,69 @@
         <mark key="." line="25" column="25" />
         <mark key="^" line="25" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitCompanyAppModuleHome.php" timestamp="1557284136781">
+        <mark key="'" line="21" column="17" />
+        <mark key="[" line="45" column="66" />
+        <mark key="]" line="45" column="69" />
+        <mark key="." line="45" column="69" />
+        <mark key="^" line="45" column="69" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_10_140238_add_content_type_to_training_class_topic_type_content_table.php" timestamp="1557468248893">
         <mark key="[" line="16" column="66" />
         <mark key="]" line="22" column="5" />
         <mark key="." line="22" column="5" />
         <mark key="^" line="22" column="5" />
       </file>
+      <file name="/platform.odm_person [120.77.144.173]" timestamp="1557398805723">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/platform.odm_company_user [120.77.144.173]" timestamp="1554197340383">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/PHP Console" timestamp="1538202099377">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_09_152141_update_content_to_training_task_company_comment_table.php" timestamp="1557386793287">
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="16" column="56" />
+        <mark key="^" line="16" column="56" />
+        <mark key="." line="16" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/ShortClassController.php" timestamp="1557386036020">
+        <mark key="'" line="329" column="72" />
+        <mark key="[" line="368" column="23" />
+        <mark key="]" line="368" column="25" />
+        <mark key="." line="368" column="25" />
+        <mark key="^" line="368" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_03_28_162152_change_person_order_table.php" timestamp="1554189276699">
         <mark key="[" line="16" column="93" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1559905398381" />
+      <file name="/dummy.sql" timestamp="1557212860879">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/platform.odm_app_splash [120.77.144.173]" timestamp="1539668835957">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/FileController.php" timestamp="1557458347345">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="87" column="22" />
+        <mark key="." line="100" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1557481039600">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingTaskCommentController.php" timestamp="1557389181339">
+        <mark key="'" line="49" column="43" />
+        <mark key="[" line="51" column="19" />
+        <mark key="]" line="51" column="19" />
+        <mark key="." line="51" column="19" />
+        <mark key="^" line="51" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1557398945042">
         <mark key="[" line="90" column="33" />
@@ -42,13 +97,24 @@
         <mark key="^" line="90" column="53" />
         <mark key="." line="90" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_09_151022_add_submission_method_to_training_task_company_comment_table.php" timestamp="1557385913727" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingTaskTopic.php" timestamp="1557386115105">
+        <mark key="[" line="103" column="32" />
+        <mark key="]" line="103" column="32" />
+        <mark key="." line="103" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" timestamp="1557280556693">
         <mark key="'" line="167" column="40" />
         <mark key="[" line="175" column="42" />
         <mark key="]" line="175" column="44" />
         <mark key="." line="175" column="44" />
         <mark key="^" line="175" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyAppBanner.php" timestamp="1557280936362">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="43" column="22" />
+        <mark key="]" line="43" column="29" />
+        <mark key="^" line="43" column="29" />
+        <mark key="." line="43" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" timestamp="1557470431838">
         <mark key="'" line="218" column="48" />
@@ -68,6 +134,9 @@
         <mark key="]" line="16" column="63" />
         <mark key="." line="16" column="53" />
         <mark key="^" line="16" column="53" />
+      </file>
+      <file name="/platform.odm_training_class_member [120.77.144.173]" timestamp="1557212848569">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" timestamp="1557368780473">
         <mark key="'" line="217" column="66" />
@@ -97,6 +166,19 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1557398915085">
+        <mark key="'" line="446" column="30" />
+        <mark key="[" line="500" column="0" />
+        <mark key="]" line="500" column="0" />
+        <mark key="." line="500" column="0" />
+        <mark key="^" line="500" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingTaskCommentController.php" timestamp="1557386400524">
+        <mark key="[" line="52" column="48" />
+        <mark key="]" line="52" column="47" />
+        <mark key="." line="52" column="47" />
+        <mark key="^" line="52" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/ApiAppController.php" timestamp="1557277322813">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -120,99 +202,6 @@
         <mark key="." line="9" column="26" />
         <mark key="^" line="45" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AppModuleHomeController.php" timestamp="1557286048013">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="30" />
-        <mark key="." line="25" column="30" />
-        <mark key="^" line="25" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_09_152204_update_content_to_training_task_comment_table.php" timestamp="1557386665941" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_01_03_154536_create_training_task_comment_table.php" timestamp="1557466042453" />
-      <file name="$USER_HOME$/Documents/dev/www/ondemand_api/app/Models/Blog.php" timestamp="1544065344380">
-        <mark key="[" line="8" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_01_03_160938_create_training_task_company_comment_table.php" timestamp="1557466044558" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_08_165641_create_assess_training_member_attend_table.php" timestamp="1557466067362" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitCompanyAppModuleHome.php" timestamp="1557284136781">
-        <mark key="'" line="21" column="17" />
-        <mark key="[" line="45" column="66" />
-        <mark key="]" line="45" column="69" />
-        <mark key="." line="45" column="69" />
-        <mark key="^" line="45" column="69" />
-      </file>
-      <file name="/platform.odm_person [120.77.144.173]" timestamp="1557398805723">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/PHP Console" timestamp="1538202099377">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_09_152141_update_content_to_training_task_company_comment_table.php" timestamp="1557386793287">
-        <mark key="[" line="16" column="49" />
-        <mark key="]" line="16" column="56" />
-        <mark key="^" line="16" column="56" />
-        <mark key="." line="16" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/ShortClassController.php" timestamp="1557386036020">
-        <mark key="'" line="329" column="72" />
-        <mark key="[" line="368" column="23" />
-        <mark key="]" line="368" column="25" />
-        <mark key="." line="368" column="25" />
-        <mark key="^" line="368" column="25" />
-      </file>
-      <file name="/dummy.sql" timestamp="1557212860879">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/platform.odm_app_splash [120.77.144.173]" timestamp="1539668835957">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/FileController.php" timestamp="1557458347345">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="^" line="87" column="22" />
-        <mark key="." line="100" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1557481039600">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingTaskCommentController.php" timestamp="1557389181339">
-        <mark key="'" line="49" column="43" />
-        <mark key="[" line="51" column="19" />
-        <mark key="]" line="51" column="19" />
-        <mark key="." line="51" column="19" />
-        <mark key="^" line="51" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_09_150939_add_submission_method_to_training_task_comment_table.php" timestamp="1557468175221" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingTaskTopic.php" timestamp="1557386115105">
-        <mark key="[" line="103" column="32" />
-        <mark key="]" line="103" column="32" />
-        <mark key="." line="103" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyAppBanner.php" timestamp="1557280936362">
-        <mark key="'" line="17" column="4" />
-        <mark key="[" line="43" column="22" />
-        <mark key="]" line="43" column="29" />
-        <mark key="^" line="43" column="29" />
-        <mark key="." line="43" column="29" />
-      </file>
-      <file name="/platform.odm_training_class_member [120.77.144.173]" timestamp="1557212848569">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1557398915085">
-        <mark key="'" line="446" column="30" />
-        <mark key="[" line="500" column="0" />
-        <mark key="]" line="500" column="0" />
-        <mark key="." line="500" column="0" />
-        <mark key="^" line="500" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingTaskCommentController.php" timestamp="1557386400524">
-        <mark key="[" line="52" column="48" />
-        <mark key="]" line="52" column="47" />
-        <mark key="." line="52" column="47" />
-        <mark key="^" line="52" column="47" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_08_03_114928_create_message_table.php" timestamp="1557372277930">
         <mark key="[" line="17" column="113" />
         <mark key="]" line="17" column="122" />
@@ -225,6 +214,12 @@
         <mark key="]" line="64" column="30" />
         <mark key="^" line="64" column="30" />
         <mark key="." line="64" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AppModuleHomeController.php" timestamp="1557286048013">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+        <mark key="^" line="25" column="30" />
       </file>
     </filemarks>
     <jumps>
