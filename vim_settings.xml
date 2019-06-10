@@ -78,12 +78,12 @@
         <mark key="^" line="127" column="11" />
         <mark key="." line="127" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PayController.php" timestamp="1560135109599">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PayController.php" timestamp="1560137425822">
         <mark key="'" line="35" column="29" />
-        <mark key="[" line="360" column="15" />
-        <mark key="]" line="361" column="11" />
-        <mark key="^" line="361" column="11" />
-        <mark key="." line="361" column="11" />
+        <mark key="[" line="296" column="56" />
+        <mark key="]" line="302" column="11" />
+        <mark key="^" line="302" column="11" />
+        <mark key="." line="302" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_17_165411_create_game_person_title_table.php" timestamp="1559011776321">
         <mark key="[" line="22" column="34" />
@@ -181,7 +181,7 @@
         <mark key="." line="208" column="0" />
         <mark key="^" line="208" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560135747802">
+      <file name="/Dummy.txt" timestamp="1560137432269">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -314,16 +314,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>n message</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRtZXRob2RfbmFtZSAuICRrLT5leHBlcmllbmNlX3ZhbHVlIC4gJ34nIC4gJGstPmV4cGVyaWVuY2VfdmFsdWVfbWF4Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2c6OmluZm8oJ2lvc19lcnJvcu+8muayoeacieiuouWNleWPtycpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">57uP6aqM5YC86KeE5YiZMS435L+u5pS5Cg==</text>
