@@ -77,7 +77,7 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/Pay/Ios.php" timestamp="1560131025327" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/Pay/Ios.php" timestamp="1560132091167" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperienceRule.php" timestamp="1559293420126">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -126,7 +126,7 @@
         <mark key="^" line="127" column="11" />
         <mark key="." line="127" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PayController.php" timestamp="1560130967998" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PayController.php" timestamp="1560131781349" />
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_17_165411_create_game_person_title_table.php" timestamp="1559011776321">
         <mark key="[" line="22" column="34" />
         <mark key="]" line="22" column="37" />
