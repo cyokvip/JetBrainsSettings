@@ -16,12 +16,12 @@
         <mark key="^" line="26" column="60" />
         <mark key="." line="26" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" timestamp="1560139034959">
-        <mark key="'" line="15" column="9" />
-        <mark key="[" line="361" column="11" />
-        <mark key="]" line="361" column="14" />
-        <mark key="." line="361" column="14" />
-        <mark key="^" line="361" column="14" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" timestamp="1560394059499">
+        <mark key="'" line="364" column="3" />
+        <mark key="[" line="120" column="11" />
+        <mark key="]" line="120" column="12" />
+        <mark key="." line="120" column="12" />
+        <mark key="^" line="120" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/.env.dev" timestamp="1560139204794">
         <mark key="'" line="38" column="30" />
@@ -117,7 +117,7 @@
         <mark key="." line="87" column="19" />
         <mark key="^" line="87" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560391303673">
+      <file name="/Dummy.txt" timestamp="1560394399266">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -134,6 +134,12 @@
         <mark key="]" line="228" column="0" />
         <mark key="." line="228" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ConfigController.php" timestamp="1560394626522">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="29" column="12" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="/CompanyPerson.php" timestamp="1560391320998" />
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_06_10_114833_create_app_log_table.php" timestamp="1560147352226">
         <mark key="[" line="22" column="0" />
@@ -143,7 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="31" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassController.php" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/GameLotteryController.php" />
       <jump line="1243" column="14" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
       <jump line="21" column="18" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/ChatGroup.php" />
@@ -243,46 +248,47 @@
       <jump line="38" column="30" filename="$USER_HOME$/Documents/dev/www/platform/.env.dev" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/.env.online" />
       <jump line="33" column="8" filename="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_09_03_134333_create_company_user_table.php" />
+      <jump line="362" column="3" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0cmFpbmluZ19jbGFzc19pZF9hcnI9YXJyYXkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGltZXN0YW1wPWRhdGUoJ1ktbS1kIEg6aTpzJywkc2opOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>sound</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRmb2xkZXIgPSBzZWxmOjokX2ZvbGRlcl9zb3VuZDsK</text>
+        <text encoding="base64">ICAgIFJvdXRlOjpwb3N0KCcvYXBwL2FwcF9sb2cvYWRkJywnQXBwTG9nQ29udHJvbGxlckBhZGQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0cmFpbmluZ19jbGFzc19pZF9hcnI9YXJyYXkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGltZXN0YW1wPWRhdGUoJ1ktbS1kIEg6aTpzJywkc2opOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgCiAgICAgICAgJHRyYWluaW5nX2NsYXNzX3B1bmNoX2NvdW50ID0gVHJhaW5pbmdDbGFzc0V4cGVyaWVuY2U6OndoZXJlKCdleHBlcmllbmNlX3R5cGUnLCAnPj0nLCAxMCkKICAgICAgICAgICAgLT53aGVyZSgnZXhwZXJpZW5jZV90eXBlJywgJzw9JywgMTkpCiAgICAgICAgICAgIC0+d2hlcmUoJ3RyYWluaW5nX2NsYXNzX2lkJywgJHRyYWluaW5nX2NsYXNzX2lkKQogICAgICAgICAgICAtPndoZXJlKCdtZXRob2QnLDEpCiAgICAgICAgICAgIC0+d2hlcmUoJ3RyYWluaW5nX2NsYXNzX3Rhc2tfZGF0ZScsJHRvZGF5KQogICAgICAgICAgICAtPmNvdW50KCk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vdHJhaW5pbmdfY2xhc3NfdGFzawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0cmFpbmluZ19jbGFzc19pZF9hcnI9YXJyYXkoKTsK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICRycy0+dHJhaW5pbmdfY2xhc3NfcHVuY2hfY291bnQgPSBUcmFpbmluZ0NsYXNzRXhwZXJpZW5jZTo6d2hlcmUoJ2V4cGVyaWVuY2VfdHlwZScsICc+PScsIDEwKQogICAgICAgICAgICAgICAgICAgIC0+d2hlcmUoJ2V4cGVyaWVuY2VfdHlwZScsICc8PScsIDE5KQogICAgICAgICAgICAgICAgICAgIC0+d2hlcmUoJ3RyYWluaW5nX2NsYXNzX2lkJywgJHRyYWluaW5nX2NsYXNzX2lkKQogICAgICAgICAgICAgICAgICAgIC0+d2hlcmUoJ21ldGhvZCcsMSkKICAgICAgICAgICAgICAgICAgICAtPndoZXJlKCd0cmFpbmluZ19jbGFzc190YXNrX2RhdGUnLCRkYXRlKQogICAgICAgICAgICAgICAgICAgIC0+Y291bnQoKTs=</text>
+        <text encoding="base64">ICAgCiAgICAgICAgJHRyYWluaW5nX2NsYXNzX3B1bmNoX2NvdW50ID0gVHJhaW5pbmdDbGFzc0V4cGVyaWVuY2U6OndoZXJlKCdleHBlcmllbmNlX3R5cGUnLCAnPj0nLCAxMCkKICAgICAgICAgICAgLT53aGVyZSgnZXhwZXJpZW5jZV90eXBlJywgJzw9JywgMTkpCiAgICAgICAgICAgIC0+d2hlcmUoJ3RyYWluaW5nX2NsYXNzX2lkJywgJHRyYWluaW5nX2NsYXNzX2lkKQogICAgICAgICAgICAtPndoZXJlKCdtZXRob2QnLDEpCiAgICAgICAgICAgIC0+d2hlcmUoJ3RyYWluaW5nX2NsYXNzX3Rhc2tfZGF0ZScsJHRvZGF5KQogICAgICAgICAgICAtPmNvdW50KCk7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vdHJhaW5pbmdfY2xhc3NfdGFzawo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICRycy0+dHJhaW5pbmdfY2xhc3NfcHVuY2hfY291bnQgPSBUcmFpbmluZ0NsYXNzRXhwZXJpZW5jZTo6d2hlcmUoJ2V4cGVyaWVuY2VfdHlwZScsICc+PScsIDEwKQogICAgICAgICAgICAgICAgICAgIC0+d2hlcmUoJ2V4cGVyaWVuY2VfdHlwZScsICc8PScsIDE5KQogICAgICAgICAgICAgICAgICAgIC0+d2hlcmUoJ3RyYWluaW5nX2NsYXNzX2lkJywgJHRyYWluaW5nX2NsYXNzX2lkKQogICAgICAgICAgICAgICAgICAgIC0+d2hlcmUoJ21ldGhvZCcsMSkKICAgICAgICAgICAgICAgICAgICAtPndoZXJlKCd0cmFpbmluZ19jbGFzc190YXNrX2RhdGUnLCRkYXRlKQogICAgICAgICAgICAgICAgICAgIC0+Y291bnQoKTs=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYoIWVtcHR5KCR0cmFpbmluZ19jbGFzc19pZF9hcnIpKXsKICAgICAgICAgICAgICAgICAgICBmb3JlYWNoKCR0cmFpbmluZ19jbGFzc19pZF9hcnIgYXMgJGspewogICAgICAgICAgICAgICAgICAgICAgICAkdHJhaW5pbmdfY2xhc3NfaWQ9JGs7CgogICAgICAgICAgICAgICAgICAgICAgICAkdGNtPW5ldyBUcmFpbmluZ0NsYXNzTWVtYmVyKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICRzdGF0dXM9JHRjbS0+dHJhaW5pbmdfY2xhc3NfbWVtYmVyX2RlbCgkdHJhaW5pbmdfY2xhc3NfaWQsJGNvbXBhbnlfaWQpOwogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
