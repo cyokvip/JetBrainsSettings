@@ -27,11 +27,11 @@
         <mark key="^" line="61" column="98" />
         <mark key="." line="61" column="98" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GamePersonTitle.php" timestamp="1560830410873">
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="30" column="11" />
-        <mark key="^" line="30" column="11" />
-        <mark key="." line="30" column="11" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GamePersonTitle.php" timestamp="1560831226522">
+        <mark key="[" line="37" column="123" />
+        <mark key="]" line="37" column="125" />
+        <mark key="^" line="37" column="125" />
+        <mark key="." line="37" column="125" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/MessageController.php" timestamp="1559562233186">
         <mark key="[" line="111" column="0" />
@@ -422,11 +422,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-06-18.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MjAxOS0wNi0xOCAxMTo1NTo0Ml06IHNlbGVjdCAqIGZyb20gYG9kbV9jb21wYW55X3BlcnNvbmAgd2hlcmUgYGNvbXBhbnlfaWRgID0gNSBhbmQgYHBlcnNvbl9pZGAgPSAxMjEwIGxpbWl0IDEK</text>
+      <register name="&quot;" type="4">
+        <text>first</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
         <text>sound</text>
@@ -435,9 +435,15 @@
         <text encoding="base64">ICAgICAgICAkeWVhcj1kYXRlKCdZJyx0aW1lKCkpOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">MjAxOS0wNi0xOCAxMTo1NTo0Ml06IHNlbGVjdCAqIGZyb20gYG9kbV9jb21wYW55X3BlcnNvbmAgd2hlcmUgYGNvbXBhbnlfaWRgID0gNSBhbmQgYHBlcnNvbl9pZGAgPSAxMjEwIGxpbWl0IDEK</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>[2019-06-18 11:55:38]: select * from `odm_company_user` where `id` = 7 limit 1
 [2019-06-18 11:55:38]: select * from `odm_company_user` where `id` = 7 limit 1
 [2019-06-18 11:55:38]: select * from `odm_company_user_acl_privilege` where `action` = 'training_class_member' limit 1
@@ -472,26 +478,20 @@
 [2019-06-18 11:55:42]: select * from `odm_company_person` where `company_id` = 5 and `person_id` = 1209 limit 1
 [</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkcGVyc29uX2lkcyk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">WzIwMTktMDYtMTggMTE6NTU6MTVdOiBzZWxlY3QgKiBmcm9tIGBvZG1fY29tcGFueV91c2VyYCB3aGVyZSBgaWRgID0gNyBsaW1pdCAxCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">WzIwMTktMDYtMTggMTE6NTU6MTVdOiBzZWxlY3QgKiBmcm9tIGBvZG1fY29tcGFueV91c2VyYCB3aGVyZSBgaWRgID0gNyBsaW1pdCAxCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">WzIwMTktMDYtMTggMTE6NTU6MTVdOiBzZWxlY3QgKiBmcm9tIGBvZG1fY29tcGFueV91c2VyX2FjbF9wcml2aWxlZ2VgIHdoZXJlIGBhY3Rpb25gID0gJ3RyYWluaW5nX2NsYXNzX21lbWJlcicgbGltaXQgMQo=</text>
+        <text encoding="base64">WzIwMTktMDYtMTggMTE6NTU6MTVdOiBzZWxlY3QgKiBmcm9tIGBvZG1fY29tcGFueV91c2VyYCB3aGVyZSBgaWRgID0gNyBsaW1pdCAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">WzIwMTktMDYtMTggMTE6NTU6MTZdOiBzZWxlY3QgKiBmcm9tIGBvZG1fY29tcGFueV91c2VyX2FjbF9wcml2aWxlZ2VgIHdoZXJlIGBhY3Rpb25gID0gJ2xpc3QnIGFuZCBgcHJpdmlsZWdlX3BpZGAgPSAxIGxpbWl0IDEK</text>
+        <text encoding="base64">WzIwMTktMDYtMTggMTE6NTU6MTVdOiBzZWxlY3QgKiBmcm9tIGBvZG1fY29tcGFueV91c2VyYCB3aGVyZSBgaWRgID0gNyBsaW1pdCAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">WzIwMTktMDYtMTggMTE6NTU6MTZdOiBzZWxlY3QgKiBmcm9tIGBvZG1fdHJhaW5pbmdfY2xhc3NgIHdoZXJlIGBpZGAgPSAnMTAzJyBhbmQgYHVzZXJfaWRgID0gNSBhbmQgYHVzZXJfZ3JvdXBfaWRgID0gMiBsaW1pdCAxCg==</text>
+        <text encoding="base64">WzIwMTktMDYtMTggMTE6NTU6MTVdOiBzZWxlY3QgKiBmcm9tIGBvZG1fY29tcGFueV91c2VyX2FjbF9wcml2aWxlZ2VgIHdoZXJlIGBhY3Rpb25gID0gJ3RyYWluaW5nX2NsYXNzX21lbWJlcicgbGltaXQgMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">WzIwMTktMDYtMTggMTE6NTU6MTZdOiBzZWxlY3QgKiBmcm9tIGBvZG1fY29tcGFueV9wZXJzb25gIHdoZXJlIGBwZXJzb25faWRgIGluICg2NjAsIDY1OSwgNjU4LCA2NTcsIDY1NiwgNjU1LCA2NTQsIDY1MywgNjUyLCA2NTEsIDY1MCwgNjQ5LCA2NDgsIDY0NywgNjQ2LCA3NTYsIDc1NywgNzU4LCA3NTksIDc2MCkgYW5kIGBjb21wYW55X2lkYCA9IDUgbGltaXQgMQo=</text>
+        <text encoding="base64">WzIwMTktMDYtMTggMTE6NTU6MTZdOiBzZWxlY3QgKiBmcm9tIGBvZG1fY29tcGFueV91c2VyX2FjbF9wcml2aWxlZ2VgIHdoZXJlIGBhY3Rpb25gID0gJ2xpc3QnIGFuZCBgcHJpdmlsZWdlX3BpZGAgPSAxIGxpbWl0IDEK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
