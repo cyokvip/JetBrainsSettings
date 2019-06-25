@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6d3e990a-6098-4f31-bf1f-e86c11fd1ce1" name="api" url="http://www.learning.com.cn">
+        <fileTransfer host="www.learning.com.cn" port="22" rootFolder="/var/www/html/api.learning.com.cn" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
