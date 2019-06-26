@@ -81,10 +81,16 @@
         <mark key="^" line="16" column="77" />
         <mark key="." line="16" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561450518458">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="/Dummy.txt" timestamp="1561521262263">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassMemberController.php" timestamp="1561521627423">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="123" column="18" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_06_20_152625_add_training_class_id_to_game_daily_login_reward_person_table.php" timestamp="1561015851223">
         <mark key="[" line="16" column="76" />
@@ -225,11 +231,11 @@
       <jump line="219" column="27" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>每日任务</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBcTG9nOjppbmZvKCRwZXJzb25faWRfYXJyKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>每日任务</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
         <text>$point_rule_type</text>
@@ -238,31 +244,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRrLT5nYW1lX2RhaWx5X3Rhc2tfc3RhdHVzICAgICA9ICRnYW1lX2RhaWx5X3Rhc2tfc3RhdHVzX3Jlc3VsdFsnc3RhdHVzJ107Ly/ku7vliqHlrozmiJDnirbmgIEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBcTG9nOjppbmZvKCRwZXJzb25faWRfYXJyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgIGlmKGlzc2V0KCRrLT5wZXJzb25faWQpKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRnYW1lX2RhaWx5X3Rhc2tfcGVyc29uX2lkcyA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAvLyAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Zwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">JGluZm8gICAgICAgICAgICAgICAgICAgICAgPSBHYW1lRGFpbHlUYXNrUGVyc29uOjpmaW5kKCRnYW1lX2RhaWx5X3Rhc2tfcGVyc29uX2lkKTsKICAgICAgICAgICAgJGluZm8tPnN0YXR1cyAgICAgICAgICAgICAgPSBHYW1lRGFpbHlUYXNrUGVyc29uOjpTVEFUVVNfWUVTOwogICAgICAgICAgICAkaW5mby0+dXBkYXRlKCk7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihpc3NldCgkay0+cGVyc29uX2lkKSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGN1cnJlbnRfY29tcGxldGlvbl9udW1zID0gJGNvdW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNvdW50PTA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNvdW50ICAgICAgICAgICAgICAgICAgID0gY291bnQoJHJzLT50b0FycmF5KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
