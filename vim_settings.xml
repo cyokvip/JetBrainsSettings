@@ -10,6 +10,13 @@
         <mark key="^" line="181" column="28" />
         <mark key="." line="181" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_09_03_134333_create_company_user_table.php" timestamp="1560155594161">
+        <mark key="'" line="33" column="8" />
+        <mark key="[" line="26" column="57" />
+        <mark key="]" line="26" column="60" />
+        <mark key="^" line="26" column="60" />
+        <mark key="." line="26" column="60" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_20_170529_create_game_daily_task_table.php" timestamp="1561450284848" />
       <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" timestamp="1561018091498">
         <mark key="'" line="367" column="3" />
@@ -17,6 +24,13 @@
         <mark key="]" line="357" column="95" />
         <mark key="." line="357" column="0" />
         <mark key="^" line="373" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/.env.dev" timestamp="1560139204794">
+        <mark key="'" line="38" column="30" />
+        <mark key="[" line="55" column="28" />
+        <mark key="]" line="55" column="28" />
+        <mark key="." line="55" column="28" />
+        <mark key="^" line="55" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameProps.php" timestamp="1561009850454">
         <mark key="[" line="10" column="0" />
@@ -31,6 +45,13 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/.env.online" timestamp="1560139216633">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="54" column="35" />
+        <mark key="]" line="55" column="30" />
+        <mark key="^" line="55" column="30" />
+        <mark key="." line="55" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassMember.php" timestamp="1561537295585">
         <mark key="[" line="133" column="36" />
         <mark key="]" line="133" column="50" />
@@ -43,10 +64,24 @@
         <mark key="." line="16" column="86" />
         <mark key="^" line="16" column="86" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PayController.php" timestamp="1560138073300">
+        <mark key="'" line="35" column="29" />
+        <mark key="[" line="301" column="0" />
+        <mark key="]" line="301" column="0" />
+        <mark key="^" line="335" column="65" />
+        <mark key="." line="301" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-06-24.log" timestamp="1561348906902">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassMemberController.php" timestamp="1560906248963">
+        <mark key="'" line="101" column="7" />
+        <mark key="[" line="102" column="8" />
+        <mark key="]" line="102" column="12" />
+        <mark key="." line="102" column="12" />
+        <mark key="^" line="102" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_06_25_161012_add_training_class_id_to_person_point_table.php" timestamp="1561450317898">
         <mark key="[" line="16" column="74" />
@@ -75,7 +110,7 @@
         <mark key="." line="16" column="66" />
         <mark key="^" line="16" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameDailyTaskController.php" timestamp="1561368751967">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameDailyTaskController.php" timestamp="1561684251581">
         <mark key="'" line="30" column="5" />
         <mark key="[" line="83" column="82" />
         <mark key="]" line="83" column="81" />
@@ -89,13 +124,20 @@
         <mark key="^" line="76" column="37" />
         <mark key="." line="76" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLotteryPerson.php" timestamp="1561684373444">
+        <mark key="'" line="5" column="34" />
+        <mark key="[" line="88" column="16" />
+        <mark key="]" line="88" column="25" />
+        <mark key="^" line="88" column="25" />
+        <mark key="." line="88" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_06_20_153015_add_training_class_id_to_game_daily_task_person_table.php" timestamp="1561015932093">
         <mark key="[" line="16" column="76" />
         <mark key="]" line="16" column="77" />
         <mark key="^" line="16" column="77" />
         <mark key="." line="16" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561537320331">
+      <file name="/Dummy.txt" timestamp="1561684396917">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -129,7 +171,7 @@
         <mark key="^" line="38" column="14" />
         <mark key="." line="38" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameDailyTaskPerson.php" timestamp="1561368717375">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameDailyTaskPerson.php" timestamp="1561684245017">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="41" />
         <mark key="." line="29" column="0" />
@@ -250,11 +292,11 @@
       <jump line="10" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitTrainingClassExperienceRedisAll.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>$point_rule_type</text>
@@ -263,31 +305,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUcmFpbmluZ1Rhc2tFeGFtUmVzdWx0Ojp3aGVyZSgncGVyc29uX2lkJywgJHJzLT5wZXJzb25faWQpLT53aGVyZSgndHJhaW5pbmdfY2xhc3NfaWQnLCAkcnMtPnRyYWluaW5nX2NsYXNzX2lkKS0+ZGVsZXRlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXExvZzo6aW5mbygkY2xhc3NfaWRfYXJyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvd0V4Y2VwdGlvbk1lc3NhZ2UoJ+S7u+WKoeW3suWtmOWcqCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2VTdWNjZXNzKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkc3RhdHVzID09IDEpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZWRpczo6emluY3JieSgkd2Vla19rZXksICRleHBlcmllbmNlX3ZhbHVlLCAkcGVyc29uX2lkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXExvZzo6aW5mbygkY2xhc3NfaWRfYXJyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZWRpczo6emluY3JieSgkZGF5X2tleSwgJGV4cGVyaWVuY2VfdmFsdWUsICRwZXJzb25faWQpOwo=</text>
+        <text encoding="base64">ICAgIFJlCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgLy/lop7liqAg5ZCM5pe25aKe5Yqg5Ymp5L2Z57uP6aqM5YC8IOaAu+e7j+mqjOWAvAogICAgICAgICAgICAgICAgICAgIFRyYWluaW5nQ2xhc3NNZW1iZXI6OndoZXJlKCd0cmFpbmluZ19jbGFzc19pZCcsICR0cmFpbmluZ19jbGFzc19pZCktPndoZXJlKCdwZXJzb25faWQnLCAkcGVyc29uX2lkKS0+aW5jcmVtZW50KCdleHBlcmllbmNlX3RvdGFsJywgJGV4cGVyaWVuY2VfdmFsdWUpOwogICAgICAgICAgICAgICAgICAgIFRyYWluaW5nQ2xhc3NNZW1iZXI6OndoZXJlKCd0cmFpbmluZ19jbGFzc19pZCcsICR0cmFpbmluZ19jbGFzc19pZCktPndoZXJlKCdwZXJzb25faWQnLCAkcGVyc29uX2lkKS0+aW5jcmVtZW50KCdleHBlcmllbmNlX3JlbWFpbmRlcicsICRleHBlcmllbmNlX3ZhbHVlKTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
