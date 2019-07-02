@@ -50,7 +50,7 @@
         <mark key="." line="16" column="66" />
         <mark key="^" line="16" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameDailyTaskController.php" timestamp="1561684251581">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameDailyTaskController.php" timestamp="1562038639267">
         <mark key="'" line="30" column="5" />
         <mark key="[" line="83" column="82" />
         <mark key="]" line="83" column="81" />
@@ -168,7 +168,7 @@
         <mark key="^" line="38" column="14" />
         <mark key="." line="38" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameDailyTaskPerson.php" timestamp="1561684245017">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameDailyTaskPerson.php" timestamp="1562039256360">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="41" />
         <mark key="." line="29" column="0" />
