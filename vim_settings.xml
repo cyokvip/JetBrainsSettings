@@ -137,11 +137,11 @@
         <mark key="^" line="158" column="28" />
         <mark key="." line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/GameLotteryPersonController.php" timestamp="1562289214546">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="58" column="13" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/GameLotteryPersonController.php" timestamp="1562291154312">
+        <mark key="[" line="57" column="47" />
+        <mark key="]" line="58" column="35" />
+        <mark key="." line="58" column="35" />
+        <mark key="^" line="58" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassMemberController.php" timestamp="1562228272218" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameDailyTaskController.php" timestamp="1562049032501">
@@ -158,12 +158,12 @@
         <mark key="^" line="76" column="37" />
         <mark key="." line="76" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLotteryPerson.php" timestamp="1562289184478">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLotteryPerson.php" timestamp="1562290749938">
         <mark key="'" line="113" column="41" />
-        <mark key="[" line="14" column="81" />
-        <mark key="]" line="14" column="78" />
-        <mark key="." line="14" column="78" />
-        <mark key="^" line="14" column="78" />
+        <mark key="[" line="19" column="78" />
+        <mark key="]" line="19" column="83" />
+        <mark key="." line="19" column="83" />
+        <mark key="^" line="19" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLottery.php" timestamp="1562289044951">
         <mark key="[" line="17" column="71" />
@@ -171,7 +171,7 @@
         <mark key="^" line="17" column="72" />
         <mark key="." line="17" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562289218628">
+      <file name="/Dummy.txt" timestamp="1562291202323">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -330,11 +330,11 @@
       <jump line="108" column="41" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLotteryPerson.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8kZ2xfcnMgICAgICA9IEdhbWVMb3R0ZXJ5Ojp3aGVyZSgnaWQnLCRrLT5nYW1lX2xvdHRlcnlfaWQpLT5maXJzdCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>username</text>
       </register>
       <register name="-" type="4">
-        <text>select('username')</text>
+        <text>username</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
