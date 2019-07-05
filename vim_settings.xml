@@ -78,6 +78,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameDailyLoginReward.php" timestamp="1562297382169" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PayController.php" timestamp="1560138073300">
         <mark key="'" line="35" column="29" />
         <mark key="[" line="301" column="0" />
@@ -137,6 +138,12 @@
         <mark key="^" line="158" column="28" />
         <mark key="." line="160" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/GameDailyLoginRewardController.php" timestamp="1562297417210">
+        <mark key="[" line="28" column="43" />
+        <mark key="]" line="28" column="47" />
+        <mark key="^" line="28" column="47" />
+        <mark key="." line="28" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/GameLotteryPersonController.php" timestamp="1562291154312">
         <mark key="[" line="57" column="47" />
         <mark key="]" line="58" column="35" />
@@ -171,7 +178,7 @@
         <mark key="^" line="17" column="72" />
         <mark key="." line="17" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562291202323">
+      <file name="/Dummy.txt" timestamp="1562297491855">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -331,10 +338,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>username</text>
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>username</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
