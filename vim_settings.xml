@@ -86,7 +86,7 @@
         <mark key="." line="301" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Events/ActiveRedMark.php" timestamp="1562147399003" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_07_04_175437_add_game_lottery_id_to_game_lottery_person_table.php" timestamp="1562234602939">
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_07_04_175437_add_game_lottery_id_to_game_lottery_person_table.php" timestamp="1562288890088">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -137,11 +137,11 @@
         <mark key="^" line="158" column="28" />
         <mark key="." line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/GameLotteryPersonController.php" timestamp="1562232187861">
-        <mark key="[" line="58" column="13" />
-        <mark key="]" line="58" column="15" />
-        <mark key="." line="58" column="15" />
-        <mark key="^" line="58" column="15" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/GameLotteryPersonController.php" timestamp="1562289214546">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="58" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassMemberController.php" timestamp="1562228272218" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameDailyTaskController.php" timestamp="1562049032501">
@@ -158,20 +158,20 @@
         <mark key="^" line="76" column="37" />
         <mark key="." line="76" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLotteryPerson.php" timestamp="1562234199367">
-        <mark key="'" line="109" column="41" />
-        <mark key="[" line="85" column="56" />
-        <mark key="]" line="85" column="56" />
-        <mark key="." line="85" column="56" />
-        <mark key="^" line="85" column="56" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLotteryPerson.php" timestamp="1562289184478">
+        <mark key="'" line="113" column="41" />
+        <mark key="[" line="14" column="81" />
+        <mark key="]" line="14" column="78" />
+        <mark key="." line="14" column="78" />
+        <mark key="^" line="14" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLottery.php" timestamp="1562232007861">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLottery.php" timestamp="1562289044951">
         <mark key="[" line="17" column="71" />
         <mark key="]" line="17" column="72" />
         <mark key="^" line="17" column="72" />
         <mark key="." line="17" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562228680760">
+      <file name="/Dummy.txt" timestamp="1562289218628">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -331,10 +331,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRnYW1lX2xvdHRlcnlfcGVyc29uLT5wZXJzb25fZ2FtZV9wcm9wc19pZCA9ICRwcm9wc19pbmZvX2lkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8kZ2xfcnMgICAgICA9IEdhbWVMb3R0ZXJ5Ojp3aGVyZSgnaWQnLCRrLT5nYW1lX2xvdHRlcnlfaWQpLT5maXJzdCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>select('username')</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
@@ -343,28 +343,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRnYW1lX2xvdHRlcnlfcGVyc29uLT5wZXJzb25fZ2FtZV9wcm9wc19pZCA9ICRwcm9wc19pbmZvX2lkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8kZ2xfcnMgICAgICA9IEdhbWVMb3R0ZXJ5Ojp3aGVyZSgnaWQnLCRrLT5nYW1lX2xvdHRlcnlfaWQpLT5maXJzdCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGdsPW5ldyBHYW1lTG90dGVyeSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGdsLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGdsPW5ldyBHYW1lTG90dGVyeSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGdsLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
