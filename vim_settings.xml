@@ -116,12 +116,12 @@
         <mark key="." line="84" column="38" />
         <mark key="^" line="82" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameLotteryController.php" timestamp="1562310262528">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameLotteryController.php" timestamp="1562312053792">
         <mark key="'" line="69" column="10" />
-        <mark key="[" line="55" column="17" />
-        <mark key="]" line="55" column="24" />
-        <mark key="^" line="55" column="24" />
-        <mark key="." line="55" column="24" />
+        <mark key="[" line="59" column="30" />
+        <mark key="]" line="59" column="35" />
+        <mark key="^" line="59" column="35" />
+        <mark key="." line="59" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLotteryPerson.php" timestamp="1562290749938">
         <mark key="'" line="113" column="41" />
@@ -136,7 +136,7 @@
         <mark key="^" line="17" column="72" />
         <mark key="." line="17" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562310290392">
+      <file name="/Dummy.txt" timestamp="1562312056637">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -297,10 +297,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>list</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
@@ -309,7 +309,7 @@
         <text encoding="base64">ICAgICAgICAkcmVzdWx0WydsaXN0J109JHJzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJy9hcHAvZ2FtZV9sb3R0ZXJ5L2xvdHRlcnlfY291bnQnLCdHYW1lTG90dGVyeUNvbnRyb2xsZXJAbG90dGVyeV9jb3VudCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -318,22 +318,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICR0b3RhbDsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IC8v5oq95aWW5Yi45pWw6YePCiAgICBwdWJsaWMgZnVuY3Rpb24gbG90dGVyeV9jb3VudCgpCiAgICB7CiAgICAgICAgJHRyYWluaW5nX2NsYXNzX2lkID0gSW5wdXQ6OmdldCgndHJhaW5pbmdfY2xhc3NfaWQnKTsKICAgICAgICAkdmFsaWRhdG9yICAgICAgICAgPSBWYWxpZGF0b3I6Om1ha2UoSW5wdXQ6OmdldCgpLCBbCiAgICAgICAgICAgICd0cmFpbmluZ19jbGFzc19pZCcgPT4gJ3JlcXVpcmVkfG51bWVyaWMnLAogICAgICAgIF0pOwogICAgICAgIGlmICgkdmFsaWRhdG9yLT5mYWlscygpKSByZXR1cm4gcmVzcG9uc2VWYWxpZGF0b3JNZXNzYWdlKCR2YWxpZGF0b3ItPmdldE1lc3NhZ2VCYWcoKSk7CgogICAgICAgCiAgICAgICAgcmV0dXJuIHJlc3BvbnNlU3VjY2VzcygkcmVzdWx0KTsKICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICfliankvZnvvJonLiRyZW1haW4vKDM2MDAqMjQpLiflpKknOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8kZ2xfcnMgICAgICA9IEdhbWVMb3R0ZXJ5Ojp3aGVyZSgnaWQnLCRrLT5nYW1lX2xvdHRlcnlfaWQpLT5maXJzdCgpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgJG5vdyA9IHN0cnRvdGltZShkYXRlKCdZLW0tZCcpKTsKICAgICAgICAkcmVtYWluID0gJGVuZHREYXRlU3RyLSRub3c7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYXJyWyd0aW1lc3RhbXAnXT0kc2o7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYXJyWydkYXRldGltZSddPSRkYXRldGltZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYXJyPWFycmF5KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
