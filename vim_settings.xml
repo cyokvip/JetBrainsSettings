@@ -116,12 +116,12 @@
         <mark key="." line="84" column="38" />
         <mark key="^" line="82" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameLotteryController.php" timestamp="1562312053792">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameLotteryController.php" timestamp="1562547483734">
         <mark key="'" line="69" column="10" />
-        <mark key="[" line="59" column="30" />
-        <mark key="]" line="59" column="35" />
-        <mark key="^" line="59" column="35" />
-        <mark key="." line="59" column="35" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="50" column="7" />
+        <mark key="^" line="50" column="7" />
+        <mark key="." line="50" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLotteryPerson.php" timestamp="1562290749938">
         <mark key="'" line="113" column="41" />
@@ -136,7 +136,7 @@
         <mark key="^" line="17" column="72" />
         <mark key="." line="17" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562312056637">
+      <file name="/Dummy.txt" timestamp="1562547487654">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -297,10 +297,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
