@@ -89,12 +89,12 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" timestamp="1562575096231">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" timestamp="1562578439044">
         <mark key="'" line="304" column="51" />
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="29" />
-        <mark key="^" line="158" column="28" />
-        <mark key="." line="160" column="0" />
+        <mark key="[" line="679" column="25" />
+        <mark key="]" line="679" column="24" />
+        <mark key="^" line="679" column="24" />
+        <mark key="." line="679" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/GameDailyLoginRewardController.php" timestamp="1562301842041">
         <mark key="[" line="28" column="43" />
@@ -136,7 +136,7 @@
         <mark key="^" line="17" column="72" />
         <mark key="." line="17" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562547487654">
+      <file name="/Dummy.txt" timestamp="1562578442062">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -296,8 +296,8 @@
       <jump line="108" column="41" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLotteryPerson.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRtZXRob2Q9MDsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -306,7 +306,7 @@
         <text>person</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0WydsaXN0J109JHJzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRtZXRob2Q9MDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
