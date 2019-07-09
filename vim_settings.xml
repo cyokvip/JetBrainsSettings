@@ -129,12 +129,12 @@
         <mark key="." line="84" column="38" />
         <mark key="^" line="82" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameLotteryController.php" timestamp="1562652878919">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameLotteryController.php" timestamp="1562657125793">
         <mark key="'" line="70" column="10" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="88" column="34" />
+        <mark key="[" line="89" column="57" />
+        <mark key="]" line="89" column="28" />
+        <mark key="." line="89" column="28" />
+        <mark key="^" line="89" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLotteryPerson.php" timestamp="1562654920655">
         <mark key="'" line="113" column="41" />
@@ -149,7 +149,7 @@
         <mark key="^" line="17" column="72" />
         <mark key="." line="17" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562653998274">
+      <file name="/Dummy.txt" timestamp="1562657134976">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -310,41 +310,41 @@
       <jump line="108" column="41" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLotteryPerson.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJyWydnYW1lX2xvdHRlcnlfaWQnXT0xNjsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0WydmbGFnJ109JGZsYWc7Cg==</text>
+        <text encoding="base64">ICAgICAgIC8vICRnYW1lX2xvdHRlcnlfaWQgPSAkdXNlX3Jlc3VsdFsnZ2FtZV9sb3R0ZXJ5X2lkJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJyWydnYW1lX2xvdHRlcnlfaWQnXT0xNjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFyCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkYXJyWydnYW1lX2xvdHRlcnlfaW5mbyddPUdhbWUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkYXJyWydnYW1lX2xvdHRlcnlfaWQnXT0xNjsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwb3J0KCRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFyCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
