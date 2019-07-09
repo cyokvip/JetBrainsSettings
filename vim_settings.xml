@@ -129,18 +129,19 @@
         <mark key="." line="84" column="38" />
         <mark key="^" line="82" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameLotteryController.php" timestamp="1562640587901">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameLotteryController.php" timestamp="1562651440977">
         <mark key="'" line="70" column="10" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="37" column="163" />
+        <mark key="[" line="86" column="31" />
+        <mark key="]" line="86" column="34" />
+        <mark key="." line="86" column="34" />
+        <mark key="^" line="86" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLotteryPerson.php" timestamp="1562647032154">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLotteryPerson.php" timestamp="1562651429813">
         <mark key="'" line="113" column="41" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+        <mark key="[" line="108" column="8" />
+        <mark key="]" line="108" column="13" />
+        <mark key="." line="108" column="13" />
+        <mark key="^" line="108" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLottery.php" timestamp="1562289044951">
         <mark key="[" line="17" column="71" />
@@ -148,7 +149,7 @@
         <mark key="^" line="17" column="72" />
         <mark key="." line="17" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562647048303">
+      <file name="/Dummy.txt" timestamp="1562651498973">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -310,43 +311,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwb3J0KCRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIGxlYXJuX2NvaW4gIOWtpuW4gQo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0WydmbGFnJ109JGZsYWc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwb3J0KCRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFyCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGxvdHRlcnlfZnJlZV9sYXN0X2RhdGV0aW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGxvdHRlcnlfZnJlZV9sYXN0X2RhdGV0aW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZsYWcgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVwb3J0KCRlKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRrLT5kZWdzX2xpc3Q9ZXhwbG9kZSgnLCcsJGstPmRlZ3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGxvdHRlcnlfZnJlZV9sYXN0X2RhdGV0aW1lKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGxvdHRlcnlfZnJlZV9sYXN0X2RhdGV0aW1lKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZsYWcgPSAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
