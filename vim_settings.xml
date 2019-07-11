@@ -109,7 +109,7 @@
         <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/NewMessageMarkListener.php" timestamp="1562147490062" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatListener.php" timestamp="1562811735666" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatListener.php" timestamp="1562815200449" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Providers/EventServiceProvider.php" timestamp="1562207696772">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -192,8 +192,8 @@
         <mark key="." line="308" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1562207855715" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/Chat.php" timestamp="1562205287065">
-        <mark key="'" line="26" column="27" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/Chat.php" timestamp="1562815250761">
+        <mark key="'" line="113" column="0" />
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
@@ -233,7 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="484" column="16" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" />
       <jump line="141" column="30" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
       <jump line="109" column="81" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatListener.php" />
       <jump line="50" column="16" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" />
@@ -333,6 +332,7 @@
       <jump line="101" column="47" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" />
       <jump line="34" column="18" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" />
       <jump line="48" column="30" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitTrainingClassChatGroup.php" />
+      <jump line="113" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Chat.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
