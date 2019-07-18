@@ -25,7 +25,7 @@
         <mark key="^" line="14" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_07_17_162538_del_training_map_id_to_game_daily_task_table.php" timestamp="1563417663476" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonGameProps.php" timestamp="1563422530303">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonGameProps.php" timestamp="1563440233421">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="^" line="80" column="11" />
@@ -128,8 +128,7 @@
         <mark key="^" line="124" column="18" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameEcologyController.php" timestamp="1563419857874" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameDailyTaskPerson.php" timestamp="1563435425650">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameDailyTaskPerson.php" timestamp="1563440354892">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
