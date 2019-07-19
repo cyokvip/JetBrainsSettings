@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" timestamp="1563422281945">
-        <mark key="'" line="407" column="208" />
-        <mark key="[" line="411" column="0" />
-        <mark key="]" line="411" column="0" />
-        <mark key="." line="411" column="0" />
-        <mark key="^" line="403" column="21" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" timestamp="1563527998979">
+        <mark key="'" line="188" column="122" />
+        <mark key="[" line="26" column="42" />
+        <mark key="]" line="26" column="41" />
+        <mark key="." line="26" column="41" />
+        <mark key="^" line="26" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" timestamp="1563435862518">
         <mark key="'" line="580" column="22" />
@@ -147,8 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="27" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" />
-      <jump line="151" column="13" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" />
       <jump line="60" column="27" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" />
       <jump line="61" column="13" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" />
       <jump line="189" column="41" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" />
@@ -247,46 +245,48 @@
       <jump line="407" column="208" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
       <jump line="115" column="0" filename="$USER_HOME$/Documents/dev/www/talentplus_api/app/Http/Controllers/Api/Front/RecruitmentController.php" />
       <jump line="578" column="22" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" />
+      <jump line="186" column="114" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
+      <jump line="187" column="122" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICBhcnJheSgnaWQnID0+IDEwMCwgJ25hbWUnID0+ICfmuLjmiI/ojrflj5YnKSwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>分</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGdhbWVfbG90dGVyeV9wZXJzb25fc3RhdHVzPTA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcnJheSgnaWQnID0+IDEwMCwgJ25hbWUnID0+ICfmuLjmiI/ojrflj5YnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGdhbWVfZGFpbHlfbG9naW5fcmV3YXJkX3BlcnNvbl9zdGF0dXM9MTsK</text>
+        <text encoding="base64">ICAgICAgICA5MOmHh+efv+acuuWlluWKsSwxMDDmuLjmiI/np6/liIYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZXsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZXhpdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGdhbWVfZGFpbHlfbG9naW5fcmV3YXJkX3BlcnNvbl9zdGF0dXM9MDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkZ2FtZV9kYWlseV9sb2dpbl9yZXdhcmRfcGVyc29uX3N0YXR1cz09MSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGdhbWVfZGFpbHlfbG9naW5fcmV3YXJkX3BlcnNvbl9zdGF0dXM9MTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9ZWxzZXsK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
