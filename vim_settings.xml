@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" timestamp="1563527998979">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" timestamp="1563530254135">
         <mark key="'" line="188" column="122" />
-        <mark key="[" line="26" column="42" />
-        <mark key="]" line="26" column="41" />
-        <mark key="." line="26" column="41" />
-        <mark key="^" line="26" column="41" />
+        <mark key="[" line="25" column="41" />
+        <mark key="]" line="25" column="41" />
+        <mark key="." line="25" column="41" />
+        <mark key="^" line="25" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" timestamp="1563435862518">
         <mark key="'" line="580" column="22" />
@@ -111,7 +111,7 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563435879312">
+      <file name="/Dummy.txt" timestamp="1563529528898">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -126,6 +126,9 @@
         <mark key="]" line="16" column="35" />
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1563529505217">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameDailyLoginRewardController.php" timestamp="1563435463100">
         <mark key="'" line="110" column="58" />
@@ -147,8 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="27" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" />
-      <jump line="61" column="13" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" />
       <jump line="189" column="41" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" />
       <jump line="209" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" />
       <jump line="59" column="41" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" />
@@ -247,13 +248,15 @@
       <jump line="578" column="22" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" />
       <jump line="186" column="114" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
       <jump line="187" column="122" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
+      <jump line="342" column="20" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJheSgnaWQnID0+IDEwMCwgJ25hbWUnID0+ICfmuLjmiI/ojrflj5YnKSwK</text>
+      <register name="&quot;" type="4">
+        <text>取</text>
       </register>
       <register name="-" type="4">
-        <text>分</text>
+        <text>取</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
