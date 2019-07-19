@@ -42,6 +42,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassMemberController.php" timestamp="1563501301820">
+        <mark key="'" line="81" column="12" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/talentplus_api/app/Http/Controllers/Api/Front/RecruitmentController.php" timestamp="1563428921849">
         <mark key="'" line="116" column="0" />
         <mark key="[" line="81" column="85" />
@@ -244,7 +250,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZXhpdDsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -256,31 +262,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJGdhbWVfbG90dGVyeV9wZXJzb25fc3RhdHVzPTA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZXhpdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGdhbWVfZGFpbHlfbG9naW5fcmV3YXJkX3BlcnNvbl9zdGF0dXM9MTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGdhbWVfZGFpbHlfbG9naW5fcmV3YXJkX3BlcnNvbl9zdGF0dXM9MTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGdhbWVfZGFpbHlfbG9naW5fcmV3YXJkX3BlcnNvbl9zdGF0dXM9MDsK</text>
+        <text encoding="base64">ICAgICAgICB9ZWxzZXsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkZ2FtZV9kYWlseV9sb2dpbl9yZXdhcmRfcGVyc29uX3N0YXR1cz09MSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGdhbWVfZGFpbHlfbG9naW5fcmV3YXJkX3BlcnNvbl9zdGF0dXM9MDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZigkZ2FtZV9kYWlseV9sb2dpbl9yZXdhcmRfcGVyc29uX3N0YXR1cz09MSl7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
