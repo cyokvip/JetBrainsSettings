@@ -10,12 +10,12 @@
         <mark key="." line="25" column="41" />
         <mark key="^" line="25" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" timestamp="1563435862518">
-        <mark key="'" line="580" column="22" />
-        <mark key="[" line="951" column="0" />
-        <mark key="]" line="951" column="0" />
-        <mark key="." line="951" column="0" />
-        <mark key="^" line="950" column="41" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" timestamp="1563767196778">
+        <mark key="'" line="572" column="22" />
+        <mark key="[" line="943" column="0" />
+        <mark key="]" line="943" column="0" />
+        <mark key="." line="943" column="0" />
+        <mark key="^" line="942" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameMinerController.php" timestamp="1563421089841" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameProps.php" timestamp="1563422502543">
@@ -50,11 +50,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassMemberController.php" timestamp="1563501301820">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassMemberController.php" timestamp="1563767247181">
         <mark key="'" line="81" column="12" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+        <mark key="[" line="94" column="33" />
+        <mark key="]" line="94" column="33" />
+        <mark key="." line="94" column="33" />
+        <mark key="^" line="94" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/talentplus_api/app/Http/Controllers/Api/Front/RecruitmentController.php" timestamp="1563428921849">
         <mark key="'" line="116" column="0" />
@@ -133,7 +134,7 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563763266123">
+      <file name="/Dummy.txt" timestamp="1563767307214">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -149,8 +150,8 @@
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1563764548866">
-        <mark key="'" line="247" column="36" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1563767209570">
+        <mark key="'" line="256" column="49" />
         <mark key="[" line="263" column="22" />
         <mark key="]" line="263" column="22" />
         <mark key="^" line="263" column="22" />
@@ -184,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="5" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
       <jump line="425" column="18" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
       <jump line="14" column="59" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-06-05.log" />
       <jump line="35" column="29" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PayController.php" />
@@ -284,13 +284,14 @@
       <jump line="34" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Chat.php" />
       <jump line="72" column="13" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AuthController.php" />
       <jump line="246" column="36" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
+      <jump line="256" column="49" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFxMb2c6OmluZm8oJHJlc3VsdCkgOwo=</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
