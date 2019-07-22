@@ -18,6 +18,12 @@
         <mark key="^" line="942" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameMinerController.php" timestamp="1563421089841" />
+      <file name="$USER_HOME$/Documents/dev/www/talentplus_api/app/Http/Controllers/Api/Manage/TeacherController.php" timestamp="1563788862538">
+        <mark key="[" line="206" column="12" />
+        <mark key="]" line="206" column="15" />
+        <mark key="." line="206" column="15" />
+        <mark key="^" line="206" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" timestamp="1562310132351">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="376" column="0" />
@@ -176,7 +182,7 @@
         <mark key="." line="61" column="46" />
         <mark key="^" line="61" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563780623046">
+      <file name="/Dummy.txt" timestamp="1563788867380">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -330,16 +336,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHB1YmxpYyBmdW5jdGlvbiB1c2VyX3N0YXR1c19hbGwoJHVzZXJuYW1lX2Fycil7CiAgICAgICAgJHVzZXIgICA9IG5ldyBVc2VyKCR0aGlzLT5jbGllbnQpOwogICAgICAgICRyZXN1bHQgPSAkdXNlci0+c3RhdF9hbGwoJHVzZXJuYW1lX2Fycik7CiAgICAgICAgZGQoJHJlc3VsdCk7CgogICAgfQo=</text>
+        <text>TeacherCasesRelationship</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGstPnBlcnNvbl9pZA==</text>
+        <text>TeacherCasesRelationship</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8kY2hhdF9wZXJzb25faWRfYXJyWyRrLT5wZXJzb25faWRdID0gJG1faW5mb1snY2hhdF91c2VybmFtZSddOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGVhY2hlckNhc2VzUmVsYXRpb25zaGlwOjp3aGVyZSgndGVhY2hlcl9pZCcsICRpZCktPmRlbGV0ZSgpOwo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IHB1YmxpYyBmdW5jdGlvbiB1c2VyX3N0YXR1c19hbGwoJHVzZXJuYW1lX2Fycil7CiAgICAgICAgJHVzZXIgICA9IG5ldyBVc2VyKCR0aGlzLT5jbGllbnQpOwogICAgICAgICRyZXN1bHQgPSAkdXNlci0+c3RhdF9hbGwoJHVzZXJuYW1lX2Fycik7CiAgICAgICAgZGQoJHJlc3VsdCk7CgogICAgfQo=</text>
