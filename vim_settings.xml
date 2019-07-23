@@ -108,14 +108,13 @@
         <mark key="." line="62" column="54" />
         <mark key="^" line="62" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitTrainingClassChatGroup.php" timestamp="1563872702538">
-        <mark key="'" line="59" column="30" />
-        <mark key="[" line="45" column="22" />
-        <mark key="]" line="45" column="24" />
-        <mark key="." line="45" column="24" />
-        <mark key="^" line="45" column="24" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitTrainingClassChatGroup.php" timestamp="1563873572836">
+        <mark key="'" line="56" column="30" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatListener.php" timestamp="1563872719411">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatListener.php" timestamp="1563873564635">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
@@ -339,43 +338,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFyclsnZ2FtZV9wcm9wcyddICAgICAgPSAkZ2FtZV9wcm9wczsK</text>
+        <text encoding="base64">ICAgICAgICAvLyRycyA9IFBlcnNvbjo6YWxsKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICRwLT5pZDsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH1lbHNlewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkcmVzdWx0KTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRwKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBldmVudChuZXcgQ2hhdChbCiAgICAgICAgICAgICAgICAnbWV0aG9kJyA9PiAncmVnaXN0ZXJfdXNlcicsCiAgICAgICAgICAgICAgICAncGVyc29uX2lkJyA9PiAkay0+aWQsCiAgICAgICAgICAgIF0pKTs=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkcnMgPSBQZXJzb246OndoZXJlKCdpZCcsOTAxKS0+Z2V0KCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkcmVzdWx0KTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRwLT5waG90byk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICRwLT5pZDsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGxpc3RbJGstPnBlcnNvbl9pZF0gPSAkazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH1lbHNlewo=</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
