@@ -150,6 +150,13 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassExperienceRuleController.php" timestamp="1564018526373">
+        <mark key="'" line="49" column="15" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="57" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="53" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" timestamp="1563935840440">
         <mark key="'" line="34" column="18" />
         <mark key="[" line="122" column="78" />
@@ -213,7 +220,7 @@
         <mark key="." line="61" column="46" />
         <mark key="^" line="61" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563950977718">
+      <file name="/Dummy.txt" timestamp="1564018538782">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -284,7 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="340" column="63" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-06-18.log" />
       <jump line="30" column="28" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-06-18.log" />
       <jump line="4047" column="0" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-06-18.log" />
       <jump line="4470" column="40" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-06-18.log" />
@@ -384,61 +390,61 @@
       <jump line="139" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLotteryPerson.php" />
       <jump line="117" column="29" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameLotteryController.php" />
       <jump line="27" column="5" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/GameDailyTask.php" />
+      <jump line="46" column="15" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassExperienceRuleController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZihlbXB0eSgkZXhwZXJpZW5jZV92YWx1ZSkpICRleHBlcmllbmNlX3ZhbHVlPTA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>method</text>
+        <text>experience_value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdHlwZT0xOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZihlbXB0eSgkZXhwZXJpZW5jZV92YWx1ZSkpICRleHBlcmllbmNlX3ZhbHVlPTA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">5q+P5pel5Lu75Yqh5aWW5YqxCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">5q+P5pel5Lu75Yqh5aWW5YqxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAkY29tcGFueV9pZCA9ICRrLT5jb21wYW55X2lkOwogICAgICAgICAgICAgICAgJGNvbXBhbnlfcGVyc29uX2luZm8gPSBDb21wYW55UGVyc29uOjp3aGVyZSgnY29tcGFueV9pZCcsICRjb21wYW55X2lkKS0+d2hlcmUoJ3BlcnNvbl9pZCcsICRrLT5pZCktPmZpcnN0KCk7CiAgICAgICAgICAgICAgICBpZiAoIWVtcHR5KCRjb21wYW55X3BlcnNvbl9pbmZvLT5yZWFsbmFtZSkpIHsKICAgICAgICAgICAgICAgICAgICAkay0+dXNlcm5hbWUgPSAkY29tcGFueV9wZXJzb25faW5mby0+cmVhbG5hbWU7CiAgICAgICAgICAgICAgICB9</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vJGstPmdhbWVfcHJvcHMgICAgICAgICAgICAgICAgID0gJGstPmdhbWVfcHJvcHM7Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAkY29tcGFueV9pZCA9ICRrLT5jb21wYW55X2lkOwogICAgICAgICAgICAgICAgJGNvbXBhbnlfcGVyc29uX2luZm8gPSBDb21wYW55UGVyc29uOjp3aGVyZSgnY29tcGFueV9pZCcsICRjb21wYW55X2lkKS0+d2hlcmUoJ3BlcnNvbl9pZCcsICRrLT5pZCktPmZpcnN0KCk7CiAgICAgICAgICAgICAgICBpZiAoIWVtcHR5KCRjb21wYW55X3BlcnNvbl9pbmZvLT5yZWFsbmFtZSkpIHsKICAgICAgICAgICAgICAgICAgICAkay0+dXNlcm5hbWUgPSAkY29tcGFueV9wZXJzb25faW5mby0+cmVhbG5hbWU7CiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vJGstPmdhbWVfcHJvcHMgICAgICAgICAgICAgICAgID0gJGstPmdhbWVfcHJvcHM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
       </register>
     </registers>
     <search>
-      <last-search>method</last-search>
+      <last-search>experience_value</last-search>
       <last-offset />
-      <last-pattern>method</last-pattern>
+      <last-pattern>experience_value</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>stage</entry>
         <entry>红点</entry>
         <entry>assess_training_member_attend</entry>
         <entry>dispatch_mode</entry>
@@ -458,6 +464,7 @@
         <entry>person</entry>
         <entry>n my</entry>
         <entry>method</entry>
+        <entry>experience_value</entry>
       </history-search>
       <history-cmd>
         <entry>dox</entry>
