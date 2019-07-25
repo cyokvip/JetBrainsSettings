@@ -36,6 +36,13 @@
         <mark key="." line="206" column="15" />
         <mark key="^" line="206" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" timestamp="1562310132351">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="376" column="0" />
+        <mark key="]" line="376" column="0" />
+        <mark key="." line="376" column="0" />
+        <mark key="^" line="386" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameProps.php" timestamp="1563422502543">
         <mark key="[" line="14" column="35" />
         <mark key="]" line="14" column="34" />
@@ -48,6 +55,13 @@
         <mark key="." line="16" column="83" />
         <mark key="^" line="16" column="83" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitTrainingClassExperienceRedisAll.php" timestamp="1562030685086">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="8" column="36" />
+        <mark key="^" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonGameProps.php" timestamp="1563867344428">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
@@ -59,6 +73,12 @@
         <mark key="]" line="31" column="19" />
         <mark key="^" line="31" column="19" />
         <mark key="." line="31" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperienceRule.php" timestamp="1564020249539">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+        <mark key="^" line="16" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassMember.php" timestamp="1563948027013">
         <mark key="[" line="76" column="67" />
@@ -208,6 +228,13 @@
         <mark key="." line="16" column="32" />
         <mark key="^" line="16" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassExperienceController.php" timestamp="1564020335037">
+        <mark key="'" line="146" column="134" />
+        <mark key="[" line="165" column="24" />
+        <mark key="]" line="165" column="25" />
+        <mark key="." line="165" column="25" />
+        <mark key="^" line="165" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameLottery.php" timestamp="1562289044951">
         <mark key="[" line="17" column="71" />
         <mark key="]" line="17" column="72" />
@@ -291,8 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="28" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-06-18.log" />
-      <jump line="4047" column="0" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-06-18.log" />
       <jump line="4470" column="40" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-06-18.log" />
       <jump line="4900" column="33" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-06-18.log" />
       <jump line="5085" column="29" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-06-18.log" />
@@ -391,13 +416,15 @@
       <jump line="117" column="29" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameLotteryController.php" />
       <jump line="27" column="5" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/GameDailyTask.php" />
       <jump line="46" column="15" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/TrainingClassExperienceRuleController.php" />
+      <jump line="130" column="23" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassExperienceController.php" />
+      <jump line="146" column="134" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassExperienceController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZihlbXB0eSgkZXhwZXJpZW5jZV92YWx1ZSkpICRleHBlcmllbmNlX3ZhbHVlPTA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>值</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>值</text>
       </register>
       <register name="/" type="4">
         <text>experience_value</text>
