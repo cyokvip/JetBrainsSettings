@@ -16,12 +16,12 @@
         <mark key="." line="16" column="36" />
         <mark key="^" line="16" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" timestamp="1563939594135">
-        <mark key="'" line="572" column="22" />
-        <mark key="[" line="943" column="0" />
-        <mark key="]" line="943" column="0" />
-        <mark key="." line="943" column="0" />
-        <mark key="^" line="942" column="41" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" timestamp="1564120461424">
+        <mark key="'" line="574" column="22" />
+        <mark key="[" line="569" column="62" />
+        <mark key="]" line="569" column="66" />
+        <mark key="^" line="569" column="66" />
+        <mark key="." line="569" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameMinerController.php" timestamp="1563421089841" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameDailyTask.php" timestamp="1563946302760">
@@ -261,7 +261,7 @@
         <mark key="." line="61" column="46" />
         <mark key="^" line="61" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564106287291">
+      <file name="/Dummy.txt" timestamp="1564120449104">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -433,28 +433,34 @@
       <jump line="6" column="58" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-07-26.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhpdDsK</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>experience_value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXExvZzo6aW5mbygnYWFhYWEnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdFsnbXNnX3BpYyddICAgPSAkbWFwX2luZm9bJ21zZ19waWMnXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhpdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXExvZzo6aW5mbygnYWFhYWEnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhpdDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXExvZzo6aW5mbygnYWFhYWEnKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXExvZzo6aW5mbygnYmJiYicpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>m_company_person` where `company_id` = 20 and `person_id` = 1090 limit 1
 [2019-07-26 09:50:38]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1091 limit 1
 [2019-07-26 09:50:38]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1092 limit 1
@@ -523,20 +529,14 @@
 [2019-07-26 09:50:47]: select * from `odm_company_course` where `odm_company_course`.`id` = 38 and `odm_company_course`.`id` is not null limit 1
 [2019-07-26 09:50:47]: select sum(`play_long`) as aggregate from `odm_person_course_playlog` where `course_id` = 38 and `type` = 2 and `person_id` is null</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFxMbwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRrLT5jb21wYW55Y291cnNlLT5yYXRlID0gMTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRrLT5jb21wYW55Y291cnNlLT5yYXRlPTI7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkay0+Y291cnNlLT5yYXRlID0gMTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRycy0+ZXhwZXJpZW5jZV90b3RhbCA9ICRycy0+ZXhwZXJpZW5jZV90b3RhbCAtICRvZmZsaW5lX2V4cDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRrLT5jb21wYW55Y291cnNlLT5yYXRlPTI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
