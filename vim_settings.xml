@@ -164,6 +164,11 @@
         <mark key="." line="16" column="80" />
         <mark key="^" line="16" column="80" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyAppModuleHome.php" timestamp="1564106078425">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/GameLotteryController.php" timestamp="1563862960950">
         <mark key="[" line="62" column="47" />
         <mark key="]" line="62" column="54" />
@@ -201,6 +206,13 @@
         <mark key="]" line="38" column="27" />
         <mark key="." line="38" column="27" />
         <mark key="^" line="46" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-07-26.log" timestamp="1564106031786">
+        <mark key="'" line="6" column="58" />
+        <mark key="[" line="837" column="40" />
+        <mark key="]" line="831" column="96" />
+        <mark key="." line="831" column="96" />
+        <mark key="^" line="831" column="96" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/talentplus_api/routes/api/front.php" timestamp="1563428946309">
         <mark key="[" line="5" column="99" />
@@ -249,7 +261,7 @@
         <mark key="." line="61" column="46" />
         <mark key="^" line="61" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564053439334">
+      <file name="/Dummy.txt" timestamp="1564106287291">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -271,7 +283,7 @@
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1563767209570">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1564105913423">
         <mark key="'" line="256" column="49" />
         <mark key="[" line="263" column="22" />
         <mark key="]" line="263" column="22" />
@@ -319,7 +331,6 @@
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" timestamp="1563777485985" />
     </filemarks>
     <jumps>
-      <jump line="5085" column="29" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-06-18.log" />
       <jump line="9" column="43" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-06-18.log" />
       <jump line="52" column="40" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-06-18.log" />
       <jump line="3" column="19" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-06-18.log" />
@@ -419,49 +430,116 @@
       <jump line="146" column="134" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassExperienceController.php" />
       <jump line="135" column="75" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassMember.php" />
       <jump line="145" column="40" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassMemberController.php" />
+      <jump line="6" column="58" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-07-26.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRycy0+ZXhwZXJpZW5jZV90b3RhbCA9ICRycy0+ZXhwZXJpZW5jZV90b3RhbCAtICRvZmZsaW5lX2V4cDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhpdDsK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>experience_value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHYW1lRGFpbHlMb2dpblJld2FyZFBlcnNvbjo6d2hlcmUoJ3BlcnNvbl9pZCcsJHJzLT5wZXJzb25faWQpLT53aGVyZSgndHJhaW5pbmdfY2xhc3NfaWQnLCAkcnMtPnRyYWluaW5nX2NsYXNzX2lkKS0+ZGVsZXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXExvZzo6aW5mbygnYWFhYWEnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRycy0+ZXhwZXJpZW5jZV90b3RhbCA9ICRycy0+ZXhwZXJpZW5jZV90b3RhbCAtICRvZmZsaW5lX2V4cDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhpdDsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgLy/liKDpmaTogYrlpKnnvqTnu4TnmoRpZAogICAgICAgIGV2ZW50KG5ldyBDaGF0KFsKICAgICAgICAgICAgJ21ldGhvZCcgPT4gJ3JlbW92ZV9tZW1iZXJzX2dyb3VwJywKICAgICAgICAgICAgJ3BlcnNvbl9pZCcgPT4gMTE3NSwKICAgICAgICAgICAgJ2NoYXRfZ3JvdXBfaWQnID0+IDQ3MiwKICAgICAgICBdKSk7CgogICAgICAgIGV4aXQ7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXExvZzo6aW5mbygnYWFhYWEnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAucjkwMTEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXExvZzo6aW5mbygnYmJiYicpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="4" type="4">
+        <text>m_company_person` where `company_id` = 20 and `person_id` = 1090 limit 1
+[2019-07-26 09:50:38]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1091 limit 1
+[2019-07-26 09:50:38]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1092 limit 1
+[2019-07-26 09:50:38]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1093 limit 1
+[2019-07-26 09:50:39]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1094 limit 1
+[2019-07-26 09:50:39]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1095 limit 1
+[2019-07-26 09:50:39]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1096 limit 1
+[2019-07-26 09:50:39]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1097 limit 1
+[2019-07-26 09:50:39]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1098 limit 1
+[2019-07-26 09:50:39]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1099 limit 1
+[2019-07-26 09:50:40]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1100 limit 1
+[2019-07-26 09:50:40]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1101 limit 1
+[2019-07-26 09:50:40]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1102 limit 1
+[2019-07-26 09:50:40]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1103 limit 1
+[2019-07-26 09:50:40]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1104 limit 1
+[2019-07-26 09:50:40]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1105 limit 1
+[2019-07-26 09:50:40]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1106 limit 1
+[2019-07-26 09:50:40]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1107 limit 1
+[2019-07-26 09:50:41]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1108 limit 1
+[2019-07-26 09:50:41]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1109 limit 1
+[2019-07-26 09:50:41]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1110 limit 1
+[2019-07-26 09:50:41]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1111 limit 1
+[2019-07-26 09:50:41]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1112 limit 1
+[2019-07-26 09:50:41]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1113 limit 1
+[2019-07-26 09:50:41]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1114 limit 1
+[2019-07-26 09:50:41]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1115 limit 1
+[2019-07-26 09:50:42]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1116 limit 1
+[2019-07-26 09:50:42]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1117 limit 1
+[2019-07-26 09:50:42]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1118 limit 1
+[2019-07-26 09:50:42]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1119 limit 1
+[2019-07-26 09:50:42]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1120 limit 1
+[2019-07-26 09:50:42]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1121 limit 1
+[2019-07-26 09:50:42]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1122 limit 1
+[2019-07-26 09:50:42]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1123 limit 1
+[2019-07-26 09:50:43]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1124 limit 1
+[2019-07-26 09:50:43]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1125 limit 1
+[2019-07-26 09:50:43]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1126 limit 1
+[2019-07-26 09:50:43]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1127 limit 1
+[2019-07-26 09:50:43]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1128 limit 1
+[2019-07-26 09:50:43]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1129 limit 1
+[2019-07-26 09:50:43]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1130 limit 1
+[2019-07-26 09:50:43]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1131 limit 1
+[2019-07-26 09:50:44]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1132 limit 1
+[2019-07-26 09:50:44]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1133 limit 1
+[2019-07-26 09:50:44]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1134 limit 1
+[2019-07-26 09:50:44]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1135 limit 1
+[2019-07-26 09:50:44]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1136 limit 1
+[2019-07-26 09:50:44]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1137 limit 1
+[2019-07-26 09:50:44]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1138 limit 1
+[2019-07-26 09:50:45]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1139 limit 1
+[2019-07-26 09:50:45]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1140 limit 1
+[2019-07-26 09:50:45]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1141 limit 1
+[2019-07-26 09:50:45]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1142 limit 1
+[2019-07-26 09:50:45]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1175 limit 1
+[2019-07-26 09:50:45]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 1177 limit 1
+[2019-07-26 09:50:45]: select * from `odm_training_class` where `odm_training_class`.`id` = 68 limit 1
+[2019-07-26 09:50:46]: select * from `odm_person` where `odm_person`.`id` = 22 limit 1
+[2019-07-26 09:50:46]: select * from `odm_company_person` where `company_id` = 20 and `person_id` = 22 limit 1
+[2019-07-26 09:50:46]: select `map_num` from `odm_training` where `id` = 171 limit 1
+[2019-07-26 09:50:46]: select `type` from `odm_training_map` where `id` = 1 limit 1
+[2019-07-26 09:50:46]: select * from `odm_person_course_get` where (`get_type` = 4 or `get_type` = 5) and `person_id` = 22 order by `id` desc limit 5
+[2019-07-26 09:50:46]: select * from `odm_company_course` where `odm_company_course`.`id` = 26 and `odm_company_course`.`id` is not null limit 1
+[2019-07-26 09:50:47]: select sum(`play_long`) as aggregate from `odm_person_course_playlog` where `course_id` = 26 and `type` = 2 and `person_id` is null
+[2019-07-26 09:50:47]: select * from `odm_company_course` where `odm_company_course`.`id` = 31 and `odm_company_course`.`id` is not null limit 1
+[2019-07-26 09:50:47]: select sum(`play_long`) as aggregate from `odm_peson_course_playlog` where `course_id` = 31 and `type` = 2 and `person_id` is null
+[2019-07-26 09:50:47]: select * from `odm_company_course` where `odm_company_course`.`id` = 38 and `odm_company_course`.`id` is not null limit 1
+[2019-07-26 09:50:47]: select sum(`play_long`) as aggregate from `odm_person_course_playlog` where `course_id` = 38 and `type` = 2 and `person_id` is null</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fHx8fHx8fCAucjkwMTAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFxMbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCAubWluZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRrLT5jb21wYW55Y291cnNlLT5yYXRlID0gMTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRrLT5jb21wYW55Y291cnNlLT5yYXRlPTI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkay0+Y291cnNlLT5yYXRlID0gMTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">5q+P5pel5Lu75Yqh5aWW5YqxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRycy0+ZXhwZXJpZW5jZV90b3RhbCA9ICRycy0+ZXhwZXJpZW5jZV90b3RhbCAtICRvZmZsaW5lX2V4cDsK</text>
       </register>
       <register name=":" type="4">
-        <text>95</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
@@ -508,8 +586,8 @@
         <entry>vsp</entry>
         <entry>SP</entry>
         <entry>195</entry>
-        <entry>sp</entry>
         <entry>95</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
