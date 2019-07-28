@@ -73,7 +73,6 @@
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/jxc/system/core/Common.php" timestamp="1564273076338" />
       <file name="$USER_HOME$/Documents/dev/www/platform/storage/logs/laravel-2019-05-23.log" timestamp="1558595753654">
         <mark key="[" line="24" column="36" />
         <mark key="]" line="24" column="36" />
@@ -140,12 +139,6 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/jxc/data/config/mysql_config.php" timestamp="1564273038242">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-        <mark key="^" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" timestamp="1559009351408">
         <mark key="'" line="24" column="24" />
@@ -258,11 +251,11 @@
       <jump line="109" column="81" filename="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatListener.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Mysqladmin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICdzdWNjZXNzJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>Mysqladmin</text>
+        <text>删除数据库日志</text>
       </register>
       <register name="/" type="4">
         <text>sdk_group_id</text>
