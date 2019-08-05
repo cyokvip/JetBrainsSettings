@@ -10,12 +10,28 @@
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameLotteryController.php" timestamp="1564984200675">
         <mark key="'" line="63" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_08_05_145138_add_training_class_id_to_person_game_props_table.php" timestamp="1564988092750">
+        <mark key="[" line="16" column="74" />
+        <mark key="]" line="16" column="75" />
+        <mark key="." line="16" column="75" />
+        <mark key="^" line="16" column="75" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitTrainingClassChatGroup.php" timestamp="1564970487870">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_01_03_162506_add_training_task_comment_id_to_training_class_experience_table.php" timestamp="1564988053593" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_20_101928_create_game_miner_person_table.php" timestamp="1564988729219" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_07_18_100600_del_degs_to_game_lottery_table.php" timestamp="1564988270862" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_09_25_100044_add_uuid_to_person_table.php" timestamp="1564988027063" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/SyncTrainingClassMemberExperienceRemainder.php" timestamp="1564970037460" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_08_05_145303_add_game_prop_id_to_person_game_props_table.php" timestamp="1564988109371">
+        <mark key="[" line="16" column="66" />
+        <mark key="]" line="16" column="69" />
+        <mark key="." line="16" column="69" />
+        <mark key="^" line="16" column="69" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameProps.php" timestamp="1564984239866" />
     </filemarks>
     <jumps>
@@ -23,22 +39,25 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT4oJycsIDE1MCktPm51bGxhYmxlKCktPmNvbW1lbnQoJ+iLueaenOiuvuWkh3V1aWTvvIzmuLjlrqLnmbtkZOW9lScpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>训练营班级id</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>训练营班级id</text>
       </register>
     </registers>
     <search>
