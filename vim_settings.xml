@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1564995553811">
+      <file name="/Dummy.txt" timestamp="1564998715555">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatListener.php" timestamp="1564971269560" />
@@ -18,6 +18,12 @@
         <mark key="]" line="16" column="75" />
         <mark key="." line="16" column="75" />
         <mark key="^" line="16" column="75" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" timestamp="1564998710376">
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="199" column="26" />
+        <mark key="." line="199" column="26" />
+        <mark key="^" line="199" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_01_03_162506_add_training_task_comment_id_to_training_class_experience_table.php" timestamp="1564988053593" />
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_07_18_100600_del_degs_to_game_lottery_table.php" timestamp="1564988270862" />
@@ -49,34 +55,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>class_id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YWdlX2lkJyA9PiAncmVxdWlyZWR8bnVtZXJpY3xpbnRlZ2VyJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncmFuaycgPT4gJHJhbmssCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0cmFpbmluZ19jbGFzc19tZW1iZXJfbGlzdF9mcm9tX3BlcnNvbl9pZFskay0+cGVyc29uX2lkXSA9IGs7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
