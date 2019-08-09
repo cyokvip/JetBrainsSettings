@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1564998715555">
+      <file name="/Dummy.txt" timestamp="1565316203882">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatListener.php" timestamp="1564971269560" />
@@ -42,11 +42,11 @@
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_20_101928_create_game_miner_person_table.php" timestamp="1564988729219" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameEcologyController.php" timestamp="1564993721323" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameDailyTaskPerson.php" timestamp="1564993700466" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/manage.php" timestamp="1565314999086">
-        <mark key="[" line="482" column="35" />
-        <mark key="]" line="482" column="35" />
-        <mark key="^" line="482" column="34" />
-        <mark key="." line="482" column="35" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/manage.php" timestamp="1565316317558">
+        <mark key="[" line="496" column="36" />
+        <mark key="]" line="496" column="36" />
+        <mark key="^" line="496" column="36" />
+        <mark key="." line="496" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/SyncTrainingClassMemberExperienceRemainder.php" timestamp="1564970037460" />
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_08_05_145303_add_game_prop_id_to_person_game_props_table.php" timestamp="1564988109371">
