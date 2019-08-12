@@ -3,10 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_08_12_114318_add_is_v_to_company_table.php" timestamp="1565581470843">
+        <mark key="[" line="16" column="58" />
+        <mark key="]" line="16" column="63" />
+        <mark key="." line="16" column="63" />
+        <mark key="^" line="16" column="63" />
+      </file>
       <file name="/Dummy.txt" timestamp="1565316203882">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/ChatListener.php" timestamp="1564971269560" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" timestamp="1564995549234">
         <mark key="[" line="642" column="18" />
         <mark key="]" line="643" column="12" />
@@ -25,30 +30,22 @@
         <mark key="." line="199" column="26" />
         <mark key="^" line="199" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_01_03_162506_add_training_task_comment_id_to_training_class_experience_table.php" timestamp="1564988053593" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_07_18_100600_del_degs_to_game_lottery_table.php" timestamp="1564988270862" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_09_25_100044_add_uuid_to_person_table.php" timestamp="1564988027063" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassMemberController.php" timestamp="1564994059952" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameProps.php" timestamp="1564984239866" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AppLogController.php" timestamp="1565227826487" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" timestamp="1565581602640">
+        <mark key="[" line="120" column="21" />
+        <mark key="]" line="120" column="24" />
+        <mark key="." line="120" column="24" />
+        <mark key="^" line="120" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_06_21_095025_add_traing_class_id_to_game_miner_person.php" timestamp="1565581436977" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameLotteryController.php" timestamp="1564984200675">
         <mark key="'" line="63" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitTrainingClassChatGroup.php" timestamp="1564970487870">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_20_101928_create_game_miner_person_table.php" timestamp="1564988729219" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameEcologyController.php" timestamp="1564993721323" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/GameDailyTaskPerson.php" timestamp="1564993700466" />
       <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/manage.php" timestamp="1565316317558">
         <mark key="[" line="496" column="36" />
         <mark key="]" line="496" column="36" />
         <mark key="^" line="496" column="36" />
         <mark key="." line="496" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/SyncTrainingClassMemberExperienceRemainder.php" timestamp="1564970037460" />
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_08_05_145303_add_game_prop_id_to_person_game_props_table.php" timestamp="1564988109371">
         <mark key="[" line="16" column="66" />
         <mark key="]" line="16" column="69" />
@@ -62,16 +59,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>company_logo</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>company_logo</text>
       </register>
       <register name="/" type="4">
         <text>class_id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncmFuaycgPT4gJHJhbmssCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY29tcGFueV9sb2dvJyA9PiAncmVxdWlyZWQnLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -112,6 +109,9 @@
       <history-search>
         <entry>class_id</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
   </component>
