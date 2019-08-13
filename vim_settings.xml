@@ -33,9 +33,15 @@
         <mark key="]" line="404" column="41" />
         <mark key="." line="404" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/config/app.php" timestamp="1565660328677">
+        <mark key="[" line="145" column="34" />
+        <mark key="]" line="145" column="28" />
+        <mark key="." line="145" column="28" />
+        <mark key="^" line="145" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_06_21_095025_add_traing_class_id_to_game_miner_person.php" timestamp="1565581436977" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassTaskComment.php" timestamp="1565598935162" />
-      <file name="/Dummy.txt" timestamp="1565600124803">
+      <file name="/Dummy.txt" timestamp="1565660349005">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" timestamp="1565581602640">
@@ -89,7 +95,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAndmVyc2lvbl81Jz0+JzEuOC4wJywvL+a4uOaIj+WMlgo=</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -98,7 +104,7 @@
         <text>class_id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGstPnNvdW5kc19oaXN0b3J5ID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAndmVyc2lvbl81Jz0+JzEuOC4wJywvL+a4uOaIj+WMlgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
