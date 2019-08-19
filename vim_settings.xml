@@ -27,7 +27,6 @@
         <mark key="." line="16" column="75" />
         <mark key="^" line="16" column="75" />
       </file>
-      <file name="/company.php" timestamp="1565662445008" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" timestamp="1564998710376">
         <mark key="[" line="198" column="0" />
         <mark key="]" line="199" column="26" />
@@ -57,7 +56,6 @@
         <mark key="." line="145" column="28" />
         <mark key="^" line="145" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_06_21_095025_add_traing_class_id_to_game_miner_person.php" timestamp="1565581436977" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/SyncRedis.php" timestamp="1565675035395">
         <mark key="'" line="19" column="44" />
         <mark key="[" line="120" column="60" />
@@ -65,17 +63,14 @@
         <mark key="." line="120" column="62" />
         <mark key="^" line="120" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassTaskComment.php" timestamp="1565598935162" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Kernel.php" timestamp="1565682690989">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyCourseGet.php" timestamp="1565680107395" />
       <file name="/Dummy.txt" timestamp="1565687853522">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/BiController.php" timestamp="1565668380527" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/CompanyController.php" timestamp="1565581602640">
         <mark key="[" line="120" column="21" />
         <mark key="]" line="120" column="24" />
@@ -103,7 +98,9 @@
         <mark key="." line="250" column="0" />
         <mark key="^" line="249" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1565675992008" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1566208712957">
+        <mark key="'" line="1291" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/BiController.php" timestamp="1565687809175">
         <mark key="'" line="393" column="37" />
         <mark key="[" line="413" column="0" />
@@ -116,7 +113,6 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_05_20_101928_create_game_miner_person_table.php" timestamp="1565598726368" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassTaskSoundsPersonHistory.php" timestamp="1565598969406">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -184,6 +180,7 @@
       <jump line="485" column="59" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/CompanyPersonController.php" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/BiController.php" />
       <jump line="393" column="37" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/BiController.php" />
+      <jump line="1291" column="36" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
