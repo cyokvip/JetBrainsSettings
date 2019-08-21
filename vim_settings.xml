@@ -76,7 +76,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566291485292">
+      <file name="/Dummy.txt" timestamp="1566373874012">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Libraries/SendMail.php" timestamp="1566284766698">
@@ -108,14 +108,14 @@
         <mark key="." line="250" column="0" />
         <mark key="^" line="249" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/BiController.php" timestamp="1566291472693">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/BiController.php" timestamp="1566373833920">
         <mark key="'" line="387" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="85" column="22" />
+        <mark key="]" line="85" column="22" />
+        <mark key="^" line="85" column="13" />
+        <mark key="." line="85" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyPerson.php" timestamp="1566280718424" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyPerson.php" timestamp="1566373554336" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitTrainingClassChatGroup.php" timestamp="1564970487870">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -196,17 +196,17 @@
       <jump line="387" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/BiController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ291cnNlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>raw('</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ29tcGFueTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzZXJpZXMnID0+ICRzZXJpZXNfZGF0YSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQ291cnNlOwo=</text>
