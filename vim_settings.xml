@@ -71,10 +71,16 @@
         <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassMember.php" timestamp="1566379018742" />
-      <file name="/Dummy.txt" timestamp="1566526207700">
+      <file name="/Dummy.txt" timestamp="1566547269830">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1566547266468">
+        <mark key="[" line="56" column="47" />
+        <mark key="]" line="56" column="50" />
+        <mark key="." line="56" column="50" />
+        <mark key="^" line="56" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Libraries/SendMail.php" timestamp="1566284766698">
         <mark key="'" line="51" column="9" />
@@ -216,16 +222,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>company_name</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>company_name</text>
       </register>
       <register name="/" type="4">
         <text>course</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlcm5hbWUgPSBJbnB1dDo6Z2V0KCd1c2VybmFtZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0Wydjb21wYW55X25hbWUnXSA9ICRjb21wYW55X3JzLT5jb21wYW55X25hbWU7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYoJGstPm1lc3NhZ2UtPnR5cGU9PTYpe30K</text>
