@@ -71,7 +71,7 @@
         <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassMember.php" timestamp="1566379018742" />
-      <file name="/Dummy.txt" timestamp="1566380121283">
+      <file name="/Dummy.txt" timestamp="1566526207700">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -106,6 +106,12 @@
         <mark key="." line="250" column="0" />
         <mark key="^" line="249" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1566526136703">
+        <mark key="[" line="456" column="42" />
+        <mark key="]" line="456" column="42" />
+        <mark key="." line="456" column="42" />
+        <mark key="^" line="460" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/BiController.php" timestamp="1566377821355">
         <mark key="'" line="371" column="23" />
         <mark key="[" line="451" column="0" />
@@ -134,6 +140,7 @@
         <mark key="." line="65" column="30" />
         <mark key="^" line="62" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" timestamp="1566525975949" />
       <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/manage.php" timestamp="1565316317558">
         <mark key="[" line="496" column="36" />
         <mark key="]" line="496" column="36" />
@@ -209,10 +216,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>course</text>
@@ -221,31 +228,31 @@
         <text encoding="base64">ICAgICAgICAkdXNlcm5hbWUgPSBJbnB1dDo6Z2V0KCd1c2VybmFtZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb2JpbGUgPSBJbnB1dDo6Z2V0KCdtb2JpbGUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoJGstPm1lc3NhZ2UtPnR5cGU9PTYpe30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY291cnNlX2dldF9ycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Y29tcGFueV9pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRsaXN0W10gPSAkazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFnZSA9IElucHV0OjpnZXQoJ3BhZ2UnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoJGstPm1lc3NhZ2UtPnR5cGU9PTYpewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkY291cnNlX2lkOwo=</text>
+        <text encoding="base64">ICAgICAgICBtb2JpbGUgPSBJbnB1dDo6Z2V0KCdtb2JpbGUnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY291cnNlX3R5cGU7Ly/or77nqIvnsbvlnosgMeS8geS4muiHquW7uuivvueoiyAy5bey6LSt5bmz5Y+w6K++56iLCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY291cnNlX2dldF9ycyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL+aAu+WtpuS5oOaXtumVvwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Y29tcGFueV9pZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
