@@ -71,12 +71,12 @@
         <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassMember.php" timestamp="1566379018742" />
-      <file name="/Dummy.txt" timestamp="1566549882018">
+      <file name="/Dummy.txt" timestamp="1566806856436">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1566547266468">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1566806642678">
         <mark key="[" line="56" column="47" />
         <mark key="]" line="56" column="50" />
         <mark key="." line="56" column="50" />
@@ -112,11 +112,11 @@
         <mark key="." line="250" column="0" />
         <mark key="^" line="249" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1566526136703">
-        <mark key="[" line="456" column="42" />
-        <mark key="]" line="456" column="42" />
-        <mark key="." line="456" column="42" />
-        <mark key="^" line="460" column="11" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1566806830566">
+        <mark key="[" line="736" column="0" />
+        <mark key="]" line="736" column="0" />
+        <mark key="." line="736" column="0" />
+        <mark key="^" line="735" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/BiController.php" timestamp="1566377821355">
         <mark key="'" line="371" column="23" />
@@ -221,11 +221,11 @@
       <jump line="455" column="8" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/CompanyPersonController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>company_name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHRbJ2NvbXBhbnlfcGVyc29uX2NvdW50J10gPSBQZXJzb246OndoZXJlKCdjb21wYW55X2lkJywgJGNvbXBhbnlfaWQpLT5jb3VudCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>company_name</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>course</text>
@@ -234,31 +234,31 @@
         <text encoding="base64">ICAgICAgICAkcmVzdWx0Wydjb21wYW55X25hbWUnXSA9ICRjb21wYW55X3JzLT5jb21wYW55X25hbWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoJGstPm1lc3NhZ2UtPnR5cGU9PTYpe30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHRbJ2NvbXBhbnlfcGVyc29uX2NvdW50J10gPSBQZXJzb246OndoZXJlKCdjb21wYW55X2lkJywgJGNvbXBhbnlfaWQpLT5jb3VudCgpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGVyc29uX2luZm8pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRsaXN0W10gPSAkazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNvbXBhbnlfaWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoJGstPm1lc3NhZ2UtPnR5cGU9PTYpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoJGstPm1lc3NhZ2UtPnR5cGU9PTYpe30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2JpbGUgPSBJbnB1dDo6Z2V0KCdtb2JpbGUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY291cnNlX2dldF9ycyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRsaXN0W10gPSAkazsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Y29tcGFueV9pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoJGstPm1lc3NhZ2UtPnR5cGU9PTYpewo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
