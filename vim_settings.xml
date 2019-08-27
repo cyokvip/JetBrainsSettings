@@ -15,7 +15,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AppLogController.php" timestamp="1566811745994">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AppLogController.php" timestamp="1566869943747">
         <mark key="[" line="33" column="18" />
         <mark key="]" line="33" column="18" />
         <mark key="." line="33" column="18" />
@@ -41,6 +41,7 @@
         <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassMember.php" timestamp="1566379018742" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/FileController.php" timestamp="1566870065237" />
       <file name="/Dummy.txt" timestamp="1566811792062">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
