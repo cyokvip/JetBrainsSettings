@@ -63,6 +63,9 @@
         <mark key="]" line="477" column="0" />
         <mark key="." line="477" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassMemberController.php" timestamp="1566885941306">
+        <mark key="'" line="119" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" timestamp="1566377550317">
         <mark key="'" line="239" column="23" />
         <mark key="[" line="272" column="43" />
@@ -160,6 +163,7 @@
       <jump line="239" column="23" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" />
       <jump line="12" column="35" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyPerson.php" />
       <jump line="455" column="8" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/CompanyPersonController.php" />
+      <jump line="119" column="40" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassMemberController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
