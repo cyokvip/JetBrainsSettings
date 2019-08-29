@@ -35,7 +35,7 @@
       <file name="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-08-29.log" timestamp="1567047687706">
         <mark key="'" line="11" column="165" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567048879215">
+      <file name="/Dummy.txt" timestamp="1567050984075">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -84,12 +84,12 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/storage/logs/laravel-2019-08-29.log" timestamp="1567047339585" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/CompanyUserController.php" timestamp="1566973077600" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/BiController.php" timestamp="1567048730580">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/BiController.php" timestamp="1567051013496">
         <mark key="'" line="319" column="23" />
-        <mark key="[" line="462" column="0" />
-        <mark key="]" line="462" column="0" />
-        <mark key="^" line="460" column="11" />
-        <mark key="." line="462" column="0" />
+        <mark key="[" line="368" column="39" />
+        <mark key="]" line="368" column="39" />
+        <mark key="^" line="369" column="12" />
+        <mark key="." line="368" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyPerson.php" timestamp="1566379540541">
         <mark key="'" line="12" column="35" />
@@ -166,17 +166,17 @@
       <jump line="11" column="165" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-08-29.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>course</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRyczFfbGlzdCBhcyAkayl7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY291cnNlX25hbWUgPSBJbnB1dDo6Z2V0KCdjb3Vyc2VfbmFtZScpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
