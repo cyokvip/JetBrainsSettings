@@ -42,11 +42,11 @@
         <mark key="^" line="272" column="45" />
         <mark key="." line="272" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" timestamp="1567060882857">
-        <mark key="[" line="696" column="21" />
-        <mark key="]" line="696" column="27" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" timestamp="1567069311750">
+        <mark key="[" line="697" column="59" />
+        <mark key="]" line="697" column="59" />
         <mark key="^" line="696" column="27" />
-        <mark key="." line="696" column="27" />
+        <mark key="." line="697" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingClassTaskController.php" timestamp="1566808826578">
         <mark key="'" line="240" column="16" />
@@ -87,7 +87,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567066285507">
+      <file name="/Dummy.txt" timestamp="1567069313051">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -180,16 +180,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcXVlcnktPndoZXJlKCdjb3Vyc2VfbmFtZScsICdsaWtlJywgIiUkY291cnNlX25hbWUlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYXNzZXNzX3RpdGxlJyA9PiAkYXNzZXNzX3JzLT50aXRsZSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHJzID0gQ29tcGFueUNvdXJzZUdldDo6d2hlcmUoJHdoZXJlX2RhdGEpLT5wYWdpbmF0ZSgkcHNpemUpOwo=</text>
