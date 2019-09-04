@@ -136,7 +136,7 @@
         <mark key="." line="65" column="30" />
         <mark key="^" line="62" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" timestamp="1567503815729" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" timestamp="1567564198344" />
     </filemarks>
     <jumps>
       <jump line="63" column="29" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/GameLotteryController.php" />
