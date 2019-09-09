@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" timestamp="1567996780811">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassTopicTypeContent.php" timestamp="1567653436501">
         <mark key="[" line="14" column="32" />
         <mark key="]" line="14" column="32" />
@@ -32,11 +37,11 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_09_25_100044_add_uuid_to_person_table.php" timestamp="1567993843514" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/config/app.php" timestamp="1567991821654">
-        <mark key="[" line="146" column="26" />
-        <mark key="]" line="146" column="26" />
-        <mark key="." line="146" column="26" />
-        <mark key="^" line="146" column="26" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/config/app.php" timestamp="1567996852327">
+        <mark key="[" line="147" column="26" />
+        <mark key="]" line="147" column="27" />
+        <mark key="." line="147" column="27" />
+        <mark key="^" line="147" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AppLogController.php" timestamp="1566877384596">
         <mark key="[" line="33" column="18" />
@@ -223,44 +228,44 @@
       <jump line="60" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0Wydpc19uZXdfbWVzc2FnZSddPSRycy0+aXNfbmV3X21lc3NhZ2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>苹果设备uuid，游客登录</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0Wydpc19uZXdfbWVzc2FnZSddPSRycy0+aXNfbmV3X21lc3NhZ2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAndmVyc2lvbl83Jz0+JzEuOC41JywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdpc19uZXdfY29tcGFueV9tZXNzYWdlJyktPmRlZmF1bHQoMCktPmNvbW1lbnQoJ+aYr+WQpuacieaWsOeahOS8geS4mua2iOaBrycpOwo=</text>
+        <text encoding="base64">4pGkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1lc3NhZ2VfdHlwZSA9IFsxLCAyLCA0LCA1XTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">4pGj56ue5oqA5Zy65ri45oiP5Lit5raI6ICXCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICDikaIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdpc19uZXdfY29tcGFueV9tZXNzYWdlJyktPmRlZmF1bHQoMCktPmNvbW1lbnQoJ+aYr+WQpuacieaWsOeahOS8geS4mua2iOaBrycpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNZXNzYQo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1lc3NhZ2VfdHlwZSA9IFsxLCAyLCA0LCA1XTsK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
