@@ -75,6 +75,7 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/ShortClassController.php" timestamp="1568020844681" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonAnswer.php" timestamp="1568079353897">
         <mark key="[" line="19" column="63" />
         <mark key="]" line="19" column="83" />
@@ -87,6 +88,7 @@
         <mark key="^" line="40" column="67" />
         <mark key="." line="40" column="67" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/SmsController.php" timestamp="1568084448018" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TdfAssessController.php" timestamp="1568078876177">
         <mark key="[" line="34" column="25" />
         <mark key="]" line="34" column="25" />
@@ -110,7 +112,7 @@
         <mark key="^" line="28" column="60" />
         <mark key="." line="28" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568022058791">
+      <file name="/Dummy.txt" timestamp="1568084973412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessContent.php" timestamp="1568014408445">
@@ -137,7 +139,7 @@
         <mark key="^" line="275" column="29" />
         <mark key="." line="276" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" timestamp="1567069311750">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" timestamp="1568084608962">
         <mark key="[" line="697" column="59" />
         <mark key="]" line="697" column="59" />
         <mark key="^" line="696" column="27" />
@@ -182,7 +184,7 @@
         <mark key="." line="65" column="30" />
         <mark key="^" line="62" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" timestamp="1568020744093">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" timestamp="1568084583257">
         <mark key="'" line="83" column="0" />
         <mark key="[" line="22" column="15" />
         <mark key="]" line="22" column="21" />
