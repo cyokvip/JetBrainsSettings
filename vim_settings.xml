@@ -410,11 +410,11 @@
       <jump line="464" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>CompanyAppBanner.php</text>
       </register>
       <register name="-" type="4">
-        <text>page</text>
+        <text>CompanyAppBanner.php</text>
       </register>
       <register name="/" type="4">
         <text>$_folder_log</text>
