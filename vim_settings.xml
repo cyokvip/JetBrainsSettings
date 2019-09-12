@@ -96,6 +96,11 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-09-12.log" timestamp="1568260658959">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_09_151005_create_tdf_assess_person_answer_table.php" timestamp="1568079512273">
         <mark key="[" line="17" column="59" />
         <mark key="]" line="20" column="68" />
@@ -127,12 +132,12 @@
         <mark key="^" line="18" column="56" />
         <mark key="." line="18" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitNewMessageRedMark.php" timestamp="1568259285349">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitNewMessageRedMark.php" timestamp="1568260965954">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="81" column="9" />
-        <mark key="]" line="81" column="8" />
-        <mark key="." line="81" column="8" />
-        <mark key="^" line="81" column="8" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="74" column="8" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" timestamp="1568079287310">
         <mark key="'" line="0" column="0" />
@@ -178,11 +183,11 @@
         <mark key="." line="22" column="21" />
         <mark key="^" line="22" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/NewMessageMarkListener.php" timestamp="1568256574145">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="57" column="19" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/NewMessageMarkListener.php" timestamp="1568260986413">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="40" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_10_090731_create_manage_assess_table.php" timestamp="1568077733852">
         <mark key="[" line="25" column="58" />
@@ -319,8 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="51" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/CompanyPersonController.php" />
-      <jump line="7" column="7" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" />
       <jump line="57" column="42" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" />
       <jump line="54" column="71" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" />
       <jump line="456" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/CompanyPersonController.php" />
@@ -419,46 +422,48 @@
       <jump line="10" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitNewMessageMark.php" />
       <jump line="55" column="54" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitNewMessageRedMark.php" />
       <jump line="25" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitNewMessageRedMark.php" />
+      <jump line="15" column="105" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-09-12.log" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-09-12.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJG1jKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRwZXJzb25fcnMgPSBQZXJzb246OmZpbmQoJHVzZXJfaWQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>$_folder_log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0WydwYWdlJ10gICAgICAgPSAkcGFnZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGlfZGF0YVsnaXNfbmV3X2NvbXBhbnlfbWVzc2FnZSddPTE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJG1jKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRwZXJzb25fcnMgPSBQZXJzb246OmZpbmQoJHVzZXJfaWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRtYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkcGVyc29uX3JzKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdHJhaW5pbmdfY2xhc3NfaWQgCg==</text>
+        <text encoding="base64">ICAgICAgICAkcGVyc29uX3JzID0gUGVyc29uOjpmaW5kKCR1c2VyX2lkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vcHJvdGVjdGVkICRzaWduYXR1cmUgPSAnY29tbWFuZDpuYW1lJzsK</text>
+        <text encoding="base64">ICAgICAgICAkdXNlcl9pZCAgID0gMTIxNTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcVHJhaW5pbmdDbGFzc01lbWJlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcVHJhaW5pbmdDbGFzc0V4cGVyaWVuY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
