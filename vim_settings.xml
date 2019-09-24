@@ -143,7 +143,7 @@
         <mark key="^" line="40" column="67" />
         <mark key="." line="40" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569308241064">
+      <file name="/Dummy.txt" timestamp="1569316216407">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_09_150923_create_tdf_assess_person_report_table.php" timestamp="1569238425509">
@@ -177,12 +177,12 @@
         <mark key="]" line="697" column="0" />
         <mark key="." line="697" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" timestamp="1569289312968">
-        <mark key="'" line="338" column="15" />
-        <mark key="[" line="62" column="23" />
-        <mark key="]" line="62" column="33" />
-        <mark key="." line="62" column="33" />
-        <mark key="^" line="62" column="33" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" timestamp="1569316209391">
+        <mark key="'" line="340" column="15" />
+        <mark key="[" line="702" column="62" />
+        <mark key="]" line="702" column="62" />
+        <mark key="." line="702" column="62" />
+        <mark key="^" line="308" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_16_143154_add_default_test_num_to_manage_assess_table.php" timestamp="1568885624095">
         <mark key="[" line="16" column="49" />
@@ -319,10 +319,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$</text>
+        <text>sprintf(&quot;%.1f&quot;, );</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>sprintf(&quot;%.1f&quot;, );</text>
       </register>
       <register name="/" type="4">
         <text>years_of_training</text>
