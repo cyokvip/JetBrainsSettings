@@ -16,7 +16,7 @@
         <mark key="^" line="424" column="26" />
         <mark key="." line="432" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/.env.dev" timestamp="1569299922394">
+      <file name="$USER_HOME$/Documents/dev/www/platform/.env.dev" timestamp="1569303493193">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="84" column="15" />
         <mark key="]" line="84" column="15" />
@@ -68,12 +68,12 @@
         <mark key="^" line="16" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/resources/views/emails/training_exam_attachment.blade.php" timestamp="1569287577420" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ManageAssessController.php" timestamp="1569299849300">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ManageAssessController.php" timestamp="1569303250524">
         <mark key="'" line="345" column="39" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+        <mark key="[" line="352" column="71" />
+        <mark key="]" line="352" column="70" />
+        <mark key="." line="352" column="70" />
+        <mark key="^" line="352" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessReportAttachment.php" timestamp="1568183741083">
         <mark key="[" line="6" column="6" />
@@ -307,11 +307,11 @@
       <jump line="30" column="5" filename="$USER_HOME$/Documents/dev/www/platform/app/Jobs/CreateAssessPdf.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>years_of_training</text>
