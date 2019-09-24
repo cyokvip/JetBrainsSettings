@@ -60,7 +60,7 @@
         <mark key="^" line="40" column="67" />
         <mark key="." line="40" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569296043336">
+      <file name="/Dummy.txt" timestamp="1569297116308">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_09_150923_create_tdf_assess_person_report_table.php" timestamp="1569238425509">
@@ -70,6 +70,12 @@
         <mark key="^" line="24" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/resources/views/emails/short_class_member_change_error.blade.php" timestamp="1569287157623" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1569297050298">
+        <mark key="[" line="102" column="17" />
+        <mark key="]" line="102" column="17" />
+        <mark key="^" line="99" column="28" />
+        <mark key="." line="102" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/resources/views/emails/training_topic_attachment.blade.php" timestamp="1569287597189" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingTaskExamController.php" timestamp="1569289215504" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyAppBanner.php" timestamp="1568798581862">
@@ -274,17 +280,17 @@
       <jump line="51" column="4" filename="$USER_HOME$/Documents/dev/www/platform/app/Helpers/Functions.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>years_of_training</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFNUQVRVU18xPTE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0Wydpc19uZXdfbWVzc2FnZSddPSRycy0+aXNfbmV3X21lc3NhZ2U7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkYSk7Cg==</text>
