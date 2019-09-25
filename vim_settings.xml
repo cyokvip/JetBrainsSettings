@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/ShortClassMember.php" timestamp="1569286940298">
+        <mark key="'" line="102" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Libraries/Pdf.php" timestamp="1568596859019">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -63,11 +66,8 @@
         <mark key="^" line="703" column="27" />
         <mark key="." line="704" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" timestamp="1569379401505">
+      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" timestamp="1569398963261">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="289" column="0" />
-        <mark key="]" line="289" column="91" />
-        <mark key="." line="289" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_19_172738_add_sales_num_to_manage_assess_table.php" timestamp="1568885637463">
         <mark key="[" line="16" column="63" />
@@ -76,12 +76,12 @@
         <mark key="^" line="16" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/resources/views/emails/training_exam_attachment.blade.php" timestamp="1569287577420" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ManageAssessController.php" timestamp="1569383349004">
-        <mark key="'" line="180" column="97" />
-        <mark key="[" line="285" column="12" />
-        <mark key="]" line="285" column="17" />
-        <mark key="." line="285" column="17" />
-        <mark key="^" line="285" column="17" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ManageAssessController.php" timestamp="1569404903306">
+        <mark key="'" line="273" column="43" />
+        <mark key="[" line="230" column="5" />
+        <mark key="]" line="231" column="5" />
+        <mark key="." line="231" column="5" />
+        <mark key="^" line="231" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TdfAssessController.php" timestamp="1569234245465">
         <mark key="'" line="99" column="79" />
@@ -114,13 +114,14 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="40" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/ManageAssessController.php" timestamp="1569397494016">
-        <mark key="'" line="104" column="8" />
-        <mark key="[" line="93" column="61" />
-        <mark key="]" line="93" column="61" />
-        <mark key="^" line="93" column="61" />
-        <mark key="." line="93" column="61" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/ManageAssessController.php" timestamp="1569404377259">
+        <mark key="'" line="34" column="41" />
+        <mark key="[" line="193" column="30" />
+        <mark key="]" line="193" column="40" />
+        <mark key="^" line="193" column="40" />
+        <mark key="." line="193" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonOrderController.php" timestamp="1569401575925" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" timestamp="1569299369462" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Jobs/CreateAssessPdf.php" timestamp="1569304580354">
         <mark key="'" line="30" column="5" />
@@ -149,12 +150,13 @@
         <mark key="^" line="40" column="67" />
         <mark key="." line="40" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-09-25.log" timestamp="1569395602233">
+      <file name="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-09-25.log" timestamp="1569404337919">
+        <mark key="'" line="68" column="644" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569397296851">
+      <file name="/Dummy.txt" timestamp="1569405905230">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_09_150923_create_tdf_assess_person_report_table.php" timestamp="1569382606697">
@@ -166,7 +168,7 @@
       <file name="$USER_HOME$/Documents/dev/www/platform/resources/views/emails/short_class_member_change_error.blade.php" timestamp="1569287157623" />
       <file name="$USER_HOME$/Documents/dev/www/platform/resources/views/emails/training_topic_attachment.blade.php" timestamp="1569287597189" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingTaskExamController.php" timestamp="1569289215504" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Libraries/UserGroup.php" timestamp="1569380559545" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Libraries/UserGroup.php" timestamp="1569399646760" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/CompanyPersonController.php" timestamp="1569308250875">
         <mark key="[" line="68" column="35" />
         <mark key="]" line="68" column="35" />
@@ -179,12 +181,12 @@
         <mark key="]" line="697" column="0" />
         <mark key="." line="697" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" timestamp="1569396996330">
-        <mark key="'" line="787" column="63" />
-        <mark key="[" line="837" column="10" />
-        <mark key="]" line="837" column="13" />
-        <mark key="^" line="837" column="13" />
-        <mark key="." line="837" column="13" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" timestamp="1569405901861">
+        <mark key="'" line="351" column="61" />
+        <mark key="[" line="764" column="61" />
+        <mark key="]" line="765" column="7" />
+        <mark key="^" line="765" column="7" />
+        <mark key="." line="765" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_16_143154_add_default_test_num_to_manage_assess_table.php" timestamp="1568885624095">
         <mark key="[" line="16" column="49" />
@@ -218,15 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="18" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
-      <jump line="314" column="35" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
-      <jump line="568" column="87" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
-      <jump line="589" column="50" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
-      <jump line="54" column="43" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
-      <jump line="558" column="44" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
-      <jump line="57" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
-      <jump line="560" column="49" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
-      <jump line="111" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="552" column="12" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="99" column="79" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TdfAssessController.php" />
       <jump line="410" column="39" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" />
@@ -312,52 +305,61 @@
       <jump line="70" column="23" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="104" column="8" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/ManageAssessController.php" />
       <jump line="751" column="39" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
-      <jump line="12" column="44" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="831" column="32" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="14" column="16" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="832" column="11" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="787" column="63" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
+      <jump line="160" column="12" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/ManageAssessController.php" />
+      <jump line="192" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/ManageAssessController.php" />
+      <jump line="34" column="41" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/ManageAssessController.php" />
+      <jump line="21" column="95" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-09-25.log" />
+      <jump line="49" column="507" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-09-25.log" />
+      <jump line="68" column="644" filename="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-09-25.log" />
+      <jump line="273" column="43" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ManageAssessController.php" />
+      <jump line="12" column="11" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
+      <jump line="803" column="34" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
+      <jump line="351" column="61" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>J</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="-" type="4">
-        <text>J</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>years_of_training</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZWlmKCRuZXh0X2xldmVsWyd0aXRsZSddPT0kdGhpcy0+bGV2ZWxbMl0pewo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0WydtYW5hZ2VfYXNzZXNzX3Byb2Zlc3Npb25hbF92ZXJzaW9uX2xlYXJuX2NvaW4nXSA9ICRtYW5hZ2VfYXNzZXNzX2luZm8tPnByb2Zlc3Npb25hbF92ZXJzaW9uX2xlYXJuX2NvaW47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy99KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdtc2cnPT4nJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8kam9pbi0+b24oJ2MucGVyc29uX2lkJywgJz0nLCAnZy5wZXJzb25faWQnKS0+d2hlcmUoJ2cuY29tcGFueV9pZCcsICc9JywgJ2MuY29tcGFueV9pZCcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8tPmxlZnRKb2luKCdjb21wYW55X3BlcnNvbiBhcyBjJywgZnVuY3Rpb24gKCRqb2luKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAKCgogICAgICAgICRycyA9ICRycy0+d2hlcmUoJ3BlcnNvbl9hc3Nlc3NfZ2V0LmNvbXBhbnlfaWQnLCAkdGhpcy0+Y29tcGFueV9pZCkKICAgICAgICAgICAgLT5ncm91cEJ5KCdwZXJzb25fYXNzZXNzX2dldC5wZXJzb25faWQnKQogICAgICAgICAgICAtPm9yZGVyQnkoJ3BlcnNvbl9hc3Nlc3NfZ2V0LmlkJywgJ2Rlc2MnKQogICAgICAgICAgICAtPnNlbGVjdCgncGVyc29uX2Fzc2Vzc19nZXQuaWQnLCAnY29tcGFueV9wZXJzb24ucmVhbG5hbWUnLCAncGVyc29uLm1vYmlsZScsICdjb21wYW55X3BlcnNvbi5kZXBhcnRtZW50JywgJ3BlcnNvbl9hc3Nlc3NfZ2V0LmZpbmlzaF90aW1lJywgJ3BlcnNvbl9hc3Nlc3NfZ2V0LmV2YWx1YXRpb25fcmVzdWx0JywgJ3BlcnNvbl9hc3Nlc3NfZ2V0LmlzX2ZpbmlzaCcsICdwZXJzb25fYXNzZXNzX2dldC5zb3VyY2VfdHlwZScpCiAgICAgICAgICAgIC0+cGFnaW5hdGUoJHBzaXplKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGRkKCRycyk7CiAgICAgICAgZXhpdDsKCgogICAgICAgIC8v5Li75p+l6K+iCiAgICAgICAgJHJzID0gREI6OnRhYmxlKCdwZXJzb25fYXNzZXNzX2dldCcpLT5sZWZ0Sm9pbignY29tcGFueV9wZXJzb24nLCBmdW5jdGlvbiAoJGpvaW4pIHVzZSAoJHJlYWxuYW1lLCAkZGVwYXJ0bWVudCkgewogICAgICAgICAgICAkam9pbi0+b24oJ2NvbXBhbnlfcGVyc29uLmNvbXBhbnlfaWQnLCAnPScsICdwZXJzb25fYXNzZXNzX2dldC5jb21wYW55X2lkJyk7CiAgICAgICAgICAgIGlmICghZW1wdHkoJHJlYWxuYW1lKSkgewogICAgICAgICAgICAgICAgJGpvaW4tPndoZXJlKCdyZWFsbmFtZScsICdsaWtlJywgIiUkcmVhbG5hbWUlIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCFlbXB0eSgkZGVwYXJ0bWVudCkpIHsKICAgICAgICAgICAgICAgICRqb2luLT53aGVyZSgnZGVwYXJ0bWVudCcsICdsaWtlJywgIiUkZGVwYXJ0bWVudCUiKTsKICAgICAgICAgICAgfQogICAgICAgIH0pLT5sZWZ0Sm9pbigncGVyc29uJywgZnVuY3Rpb24gKCRqb2luKSB1c2UgKCRtb2JpbGUpIHsKICAgICAgICAgICAgJGpvaW4tPm9uKCdwZXJzb24uaWQnLCAnPScsICdwZXJzb25fYXNzZXNzX2dldC5wZXJzb25faWQnKTsKICAgICAgICAgICAgaWYgKCFlbXB0eSgkbW9iaWxlKSkgewogICAgICAgICAgICAgICAgJGpvaW4tPndoZXJlKCdtb2JpbGUnLCAnbGlrZScsICIlJG1vYmlsZSUiKTsKICAgICAgICAgICAgfQogICAgICAgIH0pLT5sZWZ0Sm9pbignc2hvcnRfY2xhc3MnLCBmdW5jdGlvbiAoJGpvaW4pIHVzZSAoJHNob3J0X2NsYXNzX25hbWUpIHsKICAgICAgICAgICAgJGpvaW4tPm9uKCdzaG9ydF9jbGFzcy5jb21wYW55X2lkJywgJz0nLCAncGVyc29uX2Fzc2Vzc19nZXQuY29tcGFueV9pZCcpLT5vck9uKCdzaG9ydF9jbGFzcycsICc9JywgJ3BlcnNvbl9hc3Nlc3NfZ2V0LnNvdXJjZV90eXBlX2lkJyk7CiAgICAgICAgICAgIGlmICghZW1wdHkoJHNob3J0X2NsYXNzX25hbWUpKSB7CiAgICAgICAgICAgICAgICAkam9pbi0+d2hlcmUoJ2NsYXNzX25hbWUnLCAnbGlrZScsICIlJHNob3J0X2NsYXNzX25hbWUlIik7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKCiAgICAgICAgaWYgKCFlbXB0eSgkdHJhaW5pbmdfY2xhc3NfaWQpKSB7CiAgICAgICAgICAgICRycyA9ICRycy0+am9pbigndHJhaW5pbmdfY2xhc3MnLCBmdW5jdGlvbiAoJGpvaW4pIHVzZSAoJHRyYWluaW5nX2NsYXNzX2lkKSB7CiAgICAgICAgICAgICAgICAkam9pbi0+b24oJ3RyYWluaW5nX2NsYXNzLnVzZXJfaWQnLCAnPScsICdwZXJzb25fYXNzZXNzX2dldC5wZXJzb25faWQnKTsKICAgICAgICAgICAgICAgICRqb2luLT53aGVyZUluKCdpZCcsICR0cmFpbmluZ19jbGFzc19pZCk7CiAgICAgICAgICAgIH0pOwogICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
