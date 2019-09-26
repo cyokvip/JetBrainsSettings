@@ -12,8 +12,8 @@
         <mark key="^" line="17" column="7" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" timestamp="1569463575986">
-        <mark key="'" line="306" column="43" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" timestamp="1569468507238">
+        <mark key="'" line="420" column="54" />
         <mark key="[" line="443" column="21" />
         <mark key="]" line="443" column="27" />
         <mark key="^" line="443" column="27" />
@@ -67,8 +67,8 @@
         <mark key="^" line="703" column="27" />
         <mark key="." line="704" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" timestamp="1569398963261">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" timestamp="1569468545394">
+        <mark key="'" line="282" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_19_172738_add_sales_num_to_manage_assess_table.php" timestamp="1568885637463">
         <mark key="[" line="16" column="63" />
@@ -165,7 +165,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/MessageContent.php" timestamp="1569463634807" />
-      <file name="/Dummy.txt" timestamp="1569467675151">
+      <file name="/Dummy.txt" timestamp="1569468604004">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_09_150923_create_tdf_assess_person_report_table.php" timestamp="1569466544056">
@@ -229,8 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="592" column="24" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
-      <jump line="184" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ManageAssessController.php" />
       <jump line="296" column="19" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="316" column="19" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="349" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
@@ -329,6 +327,8 @@
       <jump line="103" column="26" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" />
       <jump line="408" column="0" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" />
       <jump line="306" column="43" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" />
+      <jump line="282" column="40" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" />
+      <jump line="420" column="54" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
