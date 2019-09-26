@@ -156,7 +156,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569411062948">
+      <file name="/Dummy.txt" timestamp="1569461001869">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_09_150923_create_tdf_assess_person_report_table.php" timestamp="1569382606697">
@@ -181,12 +181,12 @@
         <mark key="]" line="697" column="0" />
         <mark key="." line="697" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" timestamp="1569409408183">
-        <mark key="'" line="841" column="45" />
-        <mark key="[" line="782" column="10" />
-        <mark key="]" line="783" column="9" />
-        <mark key="^" line="783" column="9" />
-        <mark key="." line="783" column="9" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" timestamp="1569460999284">
+        <mark key="'" line="116" column="8" />
+        <mark key="[" line="83" column="45" />
+        <mark key="]" line="83" column="49" />
+        <mark key="^" line="83" column="49" />
+        <mark key="." line="83" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_16_143154_add_default_test_num_to_manage_assess_table.php" timestamp="1568885624095">
         <mark key="[" line="16" column="49" />
@@ -220,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="54" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ManageAssessController.php" />
       <jump line="463" column="40" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="333" column="19" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="588" column="11" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
@@ -320,19 +319,20 @@
       <jump line="783" column="9" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="841" column="45" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="70" column="31" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/ManageAssessController.php" />
+      <jump line="116" column="8" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfWVsc2V7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>photo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC4gJy0tJyAuICRjbGFzc19pbmZvLT5jbGFzc19uYW1l</text>
+        <text>photo</text>
       </register>
       <register name="/" type="4">
         <text>years_of_training</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlaWYgKCRwZXJzb25fYXNzZXNzX2dldF9ycy0+c291cmNlX3R5cGUgPT0gMikgewo=</text>
+        <text encoding="base64">ICAgICAgICAkdXNlcl9pbmZvWydwaG90byddICA9ICRwZXJzb25faW5mby0+cGhvdG87Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfWVsc2V7Cg==</text>
