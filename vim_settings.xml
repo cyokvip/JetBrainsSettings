@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" timestamp="1569568183924">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" timestamp="1569731382724">
         <mark key="'" line="170" column="0" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="^" line="193" column="155" />
-        <mark key="." line="194" column="0" />
+        <mark key="[" line="430" column="38" />
+        <mark key="]" line="430" column="41" />
+        <mark key="." line="430" column="41" />
+        <mark key="^" line="430" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Libraries/Pdf.php" timestamp="1568596859019">
         <mark key="[" line="18" column="0" />
@@ -435,10 +435,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8x44CB5bCGNOS4que7tOW6pumhueS4re+8jCDlubPlnYfliIbvvJw077yM5LiU77yc6KGM5Lia5bmz5Z2H5YiG55qE57u05bqm5ZCN56ew5pi+56S65Ye65p2lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAn5pyq5byA5Y+RJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>token</text>
@@ -447,31 +447,31 @@
         <text encoding="base64">ICAgICAgICAkaW5kaXZpZHVhbF9wcm9mZXNzaW9uYWxfbGV2ZWwgPSBbXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8x44CB5bCGNOS4que7tOW6pumhueS4re+8jCDlubPlnYfliIbvvJw077yM5LiU77yc6KGM5Lia5bmz5Z2H5YiG55qE57u05bqm5ZCN56ew5pi+56S65Ye65p2lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAn5pyq5byA5Y+RJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vaWYoJGsyWydzY29yZSddPj0kYXZnICYmICRrMlsnc2NvcmUnXTw0KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGNfcnMgPSBUcmFpbmluZ0NsYXNzOjpmaW5kKCR0cmFpbmluZ19jbGFzc19pZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8y44CB5ZCM5pe25Lmf6ZyA6KaB5YWz5rOo55qE5piv77ya6Zi25q615YiG5pWw4oml6KGM5Lia5bmz5Z2H5YiG77yM5L2G5piv77ycNOWIhueahOmYtuauteihjOS4muW5s+Wdh+WIhgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghZW1wdHkoJHRyYWluaW5nX2NsYXNzX2lkKSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9pZigkazJbJ3Njb3JlJ108NCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgaWYgKCRwb2ludF9tZXRob2QgPT0gMSkgewogICAgICAgICAgICAgICAgICAgICRwb2ludF90eXBlID0gMTEwOy8v5aKe5YqgCiAgICAgICAgICAgICAgICB9IGVsc2Ugew==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGlmICgkcG9pbnRfbWV0aG9kID09IDEpIHsKICAgICAgICAgICAgICAgICAgICAkcG9pbnRfdHlwZSA9IDExMDsvL+WinuWKoAogICAgICAgICAgICAgICAgfSBlbHNlIHs=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
