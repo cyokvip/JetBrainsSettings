@@ -77,11 +77,11 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_10_08_134910_add_is_use_banner_to_manage_assess_table.php" timestamp="1570513761060" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassMember.php" timestamp="1570587958698" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1570584559365">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1570614922845">
         <mark key="'" line="86" column="38" />
         <mark key="[" line="191" column="8" />
-        <mark key="]" line="191" column="8" />
-        <mark key="." line="191" column="8" />
+        <mark key="]" line="191" column="9" />
+        <mark key="." line="191" column="9" />
         <mark key="^" line="191" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/PersonOrderController.php" timestamp="1570588128900">
@@ -143,7 +143,7 @@
         <mark key="." line="16" column="48" />
         <mark key="^" line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyPerson.php" timestamp="1570588461399">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyPerson.php" timestamp="1570614915563">
         <mark key="[" line="425" column="41" />
         <mark key="]" line="425" column="40" />
         <mark key="." line="425" column="40" />
@@ -254,7 +254,7 @@
         <mark key="." line="136" column="22" />
         <mark key="^" line="136" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1570605361324">
+      <file name="/Dummy.txt" timestamp="1570615259821">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_09_150923_create_tdf_assess_person_report_table.php" timestamp="1569466544056">
