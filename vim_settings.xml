@@ -70,8 +70,8 @@
         <mark key="." line="85" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_10_08_134910_add_is_use_banner_to_manage_assess_table.php" timestamp="1570513761060" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1569723036448">
-        <mark key="'" line="173" column="55" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1570584559365">
+        <mark key="'" line="86" column="38" />
         <mark key="[" line="191" column="8" />
         <mark key="]" line="191" column="8" />
         <mark key="." line="191" column="8" />
@@ -117,11 +117,6 @@
         <mark key="." line="244" column="11" />
         <mark key="^" line="244" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessReportAttachment.php" timestamp="1568183741083">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="6" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TdfAssessController.php" timestamp="1569234245465">
         <mark key="'" line="99" column="79" />
         <mark key="[" line="34" column="0" />
@@ -135,12 +130,7 @@
         <mark key="." line="16" column="48" />
         <mark key="^" line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Common/Controllers/ApiAppController.php" timestamp="1569724152439">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyPerson.php" timestamp="1569572757182">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyPerson.php" timestamp="1570583821857">
         <mark key="[" line="47" column="65" />
         <mark key="]" line="47" column="65" />
         <mark key="." line="47" column="65" />
@@ -213,16 +203,6 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/Oss.php" timestamp="1569295874300">
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/AppBannerController.php" timestamp="1568798601996">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Jobs/SendEmail.php" timestamp="1569299478528">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="53" column="52" />
@@ -261,7 +241,7 @@
         <mark key="." line="136" column="22" />
         <mark key="^" line="136" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1570515430013">
+      <file name="/Dummy.txt" timestamp="1570584712677">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_09_150923_create_tdf_assess_person_report_table.php" timestamp="1569466544056">
@@ -269,11 +249,6 @@
         <mark key="]" line="21" column="47" />
         <mark key="." line="21" column="47" />
         <mark key="^" line="21" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/CompanyAppBanner.php" timestamp="1568798581862">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_29_172454_add_info_xy__to_tdf_assess_person_report_table.php" timestamp="1569749600820">
         <mark key="[" line="28" column="59" />
@@ -286,11 +261,6 @@
         <mark key="]" line="68" column="35" />
         <mark key="." line="68" column="35" />
         <mark key="^" line="48" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/PersonController.php" timestamp="1569220133210">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1570501385781">
         <mark key="'" line="1680" column="48" />
@@ -345,7 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="18" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="212" column="30" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/ManageAssessController.php" />
       <jump line="44" column="27" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ManageAssessController.php" />
       <jump line="292" column="21" filename="$USER_HOME$/Documents/dev/www/platform/routes/api/company.php" />
@@ -445,13 +414,14 @@
       <jump line="422" column="42" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="743" column="31" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="512" column="57" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
+      <jump line="86" column="38" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>行业平均水平</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>行业平均水平</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>token</text>
