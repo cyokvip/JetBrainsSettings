@@ -49,7 +49,7 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_10_08_134910_add_is_use_banner_to_manage_assess_table.php" timestamp="1570513761060" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassMember.php" timestamp="1570587958698" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1570675172176">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1570689254569">
         <mark key="'" line="86" column="38" />
         <mark key="[" line="191" column="8" />
         <mark key="]" line="191" column="9" />
