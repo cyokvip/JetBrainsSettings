@@ -134,12 +134,12 @@
         <mark key="." line="16" column="66" />
         <mark key="^" line="16" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ManageAssessController.php" timestamp="1570788453273">
-        <mark key="'" line="83" column="8" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-        <mark key="^" line="138" column="38" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ManageAssessController.php" timestamp="1570869292797">
+        <mark key="'" line="472" column="0" />
+        <mark key="[" line="103" column="37" />
+        <mark key="]" line="103" column="37" />
+        <mark key="." line="103" column="37" />
+        <mark key="^" line="103" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TdfAssessController.php" timestamp="1569234245465">
         <mark key="'" line="99" column="79" />
@@ -264,7 +264,7 @@
         <mark key="." line="131" column="0" />
         <mark key="^" line="137" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1570866415524">
+      <file name="/Dummy.txt" timestamp="1570869294795">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_09_150923_create_tdf_assess_person_report_table.php" timestamp="1569466544056">
@@ -350,10 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="59" filename="$USER_HOME$/Documents/dev/www/platform/app/Jobs/CreateAssessPdf.php" />
-      <jump line="62" column="61" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/Test.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/Test.php" />
-      <jump line="72" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/Test.php" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/Test.php" />
       <jump line="72" column="4" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
       <jump line="78" column="23" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" />
@@ -450,46 +446,50 @@
       <jump line="190" column="21" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" />
       <jump line="231" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Services/Push.php" />
+      <jump line="135" column="51" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ManageAssessController.php" />
+      <jump line="104" column="49" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ManageAssessController.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ManageAssessController.php" />
+      <jump line="472" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ManageAssessController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhc3Nlc3NfbG9nbycgICAgICAgICAgID0+ICRhc3Nlc3NfbG9nbywK</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>token</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhc3Nlc3NfbG9nbycgICAgICAgICAgPT4gJGFzc2Vzc19sb2dvWyduYW1lJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlcG9ydF9pbmZvPSRyZXBvcnRfcnM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhc3Nlc3NfbG9nbycgICAgICAgICAgID0+ICRhc3Nlc3NfbG9nbywK</text>
+        <text encoding="base64">dXNlIE9TU1xNb2RlbFxPYmplY3RMaXN0SW5mbzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdHlwZV9pZD0xOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdHlwZV9hcnI9JG0tPmdldF9zeXN0ZW1fdHlwZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0Wydhc3Nlc3NfaW5mbyddICAgICA9ICRhc3Nlc3NfaW5mbzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdjb21wYW55X25hbWUnICAgPT4gJGNvbXBhbnlfaW5mby0+Y29tcGFueV9uYW1lLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhc3Nlc3NfbG9nbycgICAgICAgICAgID0+ICRhc3Nlc3NfbG9nbywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdHlwZV9pZD0xOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdHlwZV9hcnI9JG0tPmdldF9zeXN0ZW1fdHlwZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGxpbmtfYXJyWydkZXBhcnRtZW50J109Q29tcGFueVBlcnNvbjo6d2hlcmUoJ3BlcnNvbl9pZCcsJGxpbmtfYXJyWydwZXJzb25faWQnXSktPndoZXJlKCdjb21wYW55X2lkJywkbGlua19hcnJbJ2NvbXBhbnlfaWQnXSktPnZhbHVlKCdkZXBhcnRtZW50Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjb21wYW55X25hbWUnICAgPT4gJGNvbXBhbnlfaW5mby0+Y29tcGFueV9uYW1lLAo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
