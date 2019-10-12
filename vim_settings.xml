@@ -23,7 +23,7 @@
         <mark key="^" line="16" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassTopic.php" timestamp="1570864860574" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/ShortClassMember.php" timestamp="1570865016150">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/ShortClassMember.php" timestamp="1570867653316">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="60" />
         <mark key="^" line="47" column="24" />
@@ -172,7 +172,7 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" timestamp="1570866946263">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Message.php" timestamp="1570867582863">
         <mark key="'" line="63" column="0" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
