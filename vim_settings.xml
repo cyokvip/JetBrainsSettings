@@ -36,12 +36,12 @@
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AuthController.php" timestamp="1571118597736">
         <mark key="'" line="312" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1571132545979">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1571133617368">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="68" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="196" column="8" />
+        <mark key="[" line="85" column="56" />
+        <mark key="]" line="85" column="65" />
+        <mark key="." line="85" column="65" />
+        <mark key="^" line="85" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Assess.php" timestamp="1571109609117">
         <mark key="[" line="68" column="7" />
@@ -127,7 +127,7 @@
         <mark key="." line="131" column="0" />
         <mark key="^" line="137" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571132428622">
+      <file name="/Dummy.txt" timestamp="1571133909254">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -139,6 +139,12 @@
         <mark key="]" line="16" column="80" />
         <mark key="." line="16" column="80" />
         <mark key="^" line="16" column="80" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_07_12_093744_create_company_table.php" timestamp="1571133905858">
+        <mark key="[" line="22" column="74" />
+        <mark key="]" line="22" column="73" />
+        <mark key="." line="22" column="73" />
+        <mark key="^" line="22" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/PersonalController.php" timestamp="1571045067319">
         <mark key="'" line="1480" column="49" />
@@ -253,17 +259,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0Wydjb21wYW55X3NjaG9vbF9pbWFnZSddID0gJGNvbXBhbnlfcnMtPnNjaG9vbF9pbWFnZTsK</text>
+      <register name="&quot;" type="4">
+        <text>用</text>
       </register>
       <register name="-" type="4">
-        <text>empty</text>
+        <text>用</text>
       </register>
       <register name="/" type="4">
         <text>training_class_topic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0Wydjb21wYW55X3NjaG9vbF9pbWFnZSddID0gJGNvbXBhbnlfcnMtPnNjaG9vbF9pbWFnZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdzdGF0dXMnKS0+ZGVmYXVsdCgxKS0+Y29tbWVudCgn54q25oCB77yMMOemgeeUqO+8jDHlkK/nlKgnKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlRXJyb3IoJycsICfmnKrmib7liLDmlbDmja4nKTsK</text>
