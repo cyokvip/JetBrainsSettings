@@ -52,6 +52,7 @@
         <mark key="." line="70" column="96" />
         <mark key="^" line="69" column="126" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassMember.php" timestamp="1571388452726" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1571370739621">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="85" column="56" />
@@ -128,7 +129,7 @@
         <mark key="." line="159" column="37" />
         <mark key="^" line="170" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" timestamp="1571380707559" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassExperience.php" timestamp="1571389065367" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Jobs/CreateAssessPdf.php" timestamp="1571277720595">
         <mark key="'" line="53" column="59" />
         <mark key="[" line="47" column="0" />
