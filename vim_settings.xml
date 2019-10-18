@@ -8,7 +8,7 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" timestamp="1571307274153">
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TrainingController.php" timestamp="1571307285416">
         <mark key="[" line="516" column="150" />
         <mark key="]" line="516" column="150" />
         <mark key="^" line="321" column="142" />
@@ -143,7 +143,7 @@
         <mark key="." line="131" column="0" />
         <mark key="^" line="137" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571307239963">
+      <file name="/Dummy.txt" timestamp="1571307276515">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -181,6 +181,7 @@
         <mark key="^" line="506" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/Chat.php" timestamp="1571024954368" />
+      <file name="/ApiCompanyController.php" timestamp="1571359825233" />
       <file name="$USER_HOME$/Documents/dev/www/platform/vendor/jpush/jpush/src/JPush/DevicePayload.php" timestamp="1571028953497" />
     </filemarks>
     <jumps>
