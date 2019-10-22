@@ -27,24 +27,12 @@
         <mark key="." line="58" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonTrainingGet.php" timestamp="1571306507474" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/app.php" timestamp="1571107467817">
-        <mark key="'" line="273" column="21" />
-        <mark key="[" line="451" column="0" />
-        <mark key="]" line="451" column="0" />
-        <mark key="." line="451" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/config/app.php" timestamp="1571038594649">
         <mark key="'" line="124" column="37" />
         <mark key="[" line="262" column="0" />
         <mark key="]" line="263" column="13" />
         <mark key="^" line="263" column="13" />
         <mark key="." line="263" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonAssessGet.php" timestamp="1571120666760">
-        <mark key="'" line="6" column="6" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingTaskExam.php" timestamp="1571307267946">
         <mark key="[" line="70" column="96" />
@@ -68,12 +56,6 @@
         <mark key="." line="69" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_07_23_165524_create_training_class_member_table.php" timestamp="1571373152344" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassTopicController.php" timestamp="1571119243842">
-        <mark key="'" line="53" column="6" />
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="195" column="0" />
-        <mark key="." line="195" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/TrainingClassController.php" timestamp="1571019075948">
         <mark key="'" line="510" column="37" />
         <mark key="[" line="629" column="91" />
@@ -162,12 +144,6 @@
         <mark key="." line="18" column="5" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/Test.php" timestamp="1571277401446">
-        <mark key="'" line="68" column="42" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/UpdatePersonLoginListener.php" timestamp="1571037552748">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -219,6 +195,7 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/Chat.php" timestamp="1571024954368" />
       <file name="/ApiCompanyController.php" timestamp="1571359825233" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/BiController.php" timestamp="1571712982699" />
       <file name="$USER_HOME$/Documents/dev/www/platform/vendor/jpush/jpush/src/JPush/DevicePayload.php" timestamp="1571028953497" />
     </filemarks>
     <jumps>
