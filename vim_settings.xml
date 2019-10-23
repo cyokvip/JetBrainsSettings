@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/PersonPoint.php" timestamp="1570707234077">
-        <mark key="'" line="170" column="0" />
-        <mark key="[" line="441" column="142" />
-        <mark key="]" line="441" column="180" />
-        <mark key="." line="441" column="180" />
-        <mark key="^" line="441" column="180" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Listeners/SendPushListener.php" timestamp="1571037852656">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -46,13 +39,6 @@
         <mark key="^" line="17" column="7" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/.env.dev" timestamp="1569738376305">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="84" column="15" />
-        <mark key="]" line="84" column="15" />
-        <mark key="^" line="84" column="50" />
-        <mark key="." line="84" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/config/app.php" timestamp="1571038594649">
         <mark key="'" line="124" column="37" />
         <mark key="[" line="262" column="0" />
@@ -66,13 +52,6 @@
         <mark key="^" line="49" column="41" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/ManageAssessController.php" timestamp="1570779229952">
-        <mark key="'" line="169" column="9" />
-        <mark key="[" line="145" column="23" />
-        <mark key="]" line="145" column="23" />
-        <mark key="." line="145" column="23" />
-        <mark key="^" line="145" column="33" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_10_105821_create_person_assess_get_table.php" timestamp="1568857807039">
         <mark key="[" line="20" column="101" />
         <mark key="]" line="20" column="100" />
@@ -84,13 +63,6 @@
         <mark key="]" line="70" column="96" />
         <mark key="." line="70" column="96" />
         <mark key="^" line="69" column="126" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/.env.online" timestamp="1569738408397">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="85" column="34" />
-        <mark key="]" line="85" column="34" />
-        <mark key="^" line="85" column="32" />
-        <mark key="." line="85" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TrainingClassMember.php" timestamp="1571388452726" />
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" timestamp="1571370739621">
@@ -112,13 +84,6 @@
         <mark key="]" line="18" column="56" />
         <mark key="^" line="18" column="56" />
         <mark key="." line="18" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitNewMessageRedMark.php" timestamp="1570779593062">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="23" column="48" />
-        <mark key="^" line="23" column="48" />
-        <mark key="." line="23" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/Assess.php" timestamp="1571109609117">
         <mark key="[" line="68" column="7" />
@@ -167,13 +132,6 @@
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Manage/BlogController.php" timestamp="1571112499455" />
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2018_07_11_155720_create_manage_table.php" timestamp="1571119465542" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/TdfAssessController.php" timestamp="1569234245465">
-        <mark key="'" line="99" column="79" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="7" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_25_113434_add_evaluation_result_to_person_assess_get_table.php" timestamp="1569480529912">
         <mark key="[" line="16" column="47" />
         <mark key="]" line="16" column="48" />
@@ -230,13 +188,6 @@
         <mark key="^" line="105" column="95" />
         <mark key="." line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/storage/logs/sql_2019-09-27.log" timestamp="1569578340608">
-        <mark key="'" line="4208" column="100" />
-        <mark key="[" line="4198" column="134" />
-        <mark key="]" line="4198" column="133" />
-        <mark key="^" line="4198" column="133" />
-        <mark key="." line="4198" column="133" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/ManageAssessController.php" timestamp="1571188173589">
         <mark key="'" line="210" column="36" />
         <mark key="[" line="159" column="37" />
@@ -255,20 +206,6 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="48" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Console/Commands/InitCompanyAppModuleHome.php" timestamp="1570785837438">
-        <mark key="'" line="60" column="22" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="49" column="28" />
-        <mark key="." line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/ManageAssess.php" timestamp="1569288606137">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="20" column="2" />
-        <mark key="]" line="20" column="2" />
-        <mark key="^" line="20" column="12" />
-        <mark key="." line="20" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/AppLogController.php" timestamp="1571032141707">
         <mark key="[" line="27" column="0" />
@@ -318,7 +255,7 @@
         <mark key="." line="131" column="0" />
         <mark key="^" line="137" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571792515115">
+      <file name="/Dummy.txt" timestamp="1571800744227">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -373,12 +310,12 @@
         <mark key="." line="506" column="16" />
         <mark key="^" line="506" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" timestamp="1571733202831">
-        <mark key="'" line="6" column="6" />
-        <mark key="[" line="28" column="37" />
-        <mark key="]" line="28" column="38" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" timestamp="1571800735260">
+        <mark key="'" line="973" column="9" />
+        <mark key="[" line="1036" column="92" />
+        <mark key="]" line="1036" column="92" />
         <mark key="^" line="28" column="38" />
-        <mark key="." line="28" column="38" />
+        <mark key="." line="1036" column="92" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/app/Services/Chat.php" timestamp="1571024954368" />
       <file name="$USER_HOME$/Documents/dev/www/platform/database/migrations/2019_09_16_143154_add_default_test_num_to_manage_assess_table.php" timestamp="1568885624095">
@@ -414,13 +351,6 @@
         <mark key="." line="37" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/vendor/jpush/jpush/src/JPush/DevicePayload.php" timestamp="1571028953497" />
-      <file name="$USER_HOME$/Documents/dev/www/platform/routes/api/manage.php" timestamp="1570706998548">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="530" column="18" />
-        <mark key="]" line="530" column="23" />
-        <mark key="." line="530" column="23" />
-        <mark key="^" line="530" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/www/platform/resources/views/emails/manage_assess_report.blade.php" timestamp="1569288166130">
         <mark key="[" line="1" column="35" />
         <mark key="]" line="1" column="42" />
@@ -435,7 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="416" column="0" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ManageAssessController.php" />
       <jump line="173" column="55" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" />
       <jump line="50" column="5" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="235" column="34" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ManageAssessController.php" />
@@ -535,13 +464,14 @@
       <jump line="23" column="20" filename="$USER_HOME$/Documents/dev/www/platform/app/Jobs/SendEmail.php" />
       <jump line="334" column="27" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/BiController.php" />
       <jump line="6" column="6" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
+      <jump line="973" column="9" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>training_class_topic</text>
