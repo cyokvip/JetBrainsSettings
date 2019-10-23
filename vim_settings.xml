@@ -310,8 +310,8 @@
         <mark key="." line="506" column="16" />
         <mark key="^" line="506" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" timestamp="1571800735260">
-        <mark key="'" line="973" column="9" />
+      <file name="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" timestamp="1571802439996">
+        <mark key="'" line="1019" column="8" />
         <mark key="[" line="1036" column="92" />
         <mark key="]" line="1036" column="92" />
         <mark key="^" line="28" column="38" />
@@ -365,7 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="55" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/CompanyController.php" />
       <jump line="50" column="5" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="235" column="34" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/App/ManageAssessController.php" />
       <jump line="439" column="18" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
@@ -465,6 +464,7 @@
       <jump line="334" column="27" filename="$USER_HOME$/Documents/dev/www/platform/app/Http/Controllers/Api/Company/BiController.php" />
       <jump line="6" column="6" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
       <jump line="973" column="9" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
+      <jump line="1019" column="8" filename="$USER_HOME$/Documents/dev/www/platform/app/Models/TdfAssessPersonReport.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
